@@ -1,0 +1,130 @@
+import mongoose, { Schema } from "mongoose";
+let connection;
+function models() {
+  const person = {
+    name: String,
+    email: { type: String, lowercase: true, trim: true },
+    phone: String,
+    location: String,
+    page: String,
+    message: String,
+    status: String,
+    adminNote: String,
+  };
+  const leadSchema = new Schema(
+    { ...person, source: String },
+    { timestamps: true },
+  );
+  const careerSchema = new Schema(
+    {
+      ...person,
+      position: String,
+      experience: String,
+      resume: {
+        filename: String,
+        contentType: String,
+        data: Buffer,
+        externalUrl: String,
+      },
+    },
+    { timestamps: true },
+  );
+  const activitySchema = new Schema(
+    {
+      entityType: String,
+      entityId: Schema.Types.ObjectId,
+      entityName: String,
+      action: String,
+      description: String,
+      actorName: String,
+      actorRole: String,
+    },
+    { timestamps: { createdAt: true, updatedAt: false } },
+  );
+  const brochureSchema = new Schema(
+    {
+      filename: String,
+      contentType: String,
+      size: Number,
+      data: { type: Buffer, select: false },
+      active: Boolean,
+      uploadedByName: String,
+    },
+    { timestamps: true },
+  );
+  return {
+    Lead: mongoose.models.Lead || mongoose.model("Lead", leadSchema),
+    Career:
+      mongoose.models.CareerApplication ||
+      mongoose.model("CareerApplication", careerSchema),
+    Activity:
+      mongoose.models.Activity || mongoose.model("Activity", activitySchema),
+    Brochure:
+      mongoose.models.Brochure || mongoose.model("Brochure", brochureSchema),
+  };
+}
+async function connect(uri) {
+  if (!uri)
+    throw Object.assign(new Error("Lead storage is not configured."), {
+      status: 503,
+    });
+  if (!connection)
+    connection = mongoose
+      .connect(uri, { bufferCommands: false, serverSelectionTimeoutMS: 5000 })
+      .catch((error) => {
+        connection = undefined;
+        throw error;
+      });
+  await connection;
+}
+export function createMongoRepository(uri) {
+  return {
+    async saveLead(data) {
+      await connect(uri);
+      const { Lead, Activity } = models();
+      const lead = await Lead.create({
+        ...data,
+        source: "Website",
+        status: "New",
+        adminNote: "",
+      });
+      await Activity.create({
+        entityType: "lead",
+        entityId: lead._id,
+        entityName: lead.name,
+        action: "created",
+        description: "Lead submitted through the website",
+        actorName: "Website",
+        actorRole: "website",
+      });
+      return lead;
+    },
+    async saveCareer(data) {
+      await connect(uri);
+      const { Career, Activity } = models();
+      const career = await Career.create({
+        ...data,
+        status: "New",
+        adminNote: "",
+      });
+      await Activity.create({
+        entityType: "career",
+        entityId: career._id,
+        entityName: career.name,
+        action: "created",
+        description: "Career application submitted through the website",
+        actorName: "Website",
+        actorRole: "website",
+      });
+      return career;
+    },
+    async getActiveBrochure() {
+      await connect(uri);
+      const { Brochure } = models();
+      return Brochure.findOne({ active: true })
+        .sort({ createdAt: -1 })
+        .select("+data filename contentType size")
+        .lean();
+    },
+  };
+}
