@@ -571,8 +571,8 @@
     "schemas": []
   },
   "career-details": {
-    "title": "Elevators",
-    "meta": [],
+    "title": "Elevator Career Details | BG Elevators",
+    "meta": [{ "name": "description", "content": "View elevator industry career details, responsibilities and opportunities available with the BG Elevators team in Bangalore." }],
     "canonical": "https://www.bgelevators.com/career-details",
     "schemas": []
   },
@@ -2904,15 +2904,19 @@
     "schemas": []
   },
   "projects": {
-    "title": "Project",
+    "title": "Elevator Projects in Bangalore | BG Elevators",
     "meta": [
       {
         "property": "og:title",
-        "content": "Project"
+        "content": "Elevator Projects in Bangalore | BG Elevators"
       },
       {
         "property": "twitter:title",
-        "content": "Project"
+        "content": "Elevator Projects in Bangalore | BG Elevators"
+      },
+      {
+        "name": "description",
+        "content": "Explore completed residential, commercial and industrial elevator projects delivered by BG Elevators across Bangalore."
       }
     ],
     "canonical": "https://www.bgelevators.com/projects",
@@ -3027,8 +3031,8 @@
     "schemas": []
   },
   "service-details": {
-    "title": "Elevators",
-    "meta": [],
+    "title": "Elevator Service Details | BG Elevators",
+    "meta": [{ "name": "description", "content": "Review BG Elevators installation, modernization, repair and maintenance service details for lifts in Bangalore." }],
     "canonical": "https://www.bgelevators.com/service-details",
     "schemas": []
   },
@@ -3168,8 +3172,8 @@
     "schemas": []
   },
   "thank-you": {
-    "title": "",
-    "meta": [],
+    "title": "Thank You | BG Elevators",
+    "meta": [{ "name": "robots", "content": "noindex,nofollow,noarchive" }],
     "canonical": "https://www.bgelevators.com/thank-you",
     "schemas": []
   },

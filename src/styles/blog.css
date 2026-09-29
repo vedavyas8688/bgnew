@@ -40,6 +40,13 @@
 .article-meta { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px; color: #604c42; font-size: 12px; line-height: 1.5; margin-bottom: 24px; }
 .article-meta > span:first-child { color: #b47a22; }
 .article-meta i { font-style: normal; color: #8d7c72; }
+.article-byline { display:flex; justify-content:center; flex-wrap:wrap; gap:8px; margin:-14px auto 26px; color:#6e625b; font-size:12px; }
+.article-byline i { font-style:normal; color:#a29389; }
+.article-direct-answer { margin:12px 0 22px; padding:14px 16px; border-left:3px solid #b47a22; background:#f7f2e8; color:#3d3029; }
+.article-trust-panel { margin-top:42px; padding:22px; border:1px solid #ded6c8; background:#faf7f0; color:#4d423b; }
+.article-trust-panel > div { display:grid; grid-template-columns:140px 1fr; gap:12px; margin-bottom:10px; }
+.article-trust-panel ul { margin:0; padding-left:18px; }
+.article-trust-panel p { margin:14px 0 0; font-size:13px; }
 .article-header h1 { font-size: clamp(48px, 6.4vw, 88px); color: #211612; font-weight: 600; line-height: 1.02; letter-spacing: -.055em; max-width: 980px; margin: 0 auto 26px; text-align: center; text-wrap: balance; }
 .article-introduction { max-width: 720px; margin: 0 auto 44px; color: #674d40; font-size: 15px; font-weight: 400; line-height: 1.65; text-align: center; text-wrap: pretty; }
 .article-cover { overflow: hidden; border-radius: 16px; background: #eaf2f6; box-shadow: 0 20px 55px rgb(1 32 52 / .10); }

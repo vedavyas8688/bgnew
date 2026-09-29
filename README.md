@@ -119,3 +119,16 @@ For a new regular page, create its page component, section folder and content fi
 `npm run check` validates all rendered routes and exercises form success/error cases using an in-process mail stub. No real email is sent. See `docs/verification.md` for the completed content, asset and responsive checks and their limits.
 #   b g n e w  
  
+## Search visibility setup
+
+The production build generates `public/sitemap.xml` from the canonical, indexable records in `src/data/metadata.json`. Pages marked `noindex` are omitted automatically.
+
+Before the production build, configure:
+
+```env
+VITE_GOOGLE_SITE_VERIFICATION=verification_token_from_search_console
+VITE_GA_MEASUREMENT_ID=G-XXXXXXXXXX
+SITE_URL=https://www.bgelevators.com
+```
+
+After deployment, add `https://www.bgelevators.com` as a Google Search Console URL-prefix property, verify it using the HTML-tag token above, and submit `https://www.bgelevators.com/sitemap.xml`. Analytics is disabled when no measurement ID is configured and respects the browser's Do Not Track setting.

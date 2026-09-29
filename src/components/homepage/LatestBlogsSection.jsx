@@ -17,7 +17,7 @@ export default function LatestBlogsSection({ data }) {
               <div className="h-blog-list-item w-dyn-item" role="listitem" key={index}>
                 <AppLink className="blog-card w-inline-block" href={item.link}>
                   <div className="blog-card-image">
-                    <img alt={item.imageAlt} className="image" loading="lazy" src={item.image} />
+                    <img alt={item.imageAlt || `${item.heading || item.title} — BG Elevators`} className="image" loading="lazy" src={item.image} />
                   </div>
                   <div className="blog-card-center">
                     <div className="blog-card-title-wrap">

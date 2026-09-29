@@ -11,7 +11,7 @@ const maxBytes = 5 * 1024 * 1024;
 const allowedExtensions = new Set([".pdf", ".doc", ".docx"]);
 
 function brochureDownloadPage() {
-  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BG Elevators Brochure</title><style>
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow,noarchive"><title>BG Elevators Brochure</title><style>
   *{box-sizing:border-box}body{margin:0;min-height:100vh;display:grid;place-items:center;padding:24px;background:linear-gradient(145deg,#eef7fb,#fff 55%,#eaf3f8);font-family:Arial,sans-serif;color:#012034}.card{width:min(440px,100%);padding:38px 32px;text-align:center;background:#fff;border:1px solid #dce8ef;border-radius:18px;box-shadow:0 24px 70px rgba(1,32,52,.13)}.mark{width:68px;height:68px;margin:0 auto 22px;display:grid;place-items:center;border-radius:50%;background:#006699;color:#fff}.spinner{width:30px;height:30px;border:3px solid rgba(255,255,255,.35);border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}.check{display:none;font-size:34px}h1{margin:0;font-size:25px;letter-spacing:-.03em}p{margin:10px auto 0;max-width:330px;color:#607686;font-size:14px;line-height:1.6}.progress{height:5px;margin:24px 0 0;overflow:hidden;border-radius:5px;background:#e5eef3}.progress span{display:block;width:35%;height:100%;border-radius:5px;background:#3396d6;animation:progress 1.2s ease-in-out infinite}.retry,.home{display:none;margin-top:22px;padding:11px 18px;border:0;border-radius:7px;background:#006699;color:#fff;font-weight:700;cursor:pointer;text-decoration:none}.ready .spinner{display:none}.ready .check{display:block}.ready .home{display:inline-flex}.ready .progress span{width:100%;animation:none;background:#299466}.error .spinner{display:none}.error .mark{background:#b53a3a}.error .progress{display:none}.error .retry{display:inline-flex}@keyframes spin{to{transform:rotate(360deg)}}@keyframes progress{0%{transform:translateX(-110%)}100%{transform:translateX(300%)}}
   </style></head><body><main class="card" id="card"><div class="mark"><span class="spinner"></span><span class="check">✓</span></div><h1 id="title">Downloading your brochure</h1><p id="message">Please wait while we prepare the latest BG Elevators brochure.</p><div class="progress"><span></span></div><a class="home" href="/">← Back to home</a><button class="retry" id="retry">Try again</button></main><script>
   const card=document.getElementById('card'),title=document.getElementById('title'),message=document.getElementById('message'),retry=document.getElementById('retry');
@@ -95,10 +95,12 @@ export function createApp({
   }
   app.get("/api/health", (req, res) => res.json({ status: "ok" }));
   app.get("/download-brochure", (req, res) => {
+    res.set("X-Robots-Tag", "noindex, nofollow, noarchive");
     res.type("html").send(brochureDownloadPage());
   });
   app.get("/download-brochure/file", async (req, res, next) => {
     try {
+      res.set("X-Robots-Tag", "noindex, nofollow, noarchive");
       const brochure = await store.getActiveBrochure?.();
       res.set("Cache-Control", "no-store, max-age=0");
       if (brochure?.data) {
