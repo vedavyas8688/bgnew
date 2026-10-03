@@ -133,9 +133,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "1. Automatic Rescue Device (ARD)"
-      ]
+      "children": ["1. Automatic Rescue Device (ARD)"]
     },
     " ",
     {
@@ -164,9 +162,7 @@
       "attributes": {
         "id": "section-2"
       },
-      "children": [
-        "2. Door Safety Sensors"
-      ]
+      "children": ["2. Door Safety Sensors"]
     },
     " ",
     {
@@ -185,9 +181,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Benefits include:"
-      ]
+      "children": ["Benefits include:"]
     },
     " ",
     {
@@ -196,30 +190,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Prevents accidental injuries"
-          ]
+          "children": ["Prevents accidental injuries"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Protects children and elderly passengers"
-          ]
+          "children": ["Protects children and elderly passengers"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduces door damage"
-          ]
+          "children": ["Reduces door damage"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensures smoother operation"
-          ]
+          "children": ["Ensures smoother operation"]
         },
         " "
       ]
@@ -237,9 +223,7 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "3. Energy-Saving Sleep Mode"
-      ]
+      "children": ["3. Energy-Saving Sleep Mode"]
     },
     " ",
     {
@@ -251,9 +235,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "During this mode:"
-      ]
+      "children": ["During this mode:"]
     },
     " ",
     {
@@ -262,23 +244,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cabin lights turn off"
-          ]
+          "children": ["Cabin lights turn off"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ventilation fans slow down"
-          ]
+          "children": ["Ventilation fans slow down"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Electronic systems reduce power consumption"
-          ]
+          "children": ["Electronic systems reduce power consumption"]
         },
         " "
       ]
@@ -303,16 +279,12 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "4. Smooth Ride Technology"
-      ]
+      "children": ["4. Smooth Ride Technology"]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Ride comfort depends on more than just speed."
-      ]
+      "children": ["Ride comfort depends on more than just speed."]
     },
     " ",
     {
@@ -324,9 +296,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Smooth ride technology offers several advantages:"
-      ]
+      "children": ["Smooth ride technology offers several advantages:"]
     },
     " ",
     {
@@ -335,30 +305,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Better passenger comfort"
-          ]
+          "children": ["Better passenger comfort"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced noise"
-          ]
+          "children": ["Reduced noise"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Less wear on mechanical parts"
-          ]
+          "children": ["Less wear on mechanical parts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improved reliability"
-          ]
+          "children": ["Improved reliability"]
         },
         " "
       ]
@@ -376,9 +338,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "5. Intelligent Floor Leveling"
-      ]
+      "children": ["5. Intelligent Floor Leveling"]
     },
     " ",
     {
@@ -397,9 +357,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "This feature is particularly useful for:"
-      ]
+      "children": ["This feature is particularly useful for:"]
     },
     " ",
     {
@@ -408,37 +366,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Wheelchair users"
-          ]
+          "children": ["Wheelchair users"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Elderly passengers"
-          ]
+          "children": ["Elderly passengers"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Hospital patients"
-          ]
+          "children": ["Hospital patients"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Children"
-          ]
+          "children": ["Children"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "People carrying heavy items"
-          ]
+          "children": ["People carrying heavy items"]
         },
         " "
       ]
@@ -456,9 +404,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "6. Smart Access Control"
-      ]
+      "children": ["6. Smart Access Control"]
     },
     " ",
     {
@@ -470,9 +416,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Smart access systems may include:"
-      ]
+      "children": ["Smart access systems may include:"]
     },
     " ",
     {
@@ -481,30 +425,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "RFID cards"
-          ]
+          "children": ["RFID cards"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "PIN codes"
-          ]
+          "children": ["PIN codes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Fingerprint authentication"
-          ]
+          "children": ["Fingerprint authentication"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Mobile app access"
-          ]
+          "children": ["Mobile app access"]
         },
         " "
       ]
@@ -529,9 +465,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "7. Voice Announcements and Digital Displays"
-      ]
+      "children": ["7. Voice Announcements and Digital Displays"]
     },
     " ",
     {
@@ -554,30 +488,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Current floor"
-          ]
+          "children": ["Current floor"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Direction of travel"
-          ]
+          "children": ["Direction of travel"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency messages"
-          ]
+          "children": ["Emergency messages"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Maintenance alerts"
-          ]
+          "children": ["Maintenance alerts"]
         },
         " "
       ]
@@ -602,16 +528,12 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "8. Smart Monitoring Systems"
-      ]
+      "children": ["8. Smart Monitoring Systems"]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Modern elevators are becoming more intelligent every year."
-      ]
+      "children": ["Modern elevators are becoming more intelligent every year."]
     },
     " ",
     {
@@ -627,37 +549,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Motor performance"
-          ]
+          "children": ["Motor performance"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door operation"
-          ]
+          "children": ["Door operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Speed"
-          ]
+          "children": ["Speed"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Temperature"
-          ]
+          "children": ["Temperature"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Brake condition"
-          ]
+          "children": ["Brake condition"]
         },
         " "
       ]
@@ -682,9 +594,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "AI-Powered Elevators"
-              ]
+              "children": ["AI-Powered Elevators"]
             }
           ]
         },
@@ -697,9 +607,7 @@
       "attributes": {
         "id": "section-9"
       },
-      "children": [
-        "9. Quiet Motor Technology"
-      ]
+      "children": ["9. Quiet Motor Technology"]
     },
     " ",
     {
@@ -711,9 +619,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "The advantages of quiet motor technology include:"
-      ]
+      "children": ["The advantages of quiet motor technology include:"]
     },
     " ",
     {
@@ -722,37 +628,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Peaceful operation"
-          ]
+          "children": ["Peaceful operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Less vibration"
-          ]
+          "children": ["Less vibration"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Better passenger comfort"
-          ]
+          "children": ["Better passenger comfort"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced maintenance due to smoother performance"
-          ]
+          "children": ["Reduced maintenance due to smoother performance"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improved working and living environment"
-          ]
+          "children": ["Improved working and living environment"]
         },
         " "
       ]
@@ -770,9 +666,7 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "10. Remote Maintenance Support"
-      ]
+      "children": ["10. Remote Maintenance Support"]
     },
     " ",
     {
@@ -791,9 +685,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Benefits include:"
-      ]
+      "children": ["Benefits include:"]
     },
     " ",
     {
@@ -802,37 +694,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faster troubleshooting"
-          ]
+          "children": ["Faster troubleshooting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced downtime"
-          ]
+          "children": ["Reduced downtime"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Better maintenance planning"
-          ]
+          "children": ["Better maintenance planning"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improved passenger safety"
-          ]
+          "children": ["Improved passenger safety"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Longer equipment life"
-          ]
+          "children": ["Longer equipment life"]
         },
         " "
       ]
@@ -850,9 +732,7 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "Things Buyers Should Never Ignore"
-      ]
+      "children": ["Things Buyers Should Never Ignore"]
     },
     " ",
     {
@@ -864,9 +744,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Consider the following:"
-      ]
+      "children": ["Consider the following:"]
     },
     " ",
     {
@@ -875,72 +753,52 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety certifications"
-          ]
+          "children": ["Safety certifications"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy efficiency"
-          ]
+          "children": ["Energy efficiency"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cabin quality"
-          ]
+          "children": ["Cabin quality"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door safety features"
-          ]
+          "children": ["Door safety features"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Motor performance"
-          ]
+          "children": ["Motor performance"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Warranty coverage"
-          ]
+          "children": ["Warranty coverage"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "After-sales support"
-          ]
+          "children": ["After-sales support"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Availability of spare parts"
-          ]
+          "children": ["Availability of spare parts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Maintenance services"
-          ]
+          "children": ["Maintenance services"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Future upgrade options"
-          ]
+          "children": ["Future upgrade options"]
         },
         " "
       ]
@@ -958,9 +816,7 @@
       "attributes": {
         "id": "section-12"
       },
-      "children": [
-        "These Hidden Features Matter"
-      ]
+      "children": ["These Hidden Features Matter"]
     },
     " ",
     {
@@ -989,9 +845,7 @@
       "attributes": {
         "id": "section-13"
       },
-      "children": [
-        "When Should You Consider an Upgrade?"
-      ]
+      "children": ["When Should You Consider an Upgrade?"]
     },
     " ",
     {
@@ -1013,9 +867,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Warning Signs Your Elevator Needs an Upgrade"
-              ]
+              "children": ["Warning Signs Your Elevator Needs an Upgrade"]
             }
           ]
         },
@@ -1029,51 +881,37 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Frequent breakdowns"
-          ]
+          "children": ["Frequent breakdowns"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Slow operation"
-          ]
+          "children": ["Slow operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Unusual noises"
-          ]
+          "children": ["Unusual noises"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Higher electricity consumption"
-          ]
+          "children": ["Higher electricity consumption"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Difficulty finding spare parts"
-          ]
+          "children": ["Difficulty finding spare parts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Outdated control systems"
-          ]
+          "children": ["Outdated control systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Poor ride comfort"
-          ]
+          "children": ["Poor ride comfort"]
         },
         " "
       ]
@@ -1091,9 +929,7 @@
       "attributes": {
         "id": "section-14"
       },
-      "children": [
-        "Tips for Choosing the Right Elevator"
-      ]
+      "children": ["Tips for Choosing the Right Elevator"]
     },
     " ",
     {
@@ -1109,51 +945,37 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Choose an elevator suitable for your building type."
-          ]
+          "children": ["Choose an elevator suitable for your building type."]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Compare safety features before making a decision."
-          ]
+          "children": ["Compare safety features before making a decision."]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Look for energy-efficient technology."
-          ]
+          "children": ["Look for energy-efficient technology."]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check the quality of materials used."
-          ]
+          "children": ["Check the quality of materials used."]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ask about warranty and maintenance support."
-          ]
+          "children": ["Ask about warranty and maintenance support."]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Consider future expansion needs."
-          ]
+          "children": ["Consider future expansion needs."]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Work with experienced installation professionals."
-          ]
+          "children": ["Work with experienced installation professionals."]
         },
         " "
       ]
@@ -1171,9 +993,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Best Elevators company in Bangalore"
-              ]
+              "children": ["Best Elevators company in Bangalore"]
             }
           ]
         },
@@ -1186,9 +1006,7 @@
       "attributes": {
         "id": "section-15"
       },
-      "children": [
-        "Frequently Asked Questions"
-      ]
+      "children": ["Frequently Asked Questions"]
     },
     " ",
     {
@@ -1264,9 +1082,7 @@
       "attributes": {
         "id": "section-20"
       },
-      "children": [
-        "5. How can I choose the right elevator for my building?"
-      ]
+      "children": ["5. How can I choose the right elevator for my building?"]
     },
     " ",
     {
@@ -1281,9 +1097,7 @@
       "attributes": {
         "id": "section-21"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -1305,9 +1119,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },

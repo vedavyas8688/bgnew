@@ -104,9 +104,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "passenger lift"
-                  ]
+                  "children": ["passenger lift"]
                 }
               ]
             }
@@ -152,9 +150,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "What \"Manufacturing Time\" Really Covers"
-              ]
+              "children": ["What \"Manufacturing Time\" Really Covers"]
             }
           ]
         }
@@ -186,9 +182,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "The Elevator Manufacturing Process, Stage by Stage"
-              ]
+              "children": ["The Elevator Manufacturing Process, Stage by Stage"]
             }
           ]
         }
@@ -201,9 +195,7 @@
         "The ",
         {
           "tag": "strong",
-          "children": [
-            "elevator manufacturing process"
-          ]
+          "children": ["elevator manufacturing process"]
         },
         " is more sequential than most buyers expect. Fabrication can't start until drawings are frozen, and drawings can't be frozen until the shaft dimensions are confirmed on site."
       ]
@@ -220,9 +212,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Design freeze and approval drawings"
-              ]
+              "children": ["Design freeze and approval drawings"]
             }
           ]
         }
@@ -247,9 +237,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Fabrication and sourcing"
-              ]
+              "children": ["Fabrication and sourcing"]
             }
           ]
         }
@@ -271,9 +259,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "lift manufacturing"
-                  ]
+                  "children": ["lift manufacturing"]
                 }
               ]
             }
@@ -332,9 +318,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Lift type"
-                      ]
+                      "children": ["Lift type"]
                     },
                     " "
                   ]
@@ -346,9 +330,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Typical capacity"
-                      ]
+                      "children": ["Typical capacity"]
                     },
                     " "
                   ]
@@ -360,9 +342,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Lift production time"
-                      ]
+                      "children": ["Lift production time"]
                     },
                     " "
                   ]
@@ -374,9 +354,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Notes"
-                      ]
+                      "children": ["Notes"]
                     },
                     " "
                   ]
@@ -395,9 +373,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Home lift, standard cabin"
-                      ]
+                      "children": ["Home lift, standard cabin"]
                     },
                     " "
                   ]
@@ -409,9 +385,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "204–272 kg, 3–4 persons"
-                      ]
+                      "children": ["204–272 kg, 3–4 persons"]
                     },
                     " "
                   ]
@@ -423,9 +397,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "6–9 weeks"
-                      ]
+                      "children": ["6–9 weeks"]
                     },
                     " "
                   ]
@@ -458,9 +430,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Passenger lift, MRL"
-                      ]
+                      "children": ["Passenger lift, MRL"]
                     },
                     " "
                   ]
@@ -472,9 +442,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "408–680 kg, 6–10 persons"
-                      ]
+                      "children": ["408–680 kg, 6–10 persons"]
                     },
                     " "
                   ]
@@ -486,9 +454,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "8–12 weeks"
-                      ]
+                      "children": ["8–12 weeks"]
                     },
                     " "
                   ]
@@ -500,9 +466,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Most common apartment specification"
-                      ]
+                      "children": ["Most common apartment specification"]
                     },
                     " "
                   ]
@@ -521,9 +485,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Passenger lift, custom cabin"
-                      ]
+                      "children": ["Passenger lift, custom cabin"]
                     },
                     " "
                   ]
@@ -535,9 +497,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "544–1020 kg"
-                      ]
+                      "children": ["544–1020 kg"]
                     },
                     " "
                   ]
@@ -549,9 +509,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "12–16 weeks"
-                      ]
+                      "children": ["12–16 weeks"]
                     },
                     " "
                   ]
@@ -563,9 +521,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Glass, stainless or designer finishes"
-                      ]
+                      "children": ["Glass, stainless or designer finishes"]
                     },
                     " "
                   ]
@@ -584,9 +540,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Hospital or stretcher lift"
-                      ]
+                      "children": ["Hospital or stretcher lift"]
                     },
                     " "
                   ]
@@ -598,9 +552,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1020–1600 kg"
-                      ]
+                      "children": ["1020–1600 kg"]
                     },
                     " "
                   ]
@@ -612,9 +564,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "12–18 weeks"
-                      ]
+                      "children": ["12–18 weeks"]
                     },
                     " "
                   ]
@@ -626,9 +576,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Wide doors, deeper car, longer fabrication"
-                      ]
+                      "children": ["Wide doors, deeper car, longer fabrication"]
                     },
                     " "
                   ]
@@ -647,9 +595,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Goods lift"
-                      ]
+                      "children": ["Goods lift"]
                     },
                     " "
                   ]
@@ -661,9 +607,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1000–3000 kg"
-                      ]
+                      "children": ["1000–3000 kg"]
                     },
                     " "
                   ]
@@ -675,9 +619,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "12–20 weeks"
-                      ]
+                      "children": ["12–20 weeks"]
                     },
                     " "
                   ]
@@ -689,9 +631,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Heavy structure and custom openings"
-                      ]
+                      "children": ["Heavy structure and custom openings"]
                     },
                     " "
                   ]
@@ -710,9 +650,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Hydraulic lift"
-                      ]
+                      "children": ["Hydraulic lift"]
                     },
                     " "
                   ]
@@ -724,9 +662,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Varies"
-                      ]
+                      "children": ["Varies"]
                     },
                     " "
                   ]
@@ -738,9 +674,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "10–16 weeks"
-                      ]
+                      "children": ["10–16 weeks"]
                     },
                     " "
                   ]
@@ -846,9 +780,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Site readiness"
-              ]
+              "children": ["Site readiness"]
             }
           ]
         }
@@ -873,9 +805,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Mid-project changes"
-              ]
+              "children": ["Mid-project changes"]
             }
           ]
         }
@@ -897,9 +827,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "elevator project timeline"
-                  ]
+                  "children": ["elevator project timeline"]
                 }
               ]
             }
@@ -962,9 +890,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Compressing the Schedule Without Cutting Corners"
-              ]
+              "children": ["Compressing the Schedule Without Cutting Corners"]
             }
           ]
         }
@@ -1031,9 +957,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1051,9 +975,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "1. How early should I place a lift order?"
-              ]
+              "children": ["1. How early should I place a lift order?"]
             }
           ]
         }
@@ -1159,9 +1081,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1190,9 +1110,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Contact BG Elevators today"
-                  ]
+                  "children": ["Contact BG Elevators today"]
                 }
               ]
             }
@@ -1216,9 +1134,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Follow us on Instagram"
-                  ]
+                  "children": ["Follow us on Instagram"]
                 }
               ]
             }

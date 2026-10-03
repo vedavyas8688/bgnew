@@ -101,9 +101,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },
@@ -144,9 +142,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "The Three Measurements That Decide Everything"
-      ]
+      "children": ["The Three Measurements That Decide Everything"]
     },
     " ",
     {
@@ -168,9 +164,7 @@
       "attributes": {
         "id": "section-2"
       },
-      "children": [
-        "Home Elevator Space Requirements: Pit, Shaft and Headroom"
-      ]
+      "children": ["Home Elevator Space Requirements: Pit, Shaft and Headroom"]
     },
     " ",
     {
@@ -185,9 +179,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "home elevator space requirements"
-              ]
+              "children": ["home elevator space requirements"]
             }
           ]
         },
@@ -200,9 +192,7 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "Pit depth"
-      ]
+      "children": ["Pit depth"]
     },
     " ",
     {
@@ -217,9 +207,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "Headroom above the top landing"
-      ]
+      "children": ["Headroom above the top landing"]
     },
     " ",
     {
@@ -234,9 +222,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "Home lift dimensions Bangalore homeowners plan around"
-      ]
+      "children": ["Home lift dimensions Bangalore homeowners plan around"]
     },
     " ",
     {
@@ -251,9 +237,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "home lift dimensions Bangalore"
-              ]
+              "children": ["home lift dimensions Bangalore"]
             }
           ]
         },
@@ -266,9 +250,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "Residential Lift Dimensions by Capacity"
-      ]
+      "children": ["Residential Lift Dimensions by Capacity"]
     },
     " ",
     {
@@ -285,44 +267,32 @@
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Capacity"
-                  ]
+                  "children": ["Capacity"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Persons"
-                  ]
+                  "children": ["Persons"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Internal car (mm)"
-                  ]
+                  "children": ["Internal car (mm)"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Clear shaft (mm)"
-                  ]
+                  "children": ["Clear shaft (mm)"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Pit"
-                  ]
+                  "children": ["Pit"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Headroom"
-                  ]
+                  "children": ["Headroom"]
                 },
                 " "
               ]
@@ -341,44 +311,32 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "204 kg"
-                  ]
+                  "children": ["204 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "3"
-                  ]
+                  "children": ["3"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "800 x 900"
-                  ]
+                  "children": ["800 x 900"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1250 x 1300"
-                  ]
+                  "children": ["1250 x 1300"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "350–900 mm"
-                  ]
+                  "children": ["350–900 mm"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "2500–3400 mm"
-                  ]
+                  "children": ["2500–3400 mm"]
                 },
                 " "
               ]
@@ -390,44 +348,32 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "272 kg"
-                  ]
+                  "children": ["272 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "4"
-                  ]
+                  "children": ["4"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "900 x 1000"
-                  ]
+                  "children": ["900 x 1000"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1400 x 1400"
-                  ]
+                  "children": ["1400 x 1400"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "500–1000 mm"
-                  ]
+                  "children": ["500–1000 mm"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "2600–3500 mm"
-                  ]
+                  "children": ["2600–3500 mm"]
                 },
                 " "
               ]
@@ -439,44 +385,32 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "340 kg"
-                  ]
+                  "children": ["340 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "5"
-                  ]
+                  "children": ["5"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1000 x 1100"
-                  ]
+                  "children": ["1000 x 1100"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1500 x 1500"
-                  ]
+                  "children": ["1500 x 1500"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "900–1100 mm"
-                  ]
+                  "children": ["900–1100 mm"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "2900–3600 mm"
-                  ]
+                  "children": ["2900–3600 mm"]
                 },
                 " "
               ]
@@ -488,44 +422,32 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "408 kg"
-                  ]
+                  "children": ["408 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "6"
-                  ]
+                  "children": ["6"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1100 x 1200"
-                  ]
+                  "children": ["1100 x 1200"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1650 x 1600"
-                  ]
+                  "children": ["1650 x 1600"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1000–1200 mm"
-                  ]
+                  "children": ["1000–1200 mm"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "3200–3700 mm"
-                  ]
+                  "children": ["3200–3700 mm"]
                 },
                 " "
               ]
@@ -537,44 +459,32 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "544 kg"
-                  ]
+                  "children": ["544 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "8"
-                  ]
+                  "children": ["8"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1300 x 1300"
-                  ]
+                  "children": ["1300 x 1300"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1800 x 1750"
-                  ]
+                  "children": ["1800 x 1750"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1100–1400 mm"
-                  ]
+                  "children": ["1100–1400 mm"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "3400–3900 mm"
-                  ]
+                  "children": ["3400–3900 mm"]
                 },
                 " "
               ]
@@ -602,9 +512,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "residential lift dimensions"
-              ]
+              "children": ["residential lift dimensions"]
             }
           ]
         },
@@ -617,9 +525,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "How the Drive Type Changes the Lift Space Required"
-      ]
+      "children": ["How the Drive Type Changes the Lift Space Required"]
     },
     " ",
     {
@@ -638,9 +544,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Machine-room-less traction:"
-              ]
+              "children": ["Machine-room-less traction:"]
             },
             " gearless motor inside the shaft, no machine room, modest headroom, best energy efficiency and the smoothest ride. The usual pick for a new villa or independent house."
           ]
@@ -651,9 +555,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Hydraulic:"
-              ]
+              "children": ["Hydraulic:"]
             },
             " a piston pushes the car, so overhead drops sharply. You need a power pack cabinet nearby, roughly 1000 mm x 700 mm, and oil temperature can be an issue in an unventilated corner. Speed is limited, typically 0.15 to 0.3 m/s."
           ]
@@ -664,9 +566,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Traction with a machine room:"
-              ]
+              "children": ["Traction with a machine room:"]
             },
             " cheapest hardware, but you surrender terrace space and headroom. Rarely worth it in a house today."
           ]
@@ -687,9 +587,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "Doors Take More Room Than People Expect"
-      ]
+      "children": ["Doors Take More Room Than People Expect"]
     },
     " ",
     {
@@ -728,9 +626,7 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "Power, Compliance and Indicative Cost"
-      ]
+      "children": ["Power, Compliance and Indicative Cost"]
     },
     " ",
     {
@@ -752,9 +648,7 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "Frequently Asked Questions"
-      ]
+      "children": ["Frequently Asked Questions"]
     },
     " ",
     {
@@ -779,9 +673,7 @@
       "attributes": {
         "id": "section-13"
       },
-      "children": [
-        "2. Can I install a lift without a pit or machine room?"
-      ]
+      "children": ["2. Can I install a lift without a pit or machine room?"]
     },
     " ",
     {
@@ -796,9 +688,7 @@
       "attributes": {
         "id": "section-14"
       },
-      "children": [
-        "3. Does a home elevator need three-phase power?"
-      ]
+      "children": ["3. Does a home elevator need three-phase power?"]
     },
     " ",
     {
@@ -813,9 +703,7 @@
       "attributes": {
         "id": "section-15"
       },
-      "children": [
-        "4. How long does installation take?"
-      ]
+      "children": ["4. How long does installation take?"]
     },
     " ",
     {
@@ -830,9 +718,7 @@
       "attributes": {
         "id": "section-16"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -854,9 +740,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "contact BG Elevators today"
-              ]
+              "children": ["contact BG Elevators today"]
             }
           ]
         },
@@ -866,9 +750,7 @@
           "attributes": {
             "href": "https://www.instagram.com/bgelevatorsbg/"
           },
-          "children": [
-            "BG Elevators on Instagram"
-          ]
+          "children": ["BG Elevators on Instagram"]
         },
         " and stay connected with the latest updates."
       ]

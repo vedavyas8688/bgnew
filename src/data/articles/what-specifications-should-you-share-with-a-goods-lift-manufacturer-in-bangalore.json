@@ -114,9 +114,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "BG Elevators"
-                  ]
+                  "children": ["BG Elevators"]
                 }
               ]
             }
@@ -162,9 +160,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Why a Vague Enquiry Costs You Twice"
-              ]
+              "children": ["Why a Vague Enquiry Costs You Twice"]
             }
           ]
         }
@@ -193,9 +189,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "industrial lift specifications"
-                  ]
+                  "children": ["industrial lift specifications"]
                 }
               ]
             }
@@ -216,9 +210,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Load: The Number Everything Else Follows From"
-              ]
+              "children": ["Load: The Number Everything Else Follows From"]
             }
           ]
         }
@@ -250,9 +242,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Goods lift requirements beyond the headline load"
-              ]
+              "children": ["Goods lift requirements beyond the headline load"]
             }
           ]
         }
@@ -265,9 +255,7 @@
         "Tell the supplier what the goods physically are. Steel coils concentrate weight on a small footprint and need a stronger platform than the same mass spread across cartons. Liquids in drums shift during travel. Long items may need to load diagonally. Anything hot, wet, corrosive or dusty changes the material choice for the platform and the finish. These ",
         {
           "tag": "strong",
-          "children": [
-            "goods lift requirements"
-          ]
+          "children": ["goods lift requirements"]
         },
         " shape the design far more than the kilogram figure alone."
       ]
@@ -284,9 +272,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Goods Elevator Capacity and Duty Cycle"
-              ]
+              "children": ["Goods Elevator Capacity and Duty Cycle"]
             }
           ]
         }
@@ -304,9 +290,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "How often it runs"
-              ]
+              "children": ["How often it runs"]
             }
           ]
         }
@@ -327,9 +311,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Goods elevator capacity"
-                  ]
+                  "children": ["Goods elevator capacity"]
                 }
               ]
             }
@@ -357,9 +339,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Persons on board"
-              ]
+              "children": ["Persons on board"]
             }
           ]
         }
@@ -422,9 +402,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Specification"
-                      ]
+                      "children": ["Specification"]
                     },
                     " "
                   ]
@@ -436,9 +414,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "What to state"
-                      ]
+                      "children": ["What to state"]
                     },
                     " "
                   ]
@@ -450,9 +426,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Typical range"
-                      ]
+                      "children": ["Typical range"]
                     },
                     " "
                   ]
@@ -471,9 +445,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Rated load"
-                      ]
+                      "children": ["Rated load"]
                     },
                     " "
                   ]
@@ -485,9 +457,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Heaviest load plus handling equipment"
-                      ]
+                      "children": ["Heaviest load plus handling equipment"]
                     },
                     " "
                   ]
@@ -499,9 +469,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "500–5000 kg"
-                      ]
+                      "children": ["500–5000 kg"]
                     },
                     " "
                   ]
@@ -520,9 +488,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Platform size"
-                      ]
+                      "children": ["Platform size"]
                     },
                     " "
                   ]
@@ -548,9 +514,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1200 x 1200 to 2500 x 3000 mm"
-                      ]
+                      "children": ["1200 x 1200 to 2500 x 3000 mm"]
                     },
                     " "
                   ]
@@ -569,9 +533,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Clear door opening"
-                      ]
+                      "children": ["Clear door opening"]
                     },
                     " "
                   ]
@@ -583,9 +545,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Width and height, allow for stacker mast"
-                      ]
+                      "children": ["Width and height, allow for stacker mast"]
                     },
                     " "
                   ]
@@ -597,9 +557,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1200–2500 mm wide"
-                      ]
+                      "children": ["1200–2500 mm wide"]
                     },
                     " "
                   ]
@@ -618,9 +576,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Travel"
-                      ]
+                      "children": ["Travel"]
                     },
                     " "
                   ]
@@ -632,9 +588,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Ground to top served level"
-                      ]
+                      "children": ["Ground to top served level"]
                     },
                     " "
                   ]
@@ -646,9 +600,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "3–25 m typical"
-                      ]
+                      "children": ["3–25 m typical"]
                     },
                     " "
                   ]
@@ -667,9 +619,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Pit depth"
-                      ]
+                      "children": ["Pit depth"]
                     },
                     " "
                   ]
@@ -681,9 +631,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Measured, not assumed"
-                      ]
+                      "children": ["Measured, not assumed"]
                     },
                     " "
                   ]
@@ -695,9 +643,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "300–1600 mm"
-                      ]
+                      "children": ["300–1600 mm"]
                     },
                     " "
                   ]
@@ -716,9 +662,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Headroom"
-                      ]
+                      "children": ["Headroom"]
                     },
                     " "
                   ]
@@ -730,9 +674,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Clear height above top landing"
-                      ]
+                      "children": ["Clear height above top landing"]
                     },
                     " "
                   ]
@@ -744,9 +686,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "3000–4500 mm"
-                      ]
+                      "children": ["3000–4500 mm"]
                     },
                     " "
                   ]
@@ -765,9 +705,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Speed"
-                      ]
+                      "children": ["Speed"]
                     },
                     " "
                   ]
@@ -779,9 +717,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Slower is fine for goods"
-                      ]
+                      "children": ["Slower is fine for goods"]
                     },
                     " "
                   ]
@@ -793,9 +729,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "0.15–0.5 m/s"
-                      ]
+                      "children": ["0.15–0.5 m/s"]
                     },
                     " "
                   ]
@@ -814,9 +748,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Stops and openings"
-                      ]
+                      "children": ["Stops and openings"]
                     },
                     " "
                   ]
@@ -828,9 +760,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Number of stops, sides of entry"
-                      ]
+                      "children": ["Number of stops, sides of entry"]
                     },
                     " "
                   ]
@@ -842,9 +772,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Varies"
-                      ]
+                      "children": ["Varies"]
                     },
                     " "
                   ]
@@ -881,9 +809,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Doors, Gates and Loading Access"
-              ]
+              "children": ["Doors, Gates and Loading Access"]
             }
           ]
         }
@@ -905,9 +831,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "goods lift design"
-                  ]
+                  "children": ["goods lift design"]
                 }
               ]
             }
@@ -935,9 +859,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Drive Type, Power and Site Conditions"
-              ]
+              "children": ["Drive Type, Power and Site Conditions"]
             }
           ]
         }
@@ -955,9 +877,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Hydraulic against traction"
-              ]
+              "children": ["Hydraulic against traction"]
             }
           ]
         }
@@ -982,9 +902,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Power and environment"
-              ]
+              "children": ["Power and environment"]
             }
           ]
         }
@@ -1043,9 +961,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "The Checklist to Send With Your Enquiry"
-              ]
+              "children": ["The Checklist to Send With Your Enquiry"]
             }
           ]
         }
@@ -1065,16 +981,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "What the goods physically are, and how they're loaded."
-          ]
+          "children": ["What the goods physically are, and how they're loaded."]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Platform length and width required."
-          ]
+          "children": ["Platform length and width required."]
         },
         " ",
         {
@@ -1100,16 +1012,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Trips per hour at peak and hours of operation."
-          ]
+          "children": ["Trips per hour at peak and hours of operation."]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Power supply details and DG availability."
-          ]
+          "children": ["Power supply details and DG availability."]
         },
         " ",
         {
@@ -1121,9 +1029,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Whether personnel will travel with the load."
-          ]
+          "children": ["Whether personnel will travel with the load."]
         },
         " "
       ]
@@ -1147,9 +1053,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1167,9 +1071,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "How much does a goods lift cost?"
-              ]
+              "children": ["How much does a goods lift cost?"]
             }
           ]
         }
@@ -1221,9 +1123,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Do goods lifts need a licence in Karnataka?"
-              ]
+              "children": ["Do goods lifts need a licence in Karnataka?"]
             }
           ]
         }
@@ -1276,9 +1176,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1307,9 +1205,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Contact BG Elevators today"
-                  ]
+                  "children": ["Contact BG Elevators today"]
                 }
               ]
             }
@@ -1333,9 +1229,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Follow us on Instagram"
-                  ]
+                  "children": ["Follow us on Instagram"]
                 }
               ]
             }

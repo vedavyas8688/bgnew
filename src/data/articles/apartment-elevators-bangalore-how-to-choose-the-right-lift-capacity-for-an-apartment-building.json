@@ -89,9 +89,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Apartment Elevators Bangalore"
-                  ]
+                  "children": ["Apartment Elevators Bangalore"]
                 }
               ]
             }
@@ -116,9 +114,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Start With People, Not Kilograms"
-              ]
+              "children": ["Start With People, Not Kilograms"]
             }
           ]
         }
@@ -199,9 +195,7 @@
                   "children": [
                     {
                       "tag": "strong",
-                      "children": [
-                        "apartment lift capacity"
-                      ]
+                      "children": ["apartment lift capacity"]
                     }
                   ]
                 }
@@ -214,9 +208,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " "
-              ]
+              "children": [" "]
             }
           ]
         },
@@ -235,9 +227,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Rated load versus real usage"
-              ]
+              "children": ["Rated load versus real usage"]
             }
           ]
         }
@@ -262,9 +252,7 @@
                   "children": [
                     {
                       "tag": "strong",
-                      "children": [
-                        "residential elevator capacity"
-                      ]
+                      "children": ["residential elevator capacity"]
                     }
                   ]
                 }
@@ -287,9 +275,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Apartment elevator size and car dimensions"
-              ]
+              "children": ["Apartment elevator size and car dimensions"]
             }
           ]
         }
@@ -314,9 +300,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Passenger Lift Capacity by Building Size"
-              ]
+              "children": ["Passenger Lift Capacity by Building Size"]
             }
           ]
         }
@@ -348,9 +332,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Building"
-                      ]
+                      "children": ["Building"]
                     },
                     " "
                   ]
@@ -362,9 +344,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Flats served"
-                      ]
+                      "children": ["Flats served"]
                     },
                     " "
                   ]
@@ -376,9 +356,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Suggested capacity"
-                      ]
+                      "children": ["Suggested capacity"]
                     },
                     " "
                   ]
@@ -390,9 +368,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Car (mm)"
-                      ]
+                      "children": ["Car (mm)"]
                     },
                     " "
                   ]
@@ -404,9 +380,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Speed"
-                      ]
+                      "children": ["Speed"]
                     },
                     " "
                   ]
@@ -418,9 +392,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Lifts"
-                      ]
+                      "children": ["Lifts"]
                     },
                     " "
                   ]
@@ -439,9 +411,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "G+3"
-                      ]
+                      "children": ["G+3"]
                     },
                     " "
                   ]
@@ -453,9 +423,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "up to 12"
-                      ]
+                      "children": ["up to 12"]
                     },
                     " "
                   ]
@@ -467,9 +435,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "408 kg / 6 person"
-                      ]
+                      "children": ["408 kg / 6 person"]
                     },
                     " "
                   ]
@@ -481,9 +447,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1100 x 1200"
-                      ]
+                      "children": ["1100 x 1200"]
                     },
                     " "
                   ]
@@ -495,9 +459,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "0.5–1.0 m/s"
-                      ]
+                      "children": ["0.5–1.0 m/s"]
                     },
                     " "
                   ]
@@ -509,9 +471,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1"
-                      ]
+                      "children": ["1"]
                     },
                     " "
                   ]
@@ -530,9 +490,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "G+4 to G+6"
-                      ]
+                      "children": ["G+4 to G+6"]
                     },
                     " "
                   ]
@@ -544,9 +502,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "12–28"
-                      ]
+                      "children": ["12–28"]
                     },
                     " "
                   ]
@@ -558,9 +514,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "544 kg / 8 person"
-                      ]
+                      "children": ["544 kg / 8 person"]
                     },
                     " "
                   ]
@@ -572,9 +526,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1300 x 1300"
-                      ]
+                      "children": ["1300 x 1300"]
                     },
                     " "
                   ]
@@ -586,9 +538,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1.0 m/s"
-                      ]
+                      "children": ["1.0 m/s"]
                     },
                     " "
                   ]
@@ -600,9 +550,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1–2"
-                      ]
+                      "children": ["1–2"]
                     },
                     " "
                   ]
@@ -621,9 +569,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "G+7 to G+10"
-                      ]
+                      "children": ["G+7 to G+10"]
                     },
                     " "
                   ]
@@ -635,9 +581,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "28–60"
-                      ]
+                      "children": ["28–60"]
                     },
                     " "
                   ]
@@ -649,9 +593,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "680 kg / 10 person"
-                      ]
+                      "children": ["680 kg / 10 person"]
                     },
                     " "
                   ]
@@ -663,9 +605,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1600 x 1400"
-                      ]
+                      "children": ["1600 x 1400"]
                     },
                     " "
                   ]
@@ -677,9 +617,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1.0–1.5 m/s"
-                      ]
+                      "children": ["1.0–1.5 m/s"]
                     },
                     " "
                   ]
@@ -691,9 +629,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "2"
-                      ]
+                      "children": ["2"]
                     },
                     " "
                   ]
@@ -712,9 +648,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "G+11 to G+15"
-                      ]
+                      "children": ["G+11 to G+15"]
                     },
                     " "
                   ]
@@ -726,9 +660,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "60–120"
-                      ]
+                      "children": ["60–120"]
                     },
                     " "
                   ]
@@ -740,9 +672,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "816 kg / 12 person"
-                      ]
+                      "children": ["816 kg / 12 person"]
                     },
                     " "
                   ]
@@ -754,9 +684,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1800 x 1500"
-                      ]
+                      "children": ["1800 x 1500"]
                     },
                     " "
                   ]
@@ -768,9 +696,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1.5–1.75 m/s"
-                      ]
+                      "children": ["1.5–1.75 m/s"]
                     },
                     " "
                   ]
@@ -782,9 +708,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "2–3"
-                      ]
+                      "children": ["2–3"]
                     },
                     " "
                   ]
@@ -803,9 +727,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Above G+15"
-                      ]
+                      "children": ["Above G+15"]
                     },
                     " "
                   ]
@@ -817,9 +739,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "120+"
-                      ]
+                      "children": ["120+"]
                     },
                     " "
                   ]
@@ -831,9 +751,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1000 kg+"
-                      ]
+                      "children": ["1000 kg+"]
                     },
                     " "
                   ]
@@ -845,9 +763,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "2000 x 1600"
-                      ]
+                      "children": ["2000 x 1600"]
                     },
                     " "
                   ]
@@ -859,9 +775,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1.75–2.5 m/s"
-                      ]
+                      "children": ["1.75–2.5 m/s"]
                     },
                     " "
                   ]
@@ -873,9 +787,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "3+"
-                      ]
+                      "children": ["3+"]
                     },
                     " "
                   ]
@@ -912,9 +824,7 @@
                   "children": [
                     {
                       "tag": "strong",
-                      "children": [
-                        "passenger lift capacity"
-                      ]
+                      "children": ["passenger lift capacity"]
                     }
                   ]
                 }
@@ -937,9 +847,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Stretcher Access and the Things Committees Forget"
-              ]
+              "children": ["Stretcher Access and the Things Committees Forget"]
             }
           ]
         }
@@ -955,9 +863,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Other items worth settling early:"
-      ]
+      "children": ["Other items worth settling early:"]
     },
     " ",
     {
@@ -1067,9 +973,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1115,9 +1019,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "How many lifts does an apartment building need?"
-              ]
+              "children": ["How many lifts does an apartment building need?"]
             }
           ]
         }
@@ -1169,9 +1071,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Do bigger lifts cost much more to run?"
-              ]
+              "children": ["Do bigger lifts cost much more to run?"]
             }
           ]
         }
@@ -1196,9 +1096,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1221,9 +1119,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " "
-              ]
+              "children": [" "]
             }
           ]
         },
@@ -1241,9 +1137,7 @@
                   "children": [
                     {
                       "tag": "strong",
-                      "children": [
-                        "contact BG Elevators"
-                      ]
+                      "children": ["contact BG Elevators"]
                     }
                   ]
                 }
@@ -1256,9 +1150,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " "
-              ]
+              "children": [" "]
             }
           ]
         },
@@ -1275,9 +1167,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " "
-              ]
+              "children": [" "]
             }
           ]
         },
@@ -1295,9 +1185,7 @@
                   "children": [
                     {
                       "tag": "strong",
-                      "children": [
-                        "BG Elevators on Instagram"
-                      ]
+                      "children": ["BG Elevators on Instagram"]
                     }
                   ]
                 }

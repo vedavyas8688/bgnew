@@ -1,4 +1,4 @@
-import { Icon, ContactTrigger } from '@/components/ui';
+import { Icon, ContactTrigger } from "@/components/ui";
 
 export default function VacanciesSection({ data }) {
   return (
@@ -25,7 +25,10 @@ export default function VacanciesSection({ data }) {
                       <div>{item.text}</div>
                       <div className="btn-icon-box">
                         <Icon name="ArrowUpRight" className="up-arrow-icon" />
-                        <Icon name="ArrowUpRight" className="up-arrow-icon is-absolute" />
+                        <Icon
+                          name="ArrowUpRight"
+                          className="up-arrow-icon is-absolute"
+                        />
                       </div>
                     </ContactTrigger>
                   </div>

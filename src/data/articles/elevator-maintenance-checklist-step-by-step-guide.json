@@ -135,9 +135,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "elevators in Bangalore"
-              ]
+              "children": ["elevators in Bangalore"]
             }
           ]
         },
@@ -157,9 +155,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Why Elevator Maintenance is Important"
-          ]
+          "children": ["Why Elevator Maintenance is Important"]
         }
       ]
     },
@@ -177,44 +173,32 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensures passenger safety"
-          ]
+          "children": ["Ensures passenger safety"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Prevents sudden breakdowns"
-          ]
+          "children": ["Prevents sudden breakdowns"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improves performance and efficiency"
-          ]
+          "children": ["Improves performance and efficiency"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Extends the lifespan of components"
-          ]
+          "children": ["Extends the lifespan of components"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduces long-term repair costs"
-          ]
+          "children": ["Reduces long-term repair costs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Keeps the system compliant with safety regulations"
-          ]
+          "children": ["Keeps the system compliant with safety regulations"]
         },
         " "
       ]
@@ -235,9 +219,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Types of Elevator Maintenance"
-          ]
+          "children": ["Types of Elevator Maintenance"]
         }
       ]
     },
@@ -251,9 +233,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Preventive Maintenance"
-              ]
+              "children": [" Preventive Maintenance"]
             }
           ]
         },
@@ -277,9 +257,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Corrective Maintenance"
-              ]
+              "children": [" Corrective Maintenance"]
             }
           ]
         },
@@ -303,9 +281,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Predictive Maintenance"
-              ]
+              "children": [" Predictive Maintenance"]
             }
           ]
         },
@@ -328,9 +304,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Elevator Maintenance Checklist Step-by-Step"
-          ]
+          "children": ["Elevator Maintenance Checklist Step-by-Step"]
         }
       ]
     },
@@ -343,18 +317,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 1: Inspect the Control Panel"
-          ]
+          "children": ["Step 1: Inspect the Control Panel"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "The control panel is the brain of the elevator system."
-      ]
+      "children": ["The control panel is the brain of the elevator system."]
     },
     " ",
     {
@@ -363,30 +333,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check for error codes or warning signals"
-          ]
+          "children": ["Check for error codes or warning signals"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure buttons and indicators are functioning properly"
-          ]
+          "children": ["Ensure buttons and indicators are functioning properly"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Verify proper communication with the elevator system"
-          ]
+          "children": ["Verify proper communication with the elevator system"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect wiring and connections for damage"
-          ]
+          "children": ["Inspect wiring and connections for damage"]
         },
         " "
       ]
@@ -407,9 +369,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 2: Examine the Doors and Door Operators"
-          ]
+          "children": ["Step 2: Examine the Doors and Door Operators"]
         }
       ]
     },
@@ -427,30 +387,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check door opening and closing speed"
-          ]
+          "children": ["Check door opening and closing speed"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure sensors are working correctly"
-          ]
+          "children": ["Ensure sensors are working correctly"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect door tracks for dirt or obstruction"
-          ]
+          "children": ["Inspect door tracks for dirt or obstruction"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lubricate moving parts if necessary"
-          ]
+          "children": ["Lubricate moving parts if necessary"]
         },
         " "
       ]
@@ -471,18 +423,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 3: Check the Elevator Cabin"
-          ]
+          "children": ["Step 3: Check the Elevator Cabin"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "The cabin must be safe and comfortable for passengers."
-      ]
+      "children": ["The cabin must be safe and comfortable for passengers."]
     },
     " ",
     {
@@ -491,30 +439,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect lighting and ventilation"
-          ]
+          "children": ["Inspect lighting and ventilation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure emergency alarm and intercom are working"
-          ]
+          "children": ["Ensure emergency alarm and intercom are working"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check flooring and walls for damage"
-          ]
+          "children": ["Check flooring and walls for damage"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Verify smooth leveling at each floor"
-          ]
+          "children": ["Verify smooth leveling at each floor"]
         },
         " "
       ]
@@ -535,9 +475,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 4: Inspect the Hoistway and Shaft"
-          ]
+          "children": ["Step 4: Inspect the Hoistway and Shaft"]
         }
       ]
     },
@@ -555,30 +493,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check for debris or obstructions"
-          ]
+          "children": ["Check for debris or obstructions"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect guide rails for alignment"
-          ]
+          "children": ["Inspect guide rails for alignment"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure proper lighting in the shaft"
-          ]
+          "children": ["Ensure proper lighting in the shaft"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Verify safety switches and limit devices"
-          ]
+          "children": ["Verify safety switches and limit devices"]
         },
         " "
       ]
@@ -599,18 +529,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 5: Examine the Motor and Machine Room"
-          ]
+          "children": ["Step 5: Examine the Motor and Machine Room"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "The motor drives the entire elevator system."
-      ]
+      "children": ["The motor drives the entire elevator system."]
     },
     " ",
     {
@@ -619,30 +545,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check motor temperature and noise levels"
-          ]
+          "children": ["Check motor temperature and noise levels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect oil levels and lubrication"
-          ]
+          "children": ["Inspect oil levels and lubrication"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure proper ventilation in the machine room"
-          ]
+          "children": ["Ensure proper ventilation in the machine room"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Look for signs of wear and tear"
-          ]
+          "children": ["Look for signs of wear and tear"]
         },
         " "
       ]
@@ -650,9 +568,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Overheating or unusual noise can indicate serious issues."
-      ]
+      "children": ["Overheating or unusual noise can indicate serious issues."]
     },
     " ",
     {
@@ -663,9 +579,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 6: Inspect the Cables and Pulleys"
-          ]
+          "children": ["Step 6: Inspect the Cables and Pulleys"]
         }
       ]
     },
@@ -683,30 +597,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check for fraying or damage"
-          ]
+          "children": ["Check for fraying or damage"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect tension and alignment"
-          ]
+          "children": ["Inspect tension and alignment"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure pulleys are functioning smoothly"
-          ]
+          "children": ["Ensure pulleys are functioning smoothly"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Replace worn-out cables immediately"
-          ]
+          "children": ["Replace worn-out cables immediately"]
         },
         " "
       ]
@@ -727,9 +633,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 7: Test Safety Systems"
-          ]
+          "children": ["Step 7: Test Safety Systems"]
         }
       ]
     },
@@ -747,30 +651,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Test emergency brakes"
-          ]
+          "children": ["Test emergency brakes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Verify overload protection"
-          ]
+          "children": ["Verify overload protection"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check emergency power backup"
-          ]
+          "children": ["Check emergency power backup"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect fire safety features"
-          ]
+          "children": ["Inspect fire safety features"]
         },
         " "
       ]
@@ -778,9 +674,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "These systems must always be in perfect working condition."
-      ]
+      "children": ["These systems must always be in perfect working condition."]
     },
     " ",
     {
@@ -791,18 +685,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 8: Lubrication of Moving Parts"
-          ]
+          "children": ["Step 8: Lubrication of Moving Parts"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Proper lubrication reduces friction and wear."
-      ]
+      "children": ["Proper lubrication reduces friction and wear."]
     },
     " ",
     {
@@ -811,23 +701,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Apply lubrication to gears and bearings"
-          ]
+          "children": ["Apply lubrication to gears and bearings"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure smooth movement of mechanical components"
-          ]
+          "children": ["Ensure smooth movement of mechanical components"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Avoid over-lubrication, which can attract dust"
-          ]
+          "children": ["Avoid over-lubrication, which can attract dust"]
         },
         " "
       ]
@@ -835,9 +719,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Regular lubrication improves efficiency and reduces noise."
-      ]
+      "children": ["Regular lubrication improves efficiency and reduces noise."]
     },
     " ",
     {
@@ -848,9 +730,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 9: Check Electrical Components"
-          ]
+          "children": ["Step 9: Check Electrical Components"]
         }
       ]
     },
@@ -868,30 +748,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect wiring and circuits"
-          ]
+          "children": ["Inspect wiring and circuits"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check voltage levels"
-          ]
+          "children": ["Check voltage levels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure proper grounding"
-          ]
+          "children": ["Ensure proper grounding"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Replace faulty electrical components"
-          ]
+          "children": ["Replace faulty electrical components"]
         },
         " "
       ]
@@ -912,9 +784,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Step 10: Perform Ride Quality Test"
-          ]
+          "children": ["Step 10: Perform Ride Quality Test"]
         }
       ]
     },
@@ -931,9 +801,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "elevator modernization"
-              ]
+              "children": ["elevator modernization"]
             }
           ]
         },
@@ -947,30 +815,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check for vibrations or jerks"
-          ]
+          "children": ["Check for vibrations or jerks"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure smooth acceleration and deceleration"
-          ]
+          "children": ["Ensure smooth acceleration and deceleration"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Verify accurate floor leveling"
-          ]
+          "children": ["Verify accurate floor leveling"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Listen for unusual sounds"
-          ]
+          "children": ["Listen for unusual sounds"]
         },
         " "
       ]
@@ -978,9 +838,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "A smooth ride indicates a well-maintained system."
-      ]
+      "children": ["A smooth ride indicates a well-maintained system."]
     },
     " ",
     {
@@ -991,9 +849,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Monthly Maintenance Tasks"
-          ]
+          "children": ["Monthly Maintenance Tasks"]
         }
       ]
     },
@@ -1004,30 +860,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Basic inspection of all components"
-          ]
+          "children": ["Basic inspection of all components"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cleaning of cabin and doors"
-          ]
+          "children": ["Cleaning of cabin and doors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Checking alarms and indicators"
-          ]
+          "children": ["Checking alarms and indicators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Minor adjustments and lubrication"
-          ]
+          "children": ["Minor adjustments and lubrication"]
         },
         " "
       ]
@@ -1041,9 +889,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Quarterly Maintenance Tasks"
-          ]
+          "children": ["Quarterly Maintenance Tasks"]
         }
       ]
     },
@@ -1054,30 +900,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Detailed inspection of cables and motor"
-          ]
+          "children": ["Detailed inspection of cables and motor"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Testing safety systems"
-          ]
+          "children": ["Testing safety systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Checking electrical panels"
-          ]
+          "children": ["Checking electrical panels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Performance evaluation"
-          ]
+          "children": ["Performance evaluation"]
         },
         " "
       ]
@@ -1091,9 +929,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Annual Maintenance Tasks"
-          ]
+          "children": ["Annual Maintenance Tasks"]
         }
       ]
     },
@@ -1104,30 +940,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Full system inspection"
-          ]
+          "children": ["Full system inspection"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Replacement of worn-out parts"
-          ]
+          "children": ["Replacement of worn-out parts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Load testing"
-          ]
+          "children": ["Load testing"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety certification"
-          ]
+          "children": ["Safety certification"]
         },
         " "
       ]
@@ -1141,9 +969,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Common Elevator Problems and Solutions"
-          ]
+          "children": ["Common Elevator Problems and Solutions"]
         }
       ]
     },
@@ -1157,9 +983,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Elevator Not Moving"
-              ]
+              "children": [" Elevator Not Moving"]
             }
           ]
         },
@@ -1173,16 +997,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cause: Power failure or control issue"
-          ]
+          "children": ["Cause: Power failure or control issue"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Solution: Check power supply and control panel"
-          ]
+          "children": ["Solution: Check power supply and control panel"]
         },
         " "
       ]
@@ -1197,9 +1017,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Door Not Opening/Closing"
-              ]
+              "children": [" Door Not Opening/Closing"]
             }
           ]
         },
@@ -1213,16 +1031,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cause: Sensor or mechanical issue"
-          ]
+          "children": ["Cause: Sensor or mechanical issue"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Solution: Clean sensors and inspect door mechanism"
-          ]
+          "children": ["Solution: Clean sensors and inspect door mechanism"]
         },
         " "
       ]
@@ -1237,9 +1051,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Strange Noises"
-              ]
+              "children": [" Strange Noises"]
             }
           ]
         },
@@ -1253,9 +1065,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cause: Lack of lubrication or worn parts"
-          ]
+          "children": ["Cause: Lack of lubrication or worn parts"]
         },
         " ",
         {
@@ -1277,9 +1087,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Slow Operation"
-              ]
+              "children": [" Slow Operation"]
             }
           ]
         },
@@ -1293,16 +1101,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cause: Motor or control system issue"
-          ]
+          "children": ["Cause: Motor or control system issue"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Solution: Inspect motor and upgrade system if needed"
-          ]
+          "children": ["Solution: Inspect motor and upgrade system if needed"]
         },
         " "
       ]
@@ -1316,9 +1120,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Choosing the Right Maintenance Service"
-          ]
+          "children": ["Choosing the Right Maintenance Service"]
         }
       ]
     },
@@ -1332,9 +1134,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Look for:"
-      ]
+      "children": ["Look for:"]
     },
     " ",
     {
@@ -1343,30 +1143,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Experienced technicians"
-          ]
+          "children": ["Experienced technicians"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "24/7 support availability"
-          ]
+          "children": ["24/7 support availability"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Customized maintenance plans"
-          ]
+          "children": ["Customized maintenance plans"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Quick response time"
-          ]
+          "children": ["Quick response time"]
         },
         " "
       ]
@@ -1384,9 +1176,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "lift service in Bangalore"
-              ]
+              "children": ["lift service in Bangalore"]
             }
           ]
         },
@@ -1402,9 +1192,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Best Practices for Building Owners"
-          ]
+          "children": ["Best Practices for Building Owners"]
         }
       ]
     },
@@ -1415,37 +1203,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Schedule regular maintenance"
-          ]
+          "children": ["Schedule regular maintenance"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Keep a maintenance log"
-          ]
+          "children": ["Keep a maintenance log"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Train staff on basic safety procedures"
-          ]
+          "children": ["Train staff on basic safety procedures"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Avoid overloading the elevator"
-          ]
+          "children": ["Avoid overloading the elevator"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Address issues immediately"
-          ]
+          "children": ["Address issues immediately"]
         },
         " "
       ]
@@ -1466,9 +1244,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "FAQs"
-          ]
+          "children": ["FAQs"]
         }
       ]
     },
@@ -1578,9 +1354,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Conclusion"
-          ]
+          "children": ["Conclusion"]
         }
       ]
     },
@@ -1604,9 +1378,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },

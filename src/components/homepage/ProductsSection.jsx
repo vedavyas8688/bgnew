@@ -1,4 +1,4 @@
-import { AppLink, Icon, Carousel } from '@/components/ui';
+import { AppLink, Icon, Carousel } from "@/components/ui";
 
 export default function ProductsSection({ data }) {
   return (
@@ -9,7 +9,10 @@ export default function ProductsSection({ data }) {
             <div className="badge">{data.text}</div>
             <h2 className="h3">{data.heading}</h2>
           </div>
-          <AppLink className="btn-no-bg w-variant-9157a6cc-b1dc-f378-5af0-fcdeb2013bbf w-inline-block" href={data.link}>
+          <AppLink
+            className="btn-no-bg w-variant-9157a6cc-b1dc-f378-5af0-fcdeb2013bbf w-inline-block"
+            href={data.link}
+          >
             <div className="btn-text">{data.text2}</div>
             <div className="btn-icon-wrap">
               <Icon name="ArrowRight" className="btn-arrow" />
@@ -21,9 +24,18 @@ export default function ProductsSection({ data }) {
             {data.items.map((item, index) => (
               <div className="swiper-slide" key={index}>
                 <div className="h-product-list-item w-dyn-item">
-                  <AppLink className="project-card w-inline-block" href={item.link}>
+                  <AppLink
+                    className="project-card w-inline-block"
+                    href={item.link}
+                  >
                     <div className="product-card-image">
-                      <img alt={item.imageAlt} className="image" loading="lazy" sizes="100vw" src={item.image} />
+                      <img
+                        alt={item.imageAlt}
+                        className="image"
+                        loading="lazy"
+                        sizes="100vw"
+                        src={item.image}
+                      />
                     </div>
                     <div className="project-card-content">
                       <div className="product-card-title-wrap">

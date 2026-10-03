@@ -88,9 +88,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "Understanding the Types of Commercial Elevators"
-      ]
+      "children": ["Understanding the Types of Commercial Elevators"]
     },
     " ",
     {
@@ -102,9 +100,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        " Common Commercial Elevator Types:"
-      ]
+      "children": [" Common Commercial Elevator Types:"]
     },
     " ",
     {
@@ -154,9 +150,7 @@
       "attributes": {
         "id": "section-2"
       },
-      "children": [
-        "1. Load Capacity and Speed Considerations"
-      ]
+      "children": ["1. Load Capacity and Speed Considerations"]
     },
     " ",
     {
@@ -171,9 +165,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Important Factors:"
-          ]
+          "children": ["Important Factors:"]
         }
       ]
     },
@@ -184,9 +176,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Load Rating: Ranges from 500 kg to 5000 kg+"
-          ]
+          "children": ["Load Rating: Ranges from 500 kg to 5000 kg+"]
         },
         " ",
         {
@@ -218,9 +208,7 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "2. Safety Regulation Compliant"
-      ]
+      "children": ["2. Safety Regulation Compliant"]
     },
     " ",
     {
@@ -235,9 +223,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Must-Have Safety Features:"
-          ]
+          "children": ["Must-Have Safety Features:"]
         }
       ]
     },
@@ -248,37 +234,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency alarm and intercom"
-          ]
+          "children": ["Emergency alarm and intercom"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "ARD (Automatic Rescue Device)"
-          ]
+          "children": ["ARD (Automatic Rescue Device)"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Overload sensors"
-          ]
+          "children": ["Overload sensors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Fire-rated doors"
-          ]
+          "children": ["Fire-rated doors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Manual override systems"
-          ]
+          "children": ["Manual override systems"]
         },
         " "
       ]
@@ -296,9 +272,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "3. Design Integration with Building Architecture"
-      ]
+      "children": ["3. Design Integration with Building Architecture"]
     },
     " ",
     {
@@ -313,9 +287,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Design Elements to Consider:"
-          ]
+          "children": ["Design Elements to Consider:"]
         }
       ]
     },
@@ -326,30 +298,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cabin interiors (steel, glass, mirror, or wood finish)"
-          ]
+          "children": ["Cabin interiors (steel, glass, mirror, or wood finish)"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Touch-screen or classic button panels"
-          ]
+          "children": ["Touch-screen or classic button panels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door finish and lighting options"
-          ]
+          "children": ["Door finish and lighting options"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Braille and voice navigation for accessibility"
-          ]
+          "children": ["Braille and voice navigation for accessibility"]
         },
         " "
       ]
@@ -367,9 +331,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "4. Energy Efficiency and Smart Features"
-      ]
+      "children": ["4. Energy Efficiency and Smart Features"]
     },
     " ",
     {
@@ -384,9 +346,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Look For:"
-          ]
+          "children": ["Look For:"]
         }
       ]
     },
@@ -397,30 +357,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regenerative drives that reuse energy"
-          ]
+          "children": ["Regenerative drives that reuse energy"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED cabin lighting with motion sensors"
-          ]
+          "children": ["LED cabin lighting with motion sensors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sleep modes for idle lifts"
-          ]
+          "children": ["Sleep modes for idle lifts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Remote monitoring and diagnostics"
-          ]
+          "children": ["Remote monitoring and diagnostics"]
         },
         " ",
         {
@@ -445,9 +397,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "5. Space Optimization in Shaft and Machine Room"
-      ]
+      "children": ["5. Space Optimization in Shaft and Machine Room"]
     },
     " ",
     {
@@ -462,9 +412,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Elevator Options for Builders:"
-          ]
+          "children": ["Elevator Options for Builders:"]
         }
       ]
     },
@@ -475,23 +423,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Machine-room-less (MRL) elevators"
-          ]
+          "children": ["Machine-room-less (MRL) elevators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Compact gearless traction systems"
-          ]
+          "children": ["Compact gearless traction systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Hydraulic lifts for low-rise buildings"
-          ]
+          "children": ["Hydraulic lifts for low-rise buildings"]
         },
         " "
       ]
@@ -509,9 +451,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "6. Maintenance Planning and AMC Contracts"
-      ]
+      "children": ["6. Maintenance Planning and AMC Contracts"]
     },
     " ",
     {
@@ -526,9 +466,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Service Agreements to Consider:"
-          ]
+          "children": ["Service Agreements to Consider:"]
         }
       ]
     },
@@ -539,30 +477,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Preventive maintenance contracts"
-          ]
+          "children": ["Preventive maintenance contracts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Breakdown support within 4–6 hours"
-          ]
+          "children": ["Breakdown support within 4–6 hours"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "24/7 emergency service availability"
-          ]
+          "children": ["24/7 emergency service availability"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Spare part availability assurance"
-          ]
+          "children": ["Spare part availability assurance"]
         },
         " "
       ]
@@ -577,9 +507,7 @@
           "attributes": {
             "href": "/contact-us"
           },
-          "children": [
-            "Annual Maintenance Contracts (AMCs)"
-          ]
+          "children": ["Annual Maintenance Contracts (AMCs)"]
         },
         " that ensure smooth functioning and reduce service downtime. Builders often negotiate these in advance through their vendor partner—preferably one with a reputation like BG Elevators."
       ]
@@ -590,9 +518,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "7. Cost vs. Value: Making a Smart Investment"
-      ]
+      "children": ["7. Cost vs. Value: Making a Smart Investment"]
     },
     " ",
     {
@@ -607,9 +533,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Builders Should Weigh:"
-          ]
+          "children": ["Builders Should Weigh:"]
         }
       ]
     },
@@ -620,30 +544,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Initial installation cost"
-          ]
+          "children": ["Initial installation cost"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "AMC and repair expenses"
-          ]
+          "children": ["AMC and repair expenses"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy consumption"
-          ]
+          "children": ["Energy consumption"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Expected lifespan and warranty coverage"
-          ]
+          "children": ["Expected lifespan and warranty coverage"]
         },
         " "
       ]
@@ -661,9 +577,7 @@
       "attributes": {
         "id": "section-9"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -682,9 +596,7 @@
           "attributes": {
             "href": "/index"
           },
-          "children": [
-            "Best Elevators in Bangalore"
-          ]
+          "children": ["Best Elevators in Bangalore"]
         },
         ", tailored for performance, compliance, and long-term reliability. Even in residential projects, particularly luxury developments, builders are leaning toward installing the Elevators in Bangalore to meet evolving buyer expectations."
       ]

@@ -1,4 +1,3 @@
-
 export default function BenefitsSection({ data }) {
   return (
     <section className="section">

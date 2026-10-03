@@ -1,4 +1,4 @@
-import { AppLink, Icon } from '@/components/ui';
+import { AppLink, Icon } from "@/components/ui";
 
 export default function UspSection({ data }) {
   return (
@@ -13,7 +13,10 @@ export default function UspSection({ data }) {
               {data.heading}
             </h2>
             <div className="spacer _2-5-rem" />
-            <AppLink className="btn-no-bg w-variant-9157a6cc-b1dc-f378-5af0-fcdeb2013bbf w-inline-block" href={data.link}>
+            <AppLink
+              className="btn-no-bg w-variant-9157a6cc-b1dc-f378-5af0-fcdeb2013bbf w-inline-block"
+              href={data.link}
+            >
               <div className="btn-text">{data.text3}</div>
               <div className="btn-icon-wrap">
                 <Icon name="ArrowRight" className="btn-arrow" />
@@ -23,12 +26,22 @@ export default function UspSection({ data }) {
           <div className="h-service-right">
             {data.items.map((item, index) => (
               <div className="service-card" key={index}>
-                <img alt={item.imageAlt} className="service-card-image" height="52" loading="lazy" src={item.image} width="52" />
+                <img
+                  alt={item.imageAlt}
+                  className="service-card-image"
+                  height="52"
+                  loading="lazy"
+                  src={item.image}
+                  width="52"
+                />
                 <div className="service-card-content">
                   <div className="h5">{item.heading}</div>
                   <p className="text-base text-color-900">{item.description}</p>
                 </div>
-                <AppLink className="btn-no-bg w-variant-9157a6cc-b1dc-f378-5af0-fcdeb2013bbf w-inline-block" href={item.link}>
+                <AppLink
+                  className="btn-no-bg w-variant-9157a6cc-b1dc-f378-5af0-fcdeb2013bbf w-inline-block"
+                  href={item.link}
+                >
                   <div className="btn-text">{item.text}</div>
                   <div className="btn-icon-wrap">
                     <Icon name="ArrowRight" className="btn-arrow" />

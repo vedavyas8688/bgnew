@@ -1,6 +1,7 @@
 import { createHmac, timingSafeEqual } from "node:crypto";
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
+import { cache } from "react";
 import { connectDb } from "./db";
 import { Admin } from "./models";
 const cookieName = "bg_admin_session";
@@ -57,7 +58,7 @@ export async function setSession(account: Omit<AdminSession, "expires">) {
 export async function clearSession() {
   (await cookies()).delete(cookieName);
 }
-export async function getSession(): Promise<AdminSession | null> {
+export const getSession = cache(async (): Promise<AdminSession | null> => {
   const signed = verify((await cookies()).get(cookieName)?.value);
   if (!signed) return null;
   await connectDb();
@@ -76,7 +77,7 @@ export async function getSession(): Promise<AdminSession | null> {
     email: account.email,
     role: account.role || "admin",
   };
-}
+});
 export async function requireAdmin() {
   const session = await getSession();
   if (!session) redirect("/admin/login");

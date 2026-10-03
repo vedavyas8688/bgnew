@@ -101,9 +101,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Commercial Elevators Bangalore"
-              ]
+              "children": ["Commercial Elevators Bangalore"]
             }
           ]
         },
@@ -144,9 +142,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "Start With Traffic, Not With the Brochure"
-      ]
+      "children": ["Start With Traffic, Not With the Brochure"]
     },
     " ",
     {
@@ -185,9 +181,7 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "Commercial lift capacity by building type"
-      ]
+      "children": ["Commercial lift capacity by building type"]
     },
     " ",
     {
@@ -204,37 +198,27 @@
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Building"
-                  ]
+                  "children": ["Building"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Floors"
-                  ]
+                  "children": ["Floors"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Suggested cars"
-                  ]
+                  "children": ["Suggested cars"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Capacity each"
-                  ]
+                  "children": ["Capacity each"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Speed"
-                  ]
+                  "children": ["Speed"]
                 },
                 " "
               ]
@@ -253,37 +237,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "Small office / clinic"
-                  ]
+                  "children": ["Small office / clinic"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "G+3"
-                  ]
+                  "children": ["G+3"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1"
-                  ]
+                  "children": ["1"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "544 kg (8 person)"
-                  ]
+                  "children": ["544 kg (8 person)"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1.0 m/s"
-                  ]
+                  "children": ["1.0 m/s"]
                 },
                 " "
               ]
@@ -295,37 +269,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "Mid-size office"
-                  ]
+                  "children": ["Mid-size office"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "G+6"
-                  ]
+                  "children": ["G+6"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "2"
-                  ]
+                  "children": ["2"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "680 kg (10 person)"
-                  ]
+                  "children": ["680 kg (10 person)"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1.0–1.5 m/s"
-                  ]
+                  "children": ["1.0–1.5 m/s"]
                 },
                 " "
               ]
@@ -337,37 +301,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "Large office block"
-                  ]
+                  "children": ["Large office block"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "G+10"
-                  ]
+                  "children": ["G+10"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "3–4"
-                  ]
+                  "children": ["3–4"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1020 kg (15 person)"
-                  ]
+                  "children": ["1020 kg (15 person)"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1.5–2.0 m/s"
-                  ]
+                  "children": ["1.5–2.0 m/s"]
                 },
                 " "
               ]
@@ -379,37 +333,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "Retail / mixed use"
-                  ]
+                  "children": ["Retail / mixed use"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "G+5"
-                  ]
+                  "children": ["G+5"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "2 + goods lift"
-                  ]
+                  "children": ["2 + goods lift"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1020–1600 kg"
-                  ]
+                  "children": ["1020–1600 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1.0–1.5 m/s"
-                  ]
+                  "children": ["1.0–1.5 m/s"]
                 },
                 " "
               ]
@@ -430,9 +374,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "Speed against travel height"
-      ]
+      "children": ["Speed against travel height"]
     },
     " ",
     {
@@ -447,9 +389,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "Drive Types for an Office Building Elevator"
-      ]
+      "children": ["Drive Types for an Office Building Elevator"]
     },
     " ",
     {
@@ -471,9 +411,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "office building elevator"
-              ]
+              "children": ["office building elevator"]
             }
           ]
         },
@@ -486,9 +424,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "Doors, Dispatch Logic and Ride Comfort"
-      ]
+      "children": ["Doors, Dispatch Logic and Ride Comfort"]
     },
     " ",
     {
@@ -510,9 +446,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "commercial lifts Bangalore"
-              ]
+              "children": ["commercial lifts Bangalore"]
             }
           ]
         },
@@ -529,9 +463,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Simplex collective"
-              ]
+              "children": ["Simplex collective"]
             },
             " for a single car in a small building"
           ]
@@ -542,9 +474,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Duplex or group control"
-              ]
+              "children": ["Duplex or group control"]
             },
             " for two to four cars, dispatching the nearest available unit"
           ]
@@ -555,9 +485,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Destination control"
-              ]
+              "children": ["Destination control"]
             },
             " for larger lobbies, where passengers enter their floor before boarding"
           ]
@@ -568,9 +496,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Peak modes"
-              ]
+              "children": ["Peak modes"]
             },
             " parking cars at the ground lobby in the morning, reversed by evening"
           ]
@@ -591,9 +517,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "Fire Safety, Codes and Statutory Compliance"
-      ]
+      "children": ["Fire Safety, Codes and Statutory Compliance"]
     },
     " ",
     {
@@ -615,9 +539,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "passenger elevator Bangalore"
-              ]
+              "children": ["passenger elevator Bangalore"]
             }
           ]
         },
@@ -672,9 +594,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "Power Supply, Backup and Running Cost"
-      ]
+      "children": ["Power Supply, Backup and Running Cost"]
     },
     " ",
     {
@@ -713,9 +633,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "commercial elevator installation"
-              ]
+              "children": ["commercial elevator installation"]
             }
           ]
         },
@@ -735,9 +653,7 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "Commercial Elevators Bangalore: Indicative Costs and AMC"
-      ]
+      "children": ["Commercial Elevators Bangalore: Indicative Costs and AMC"]
     },
     " ",
     {
@@ -759,9 +675,7 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "Frequently Asked Questions"
-      ]
+      "children": ["Frequently Asked Questions"]
     },
     " ",
     {
@@ -769,9 +683,7 @@
       "attributes": {
         "id": "section-12"
       },
-      "children": [
-        "1. How many lifts does a G+7 office building need?"
-      ]
+      "children": ["1. How many lifts does a G+7 office building need?"]
     },
     " ",
     {
@@ -837,9 +749,7 @@
       "attributes": {
         "id": "section-16"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -861,9 +771,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "contact BG Elevators"
-              ]
+              "children": ["contact BG Elevators"]
             }
           ]
         },
@@ -873,9 +781,7 @@
           "attributes": {
             "href": "https://www.instagram.com/bgelevatorsbg/"
           },
-          "children": [
-            "BG Elevators on Instagram"
-          ]
+          "children": ["BG Elevators on Instagram"]
         },
         " and stay connected with the latest updates."
       ]

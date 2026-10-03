@@ -49,9 +49,7 @@ export default function Sidebar({
             <img src={brandLogo.src} alt="" />
           </span>
           <div>
-            <strong>
-              BG Elevators
-            </strong>
+            <strong>BG Elevators</strong>
             <small>ADMIN WORKSPACE</small>
           </div>
           {mobile && (

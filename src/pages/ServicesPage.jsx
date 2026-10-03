@@ -1,8 +1,8 @@
-import ServicesSection from '@/components/servicespage/ServicesSection';
-import ProcessSection from '@/components/shared/ProcessSection';
-import TestimonialsSection from '@/components/shared/TestimonialsSection';
-import ConsultationSection from '@/components/shared/ConsultationSection';
-import data from '@/data/pages/services.json';
+import ServicesSection from "@/components/servicespage/ServicesSection";
+import ProcessSection from "@/components/shared/ProcessSection";
+import TestimonialsSection from "@/components/shared/TestimonialsSection";
+import ConsultationSection from "@/components/shared/ConsultationSection";
+import data from "@/data/pages/services.json";
 
 export default function ServicesPage() {
   return (

@@ -80,9 +80,7 @@
           "attributes": {
             "href": "/contact-us"
           },
-          "children": [
-            "BG Elevators"
-          ]
+          "children": ["BG Elevators"]
         },
         " is recognized as a top lift company in Bangalore. Their commitment to quality, safety, and design innovation has made them a preferred choice among architects and homeowners alike."
       ]
@@ -101,9 +99,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "Glass Capsule Lifts – For Style & Transparency"
-      ]
+      "children": ["Glass Capsule Lifts – For Style & Transparency"]
     },
     " ",
     {
@@ -115,9 +111,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Features:"
-      ]
+      "children": ["Features:"]
     },
     " ",
     {
@@ -126,30 +120,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "360-degree visibility"
-          ]
+          "children": ["360-degree visibility"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Frameless or minimal steel structures"
-          ]
+          "children": ["Frameless or minimal steel structures"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Custom lighting options"
-          ]
+          "children": ["Custom lighting options"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sleek integration with interiors"
-          ]
+          "children": ["Sleek integration with interiors"]
         },
         " "
       ]
@@ -181,9 +167,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Benefits:"
-      ]
+      "children": ["Benefits:"]
     },
     " ",
     {
@@ -192,30 +176,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smooth and quiet ride"
-          ]
+          "children": ["Smooth and quiet ride"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lower construction and maintenance costs"
-          ]
+          "children": ["Lower construction and maintenance costs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "No overhead machine room required"
-          ]
+          "children": ["No overhead machine room required"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy-efficient for residential use"
-          ]
+          "children": ["Energy-efficient for residential use"]
         },
         " "
       ]
@@ -233,9 +209,7 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "2. Machine-Room-Less (MRL) Lifts – For Modern Urban Homes"
-      ]
+      "children": ["2. Machine-Room-Less (MRL) Lifts – For Modern Urban Homes"]
     },
     " ",
     {
@@ -247,9 +221,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Why Choose MRL Lifts:"
-      ]
+      "children": ["Why Choose MRL Lifts:"]
     },
     " ",
     {
@@ -258,30 +230,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Saves floor and roof space"
-          ]
+          "children": ["Saves floor and roof space"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy-efficient systems"
-          ]
+          "children": ["Energy-efficient systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Stylish and compact design"
-          ]
+          "children": ["Stylish and compact design"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Customizable cabin interiors"
-          ]
+          "children": ["Customizable cabin interiors"]
         },
         " "
       ]
@@ -299,9 +263,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "3. Pitless Lifts – Perfect for Retrofit Projects"
-      ]
+      "children": ["3. Pitless Lifts – Perfect for Retrofit Projects"]
     },
     " ",
     {
@@ -313,9 +275,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Highlights:"
-      ]
+      "children": ["Highlights:"]
     },
     " ",
     {
@@ -324,30 +284,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Minimal structural modifications"
-          ]
+          "children": ["Minimal structural modifications"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Easy to install in existing homes"
-          ]
+          "children": ["Easy to install in existing homes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Suitable for homes with limited space"
-          ]
+          "children": ["Suitable for homes with limited space"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Elegant, user-friendly designs"
-          ]
+          "children": ["Elegant, user-friendly designs"]
         },
         " "
       ]
@@ -365,9 +317,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "4. Custom Luxury Lifts – Tailored to Your Vision"
-      ]
+      "children": ["4. Custom Luxury Lifts – Tailored to Your Vision"]
     },
     " ",
     {
@@ -379,9 +329,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Customization Options:"
-      ]
+      "children": ["Customization Options:"]
     },
     " ",
     {
@@ -390,30 +338,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Premium wood, mirror, or glass finishes"
-          ]
+          "children": ["Premium wood, mirror, or glass finishes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Custom lighting, flooring, and ceiling designs"
-          ]
+          "children": ["Custom lighting, flooring, and ceiling designs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Advanced safety panels and smart access"
-          ]
+          "children": ["Advanced safety panels and smart access"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Voice-guided floor indicators"
-          ]
+          "children": ["Voice-guided floor indicators"]
         },
         " "
       ]
@@ -431,9 +371,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "5. Pneumatic Vacuum Lifts – Futuristic & Space-Saving"
-      ]
+      "children": ["5. Pneumatic Vacuum Lifts – Futuristic & Space-Saving"]
     },
     " ",
     {
@@ -445,9 +383,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Ideal For:"
-      ]
+      "children": ["Ideal For:"]
     },
     " ",
     {
@@ -456,30 +392,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ultra-modern duplexes or villas"
-          ]
+          "children": ["Ultra-modern duplexes or villas"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Compact vertical spaces"
-          ]
+          "children": ["Compact vertical spaces"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Low-maintenance living"
-          ]
+          "children": ["Low-maintenance living"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Homes with high-end design expectations"
-          ]
+          "children": ["Homes with high-end design expectations"]
         },
         " "
       ]
@@ -497,9 +425,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "6. Dumbwaiters – For Utility Transport Inside the Home"
-      ]
+      "children": ["6. Dumbwaiters – For Utility Transport Inside the Home"]
     },
     " ",
     {
@@ -511,9 +437,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Functional Advantages:"
-      ]
+      "children": ["Functional Advantages:"]
     },
     " ",
     {
@@ -522,30 +446,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Compact and space-saving"
-          ]
+          "children": ["Compact and space-saving"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduces daily strain"
-          ]
+          "children": ["Reduces daily strain"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Easy to use and maintain"
-          ]
+          "children": ["Easy to use and maintain"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Can be added to kitchens or utility areas"
-          ]
+          "children": ["Can be added to kitchens or utility areas"]
         },
         " "
       ]
@@ -563,9 +479,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "7. Choosing the Right Lift Design: Key Factors to Consider"
-      ]
+      "children": ["7. Choosing the Right Lift Design: Key Factors to Consider"]
     },
     " ",
     {
@@ -577,9 +491,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Decision Checklist:"
-      ]
+      "children": ["Decision Checklist:"]
     },
     " ",
     {
@@ -591,9 +503,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Space Available:"
-              ]
+              "children": ["Space Available:"]
             },
             " Shaft size, ceiling height, and pit depth"
           ]
@@ -604,9 +514,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Usage Frequency:"
-              ]
+              "children": ["Usage Frequency:"]
             },
             " Daily use vs. occasional support"
           ]
@@ -617,9 +525,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Number of Floors:"
-              ]
+              "children": ["Number of Floors:"]
             },
             " Determines speed and motor power"
           ]
@@ -630,9 +536,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Family Needs:"
-              ]
+              "children": ["Family Needs:"]
             },
             " Elderly, children, or differently-abled members"
           ]
@@ -643,9 +547,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Budget Range:"
-              ]
+              "children": ["Budget Range:"]
             },
             " From economy to premium luxury"
           ]
@@ -656,9 +558,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Maintenance Requirements:"
-              ]
+              "children": ["Maintenance Requirements:"]
             },
             " Long-term service needs"
           ]
@@ -679,9 +579,7 @@
       "attributes": {
         "id": "section-9"
       },
-      "children": [
-        "8. Installation Process & Timeline"
-      ]
+      "children": ["8. Installation Process & Timeline"]
     },
     " ",
     {
@@ -693,9 +591,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Typical Process Flow:"
-      ]
+      "children": ["Typical Process Flow:"]
     },
     " ",
     {
@@ -704,44 +600,32 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Site Visit & Consultation"
-          ]
+          "children": ["Site Visit & Consultation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Architectural Review & Shaft Planning"
-          ]
+          "children": ["Architectural Review & Shaft Planning"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Design Selection & Customization"
-          ]
+          "children": ["Design Selection & Customization"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Civil Coordination & Installation"
-          ]
+          "children": ["Civil Coordination & Installation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Testing & Safety Certification"
-          ]
+          "children": ["Testing & Safety Certification"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Handover & Training"
-          ]
+          "children": ["Handover & Training"]
         },
         " "
       ]
@@ -759,9 +643,7 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "9. Maintenance: The Backbone of Long-Term Safety"
-      ]
+      "children": ["9. Maintenance: The Backbone of Long-Term Safety"]
     },
     " ",
     {
@@ -773,9 +655,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "What Maintenance Covers:"
-      ]
+      "children": ["What Maintenance Covers:"]
     },
     " ",
     {
@@ -784,37 +664,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cable and motor checks"
-          ]
+          "children": ["Cable and motor checks"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety device testing"
-          ]
+          "children": ["Safety device testing"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lubrication and wear inspection"
-          ]
+          "children": ["Lubrication and wear inspection"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cabin hygiene and touchpoint sanitization"
-          ]
+          "children": ["Cabin hygiene and touchpoint sanitization"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency alarm and intercom test"
-          ]
+          "children": ["Emergency alarm and intercom test"]
         },
         " "
       ]
@@ -832,9 +702,7 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -853,9 +721,7 @@
           "attributes": {
             "href": "/services"
           },
-          "children": [
-            "elevator services in Bangalore"
-          ]
+          "children": ["elevator services in Bangalore"]
         },
         " for long-term peace of mind."
       ]

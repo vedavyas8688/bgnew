@@ -1,6 +1,6 @@
-import ContentSection from '@/components/shared/ProductDetailSection';
-import ConsultationSection from '@/components/shared/ConsultationSection';
-import data from '@/data/pages/glass-door.json';
+import ContentSection from "@/components/shared/ProductDetailSection";
+import ConsultationSection from "@/components/shared/ConsultationSection";
+import data from "@/data/pages/glass-door.json";
 
 export default function GlassDoorPage() {
   return (

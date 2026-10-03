@@ -1,21 +1,24 @@
-import { defineConfig, loadEnv } from 'vite';
-import react from '@vitejs/plugin-react';
-import tailwindcss from '@tailwindcss/vite';
-import { fileURLToPath } from 'node:url';
+import { defineConfig, loadEnv } from "vite";
+import react from "@vitejs/plugin-react";
+import tailwindcss from "@tailwindcss/vite";
+import { fileURLToPath } from "node:url";
 
 export default defineConfig(({ mode }) => {
-  const env = loadEnv(mode, process.cwd(), '');
-  const apiPort = env.PORT || '3001';
+  const env = loadEnv(mode, process.cwd(), "");
+  const apiPort = env.PORT || "3001";
 
   return {
     plugins: [react(), tailwindcss()],
-    resolve: { alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) } },
+    resolve: {
+      alias: { "@": fileURLToPath(new URL("./src", import.meta.url)) },
+    },
     server: {
-      host: '0.0.0.0', port: 5173,
-      allowedHosts: ['terminal.local'],
+      host: "0.0.0.0",
+      port: 5173,
+      allowedHosts: ["terminal.local"],
       proxy: {
-        '/api': `http://127.0.0.1:${apiPort}`,
-        '/download-brochure': `http://127.0.0.1:${apiPort}`,
+        "/api": `http://127.0.0.1:${apiPort}`,
+        "/download-brochure": `http://127.0.0.1:${apiPort}`,
       },
     },
     build: { chunkSizeWarningLimit: 900 },

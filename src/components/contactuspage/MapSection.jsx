@@ -1,4 +1,3 @@
-
 export default function MapSection({ data }) {
   return (
     <section className="section">
@@ -9,7 +8,17 @@ export default function MapSection({ data }) {
         </div>
         <div className="map-embed-wrap">
           <div className="map-embed">
-            <iframe allowFullScreen className="image" height="450" loading="lazy" referrerPolicy="no-referrer-when-downgrade" src={data.source} style={{"border": "0"}} width="100%" title="BG Elevators location" />
+            <iframe
+              allowFullScreen
+              className="image"
+              height="450"
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              src={data.source}
+              style={{ border: "0" }}
+              width="100%"
+              title="BG Elevators location"
+            />
           </div>
         </div>
       </div>

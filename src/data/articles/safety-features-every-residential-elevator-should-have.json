@@ -92,9 +92,7 @@
           "attributes": {
             "href": "/contact-us"
           },
-          "children": [
-            "BG Elevators"
-          ]
+          "children": ["BG Elevators"]
         },
         ", a name synonymous with quality and safety in elevators in Bangalore. With a strong reputation for innovation, engineering precision, and code-compliant installations, BG Elevators stands out as a leader in the residential vertical mobility space."
       ]
@@ -113,9 +111,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "Emergency Alarm and Intercom System"
-      ]
+      "children": ["Emergency Alarm and Intercom System"]
     },
     " ",
     {
@@ -127,9 +123,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Key Features:"
-      ]
+      "children": ["Key Features:"]
     },
     " ",
     {
@@ -138,9 +132,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency bell or buzzer to alert nearby residents"
-          ]
+          "children": ["Emergency bell or buzzer to alert nearby residents"]
         },
         " ",
         {
@@ -172,9 +164,7 @@
       "attributes": {
         "id": "section-2"
       },
-      "children": [
-        "1. Automatic Rescue Device (ARD)"
-      ]
+      "children": ["1. Automatic Rescue Device (ARD)"]
     },
     " ",
     {
@@ -186,9 +176,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Benefits of ARD:"
-      ]
+      "children": ["Benefits of ARD:"]
     },
     " ",
     {
@@ -197,30 +185,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Auto-landing feature during power failure"
-          ]
+          "children": ["Auto-landing feature during power failure"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Battery-powered backup for emergency functionality"
-          ]
+          "children": ["Battery-powered backup for emergency functionality"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Prevents panic, especially for elderly or children"
-          ]
+          "children": ["Prevents panic, especially for elderly or children"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Maintains trust in elevator reliability"
-          ]
+          "children": ["Maintains trust in elevator reliability"]
         },
         " "
       ]
@@ -238,9 +218,7 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "2. Door Sensors and Obstruction Detection"
-      ]
+      "children": ["2. Door Sensors and Obstruction Detection"]
     },
     " ",
     {
@@ -252,9 +230,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Sensor Types:"
-      ]
+      "children": ["Sensor Types:"]
     },
     " ",
     {
@@ -270,16 +246,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Pressure sensors to detect resistance and reopen doors"
-          ]
+          "children": ["Pressure sensors to detect resistance and reopen doors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smart delay timers for safe door closing"
-          ]
+          "children": ["Smart delay timers for safe door closing"]
         },
         " "
       ]
@@ -297,9 +269,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "3. Overload Sensor and Alarm"
-      ]
+      "children": ["3. Overload Sensor and Alarm"]
     },
     " ",
     {
@@ -311,9 +281,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "What It Does:"
-      ]
+      "children": ["What It Does:"]
     },
     " ",
     {
@@ -322,30 +290,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Detects when maximum weight is exceeded"
-          ]
+          "children": ["Detects when maximum weight is exceeded"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sounds an alarm and prevents movement"
-          ]
+          "children": ["Sounds an alarm and prevents movement"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Indicates the weight limit visually or audibly"
-          ]
+          "children": ["Indicates the weight limit visually or audibly"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Resets automatically when load is reduced"
-          ]
+          "children": ["Resets automatically when load is reduced"]
         },
         " "
       ]
@@ -363,9 +323,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "4. Anti-Fall Safety Brakes"
-      ]
+      "children": ["4. Anti-Fall Safety Brakes"]
     },
     " ",
     {
@@ -377,9 +335,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Safety Components:"
-      ]
+      "children": ["Safety Components:"]
     },
     " ",
     {
@@ -395,16 +351,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Electromagnetic brakes that engage instantly"
-          ]
+          "children": ["Electromagnetic brakes that engage instantly"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Backup braking systems in case of primary failure"
-          ]
+          "children": ["Backup braking systems in case of primary failure"]
         },
         " "
       ]
@@ -422,9 +374,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "5. Emergency Lighting and Ventilation"
-      ]
+      "children": ["5. Emergency Lighting and Ventilation"]
     },
     " ",
     {
@@ -436,9 +386,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Important Details:"
-      ]
+      "children": ["Important Details:"]
     },
     " ",
     {
@@ -447,23 +395,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Battery-operated LED lights inside the cabin"
-          ]
+          "children": ["Battery-operated LED lights inside the cabin"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Small exhaust fans or ventilation slots"
-          ]
+          "children": ["Small exhaust fans or ventilation slots"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Compact systems that activate during power failure"
-          ]
+          "children": ["Compact systems that activate during power failure"]
         },
         " "
       ]
@@ -481,9 +423,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "6. Manual Override and Maintenance Lock"
-      ]
+      "children": ["6. Manual Override and Maintenance Lock"]
     },
     " ",
     {
@@ -495,9 +435,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Benefits:"
-      ]
+      "children": ["Benefits:"]
     },
     " ",
     {
@@ -506,23 +444,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Allows manual cabin movement in emergencies"
-          ]
+          "children": ["Allows manual cabin movement in emergencies"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Prevents unauthorized tampering"
-          ]
+          "children": ["Prevents unauthorized tampering"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Essential for regular safety inspections"
-          ]
+          "children": ["Essential for regular safety inspections"]
         },
         " "
       ]
@@ -540,9 +472,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "7. Child Lock and Access Control"
-      ]
+      "children": ["7. Child Lock and Access Control"]
     },
     " ",
     {
@@ -554,9 +484,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Safety Enhancements:"
-      ]
+      "children": ["Safety Enhancements:"]
     },
     " ",
     {
@@ -565,23 +493,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Keypad access, fingerprint scan, or RFID control"
-          ]
+          "children": ["Keypad access, fingerprint scan, or RFID control"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Floor lock-out functions to restrict access"
-          ]
+          "children": ["Floor lock-out functions to restrict access"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Voice alerts for unauthorized use"
-          ]
+          "children": ["Voice alerts for unauthorized use"]
         },
         " "
       ]
@@ -599,9 +521,7 @@
       "attributes": {
         "id": "section-9"
       },
-      "children": [
-        "8. Smooth Start-Stop System"
-      ]
+      "children": ["8. Smooth Start-Stop System"]
     },
     " ",
     {
@@ -613,9 +533,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Comfort Safety:"
-      ]
+      "children": ["Comfort Safety:"]
     },
     " ",
     {
@@ -624,23 +542,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Variable frequency drives (VFD) for soft acceleration"
-          ]
+          "children": ["Variable frequency drives (VFD) for soft acceleration"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Microprocessor-controlled braking"
-          ]
+          "children": ["Microprocessor-controlled braking"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Jerk-free transitions between floors"
-          ]
+          "children": ["Jerk-free transitions between floors"]
         },
         " "
       ]
@@ -658,9 +570,7 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "9. Fire Safety Features"
-      ]
+      "children": ["9. Fire Safety Features"]
     },
     " ",
     {
@@ -672,9 +582,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Fire Safety Protocols:"
-      ]
+      "children": ["Fire Safety Protocols:"]
     },
     " ",
     {
@@ -683,16 +591,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Auto-parking at designated floors"
-          ]
+          "children": ["Auto-parking at designated floors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cabin recall to prevent use during fire"
-          ]
+          "children": ["Cabin recall to prevent use during fire"]
         },
         " ",
         {
@@ -717,9 +621,7 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "Why Choosing the Right Installer Matters"
-      ]
+      "children": ["Why Choosing the Right Installer Matters"]
     },
     " ",
     {
@@ -734,9 +636,7 @@
       "attributes": {
         "id": "section-12"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -762,9 +662,7 @@
           "attributes": {
             "href": "/contact-us"
           },
-          "children": [
-            "elevators company in Bangalore"
-          ]
+          "children": ["elevators company in Bangalore"]
         },
         ", BG Elevators not only provides high-quality systems but also long-term maintenance and support, making them the ideal choice for homeowners who prioritize both safety and style."
       ]

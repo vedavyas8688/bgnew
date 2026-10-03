@@ -1,4 +1,4 @@
-import { Carousel } from '@/components/ui';
+import { Carousel } from "@/components/ui";
 
 export default function ProjectsSection({ data }) {
   return (
@@ -19,11 +19,19 @@ export default function ProjectsSection({ data }) {
               <div className="h-product-list-item w-dyn-item" role="listitem">
                 <div className="project-card w-inline-block">
                   <div className="product-card-image">
-                    <img alt={item.imageAlt} className="image" loading="lazy" sizes="100vw" src={item.image} />
+                    <img
+                      alt={item.imageAlt}
+                      className="image"
+                      loading="lazy"
+                      sizes="100vw"
+                      src={item.image}
+                    />
                   </div>
                   <div className="project-card-content">
                     <div className="product-card-title-wrap">
-                      <div className="product-card-price medium">{item.text}</div>
+                      <div className="product-card-price medium">
+                        {item.text}
+                      </div>
                       <div className="h6 secondary-900">{item.heading}</div>
                     </div>
                   </div>

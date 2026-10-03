@@ -1,4 +1,3 @@
-
 export default function ContentSection({ data }) {
   return (
     <section className="section">
@@ -10,7 +9,13 @@ export default function ContentSection({ data }) {
           </div>
           <h1 className="h3">{data.heading2}</h1>
         </div>
-        <img alt={data.imageAlt} className="inner-cover" loading="lazy" sizes="100vw" src={data.image} />
+        <img
+          alt={data.imageAlt}
+          className="inner-cover"
+          loading="lazy"
+          sizes="100vw"
+          src={data.image}
+        />
         <div className="service-rich-text w-richtext">
           <h2>{data.heading3}</h2>
           {data.items.map((item, index) => (
@@ -34,7 +39,13 @@ export default function ContentSection({ data }) {
             </ul>
           </div>
           <div className="service-inner-grid-right">
-            <img alt={data.imageAlt2} className="service-side-image" loading="lazy" sizes="100vw" src={data.image2} />
+            <img
+              alt={data.imageAlt2}
+              className="service-side-image"
+              loading="lazy"
+              sizes="100vw"
+              src={data.image2}
+            />
           </div>
         </div>
       </div>

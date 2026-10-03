@@ -1,4 +1,4 @@
-import { AppLink } from '@/components/ui';
+import { AppLink } from "@/components/ui";
 
 export default function ContentSection({ data }) {
   return (
@@ -87,7 +87,13 @@ export default function ContentSection({ data }) {
             {data.description13}
             <br />
             {data.description14}
-            <AppLink href={data.link2} target="_blank" rel="noopener noreferrer">{data.label2}</AppLink>
+            <AppLink
+              href={data.link2}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {data.label2}
+            </AppLink>
           </p>
           <h4>
             <strong>{data.text13}</strong>

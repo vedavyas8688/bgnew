@@ -106,9 +106,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "lift showroom in Bangalore"
-              ]
+              "children": ["lift showroom in Bangalore"]
             }
           ]
         },
@@ -135,9 +133,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "What Are AI-Powered Elevators?"
-          ]
+          "children": ["What Are AI-Powered Elevators?"]
         }
       ]
     },
@@ -158,9 +154,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "These elevators use technologies such as:"
-      ]
+      "children": ["These elevators use technologies such as:"]
     },
     " ",
     {
@@ -169,37 +163,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Artificial Intelligence (AI)"
-          ]
+          "children": ["Artificial Intelligence (AI)"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Machine Learning"
-          ]
+          "children": ["Machine Learning"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Internet of Things (IoT)"
-          ]
+          "children": ["Internet of Things (IoT)"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cloud Connectivity"
-          ]
+          "children": ["Cloud Connectivity"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Predictive Analytics"
-          ]
+          "children": ["Predictive Analytics"]
         },
         " "
       ]
@@ -220,9 +204,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "How AI Is Transforming Elevator Systems"
-          ]
+          "children": ["How AI Is Transforming Elevator Systems"]
         }
       ]
     },
@@ -250,9 +232,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "This leads to:"
-      ]
+      "children": ["This leads to:"]
     },
     " ",
     {
@@ -261,30 +241,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faster service"
-          ]
+          "children": ["Faster service"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced waiting times"
-          ]
+          "children": ["Reduced waiting times"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Better energy efficiency"
-          ]
+          "children": ["Better energy efficiency"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improved passenger experience"
-          ]
+          "children": ["Improved passenger experience"]
         },
         " "
       ]
@@ -298,9 +270,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "The Role of Smart Buildings"
-          ]
+          "children": ["The Role of Smart Buildings"]
         }
       ]
     },
@@ -314,9 +284,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "These buildings often include:"
-      ]
+      "children": ["These buildings often include:"]
     },
     " ",
     {
@@ -325,37 +293,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smart lighting systems"
-          ]
+          "children": ["Smart lighting systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Automated climate control"
-          ]
+          "children": ["Automated climate control"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Security monitoring systems"
-          ]
+          "children": ["Security monitoring systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Intelligent energy management"
-          ]
+          "children": ["Intelligent energy management"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Connected elevator systems"
-          ]
+          "children": ["Connected elevator systems"]
         },
         " "
       ]
@@ -383,9 +341,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Benefits of AI-Powered Elevators"
-          ]
+          "children": ["Benefits of AI-Powered Elevators"]
         }
       ]
     },
@@ -398,9 +354,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "1. Reduced Waiting Times"
-          ]
+          "children": ["1. Reduced Waiting Times"]
         }
       ]
     },
@@ -434,9 +388,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "2. Improved Energy Efficiency"
-          ]
+          "children": ["2. Improved Energy Efficiency"]
         }
       ]
     },
@@ -470,9 +422,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "3. Enhanced Passenger Experience"
-          ]
+          "children": ["3. Enhanced Passenger Experience"]
         }
       ]
     },
@@ -486,9 +436,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Passengers benefit from:"
-      ]
+      "children": ["Passengers benefit from:"]
     },
     " ",
     {
@@ -497,30 +445,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faster travel times"
-          ]
+          "children": ["Faster travel times"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced congestion"
-          ]
+          "children": ["Reduced congestion"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Better ride quality"
-          ]
+          "children": ["Better ride quality"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "More reliable operation"
-          ]
+          "children": ["More reliable operation"]
         },
         " "
       ]
@@ -541,9 +481,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "4. Smarter Traffic Management"
-          ]
+          "children": ["4. Smarter Traffic Management"]
         }
       ]
     },
@@ -557,9 +495,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "AI systems can analyze:"
-      ]
+      "children": ["AI systems can analyze:"]
     },
     " ",
     {
@@ -568,30 +504,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Passenger flow"
-          ]
+          "children": ["Passenger flow"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Occupancy levels"
-          ]
+          "children": ["Occupancy levels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Travel patterns"
-          ]
+          "children": ["Travel patterns"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Floor demand"
-          ]
+          "children": ["Floor demand"]
         },
         " "
       ]
@@ -612,9 +540,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Predictive Maintenance: A Major Advantage"
-          ]
+          "children": ["Predictive Maintenance: A Major Advantage"]
         }
       ]
     },
@@ -642,9 +568,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "This allows building managers to:"
-      ]
+      "children": ["This allows building managers to:"]
     },
     " ",
     {
@@ -653,30 +577,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Prevent unexpected breakdowns"
-          ]
+          "children": ["Prevent unexpected breakdowns"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduce repair costs"
-          ]
+          "children": ["Reduce repair costs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improve safety"
-          ]
+          "children": ["Improve safety"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Increase equipment lifespan"
-          ]
+          "children": ["Increase equipment lifespan"]
         },
         " "
       ]
@@ -697,9 +613,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "How Machine Learning Improves Elevator Performance"
-          ]
+          "children": ["How Machine Learning Improves Elevator Performance"]
         }
       ]
     },
@@ -720,9 +634,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Examples include:"
-      ]
+      "children": ["Examples include:"]
     },
     " ",
     {
@@ -731,30 +643,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Learning daily traffic patterns"
-          ]
+          "children": ["Learning daily traffic patterns"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Optimizing elevator dispatching"
-          ]
+          "children": ["Optimizing elevator dispatching"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Predicting maintenance needs"
-          ]
+          "children": ["Predicting maintenance needs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improving energy usage"
-          ]
+          "children": ["Improving energy usage"]
         },
         " "
       ]
@@ -779,9 +683,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "lift suppliers in Bangalore"
-              ]
+              "children": ["lift suppliers in Bangalore"]
             }
           ]
         },
@@ -797,18 +699,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "AI and Elevator Safety"
-          ]
+          "children": ["AI and Elevator Safety"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Safety remains a top priority in elevator design."
-      ]
+      "children": ["Safety remains a top priority in elevator design."]
     },
     " ",
     {
@@ -820,9 +718,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "The system can detect:"
-      ]
+      "children": ["The system can detect:"]
     },
     " ",
     {
@@ -831,30 +727,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Unusual vibrations"
-          ]
+          "children": ["Unusual vibrations"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door malfunctions"
-          ]
+          "children": ["Door malfunctions"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Motor performance issues"
-          ]
+          "children": ["Motor performance issues"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Electrical irregularities"
-          ]
+          "children": ["Electrical irregularities"]
         },
         " "
       ]
@@ -882,9 +770,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Contactless Elevator Technology"
-          ]
+          "children": ["Contactless Elevator Technology"]
         }
       ]
     },
@@ -898,9 +784,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "AI-powered elevators can support features such as:"
-      ]
+      "children": ["AI-powered elevators can support features such as:"]
     },
     " ",
     {
@@ -909,30 +793,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Mobile app controls"
-          ]
+          "children": ["Mobile app controls"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Voice commands"
-          ]
+          "children": ["Voice commands"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Facial recognition access"
-          ]
+          "children": ["Facial recognition access"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Destination control systems"
-          ]
+          "children": ["Destination control systems"]
         },
         " "
       ]
@@ -953,9 +829,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Data-Driven Building Management"
-          ]
+          "children": ["Data-Driven Building Management"]
         }
       ]
     },
@@ -969,9 +843,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Property managers can gain insights into:"
-      ]
+      "children": ["Property managers can gain insights into:"]
     },
     " ",
     {
@@ -980,30 +852,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Elevator usage trends"
-          ]
+          "children": ["Elevator usage trends"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Traffic patterns"
-          ]
+          "children": ["Traffic patterns"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Maintenance requirements"
-          ]
+          "children": ["Maintenance requirements"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy consumption"
-          ]
+          "children": ["Energy consumption"]
         },
         " "
       ]
@@ -1024,9 +888,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Environmental Benefits of AI Elevators"
-          ]
+          "children": ["Environmental Benefits of AI Elevators"]
         }
       ]
     },
@@ -1040,9 +902,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "AI-powered elevators contribute to environmental goals by:"
-      ]
+      "children": ["AI-powered elevators contribute to environmental goals by:"]
     },
     " ",
     {
@@ -1051,30 +911,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reducing energy waste"
-          ]
+          "children": ["Reducing energy waste"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Optimizing elevator movement"
-          ]
+          "children": ["Optimizing elevator movement"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lowering electricity consumption"
-          ]
+          "children": ["Lowering electricity consumption"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Supporting green building initiatives"
-          ]
+          "children": ["Supporting green building initiatives"]
         },
         " "
       ]
@@ -1095,9 +947,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Future Trends in AI-Powered Elevators"
-          ]
+          "children": ["Future Trends in AI-Powered Elevators"]
         }
       ]
     },
@@ -1111,9 +961,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Emerging trends include:"
-      ]
+      "children": ["Emerging trends include:"]
     },
     " ",
     {
@@ -1121,9 +969,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Personalized User Experiences"
-          ]
+          "children": ["Personalized User Experiences"]
         }
       ]
     },
@@ -1140,9 +986,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Advanced Building Integration"
-          ]
+          "children": ["Advanced Building Integration"]
         }
       ]
     },
@@ -1159,9 +1003,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Improved Predictive Analytics"
-          ]
+          "children": ["Improved Predictive Analytics"]
         }
       ]
     },
@@ -1178,9 +1020,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Enhanced Accessibility"
-          ]
+          "children": ["Enhanced Accessibility"]
         }
       ]
     },
@@ -1200,9 +1040,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Why Smart Buildings Need AI-Powered Elevators"
-          ]
+          "children": ["Why Smart Buildings Need AI-Powered Elevators"]
         }
       ]
     },
@@ -1223,9 +1061,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "By integrating AI, building owners can improve:"
-      ]
+      "children": ["By integrating AI, building owners can improve:"]
     },
     " ",
     {
@@ -1234,37 +1070,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Operational efficiency"
-          ]
+          "children": ["Operational efficiency"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Occupant comfort"
-          ]
+          "children": ["Occupant comfort"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy management"
-          ]
+          "children": ["Energy management"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Maintenance planning"
-          ]
+          "children": ["Maintenance planning"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Long-term asset performance"
-          ]
+          "children": ["Long-term asset performance"]
         },
         " "
       ]
@@ -1289,9 +1115,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "best elevators company in Bangalore"
-              ]
+              "children": ["best elevators company in Bangalore"]
             }
           ]
         },
@@ -1307,9 +1131,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "FAQs"
-          ]
+          "children": ["FAQs"]
         }
       ]
     },
@@ -1419,9 +1241,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Conclusion"
-          ]
+          "children": ["Conclusion"]
         }
       ]
     },
@@ -1445,9 +1265,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },

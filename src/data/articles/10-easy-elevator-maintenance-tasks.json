@@ -87,9 +87,7 @@
           "attributes": {
             "href": "/index"
           },
-          "children": [
-            "Best Lift Company in Bangalore"
-          ]
+          "children": ["Best Lift Company in Bangalore"]
         },
         " and a leader in installation and service, emphasize that proactive care is the key to elevator longevity. In this blog, we’ll guide you through 10 easy elevator maintenance tasks that anyone responsible for a building or home elevator can follow to keep it running smoothly between service visits."
       ]
@@ -101,9 +99,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "Maintain a Clean Elevator Cabin for Optimal Performance"
-      ]
+      "children": ["Maintain a Clean Elevator Cabin for Optimal Performance"]
     },
     " ",
     {
@@ -115,9 +111,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Key Areas to Clean:"
-      ]
+      "children": ["Key Areas to Clean:"]
     },
     " ",
     {
@@ -133,9 +127,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Flooring – Vacuum or mop depending on the surface type"
-          ]
+          "children": ["Flooring – Vacuum or mop depending on the surface type"]
         },
         " ",
         {
@@ -167,9 +159,7 @@
       "attributes": {
         "id": "section-2"
       },
-      "children": [
-        "1. Inspect and Clean Door Tracks"
-      ]
+      "children": ["1. Inspect and Clean Door Tracks"]
     },
     " ",
     {
@@ -181,9 +171,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "DIY Task:"
-      ]
+      "children": ["DIY Task:"]
     },
     " ",
     {
@@ -192,23 +180,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Use a brush or vacuum to clean tracks "
-          ]
+          "children": ["Use a brush or vacuum to clean tracks "]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect for rust or misalignment"
-          ]
+          "children": ["Inspect for rust or misalignment"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure smooth door glide without resistance"
-          ]
+          "children": ["Ensure smooth door glide without resistance"]
         },
         " "
       ]
@@ -240,9 +222,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "To Do:"
-      ]
+      "children": ["To Do:"]
     },
     " ",
     {
@@ -251,23 +231,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Inspect cabin lights monthly"
-          ]
+          "children": ["Inspect cabin lights monthly"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Replace flickering or burned-out bulbs"
-          ]
+          "children": ["Replace flickering or burned-out bulbs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Opt for energy-efficient LED lighting"
-          ]
+          "children": ["Opt for energy-efficient LED lighting"]
         },
         " "
       ]
@@ -285,9 +259,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "3. Listen for Unusual Noises"
-      ]
+      "children": ["3. Listen for Unusual Noises"]
     },
     " ",
     {
@@ -299,9 +271,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "How to Monitor:"
-      ]
+      "children": ["How to Monitor:"]
     },
     " ",
     {
@@ -310,23 +280,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ride the elevator weekly during idle times"
-          ]
+          "children": ["Ride the elevator weekly during idle times"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Note changes in sound during operation"
-          ]
+          "children": ["Note changes in sound during operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Report new or persistent noises promptly"
-          ]
+          "children": ["Report new or persistent noises promptly"]
         },
         " "
       ]
@@ -344,9 +308,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "4. Test the Emergency Alarm and Intercom"
-      ]
+      "children": ["4. Test the Emergency Alarm and Intercom"]
     },
     " ",
     {
@@ -358,9 +320,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Monthly Testing Checklist:"
-      ]
+      "children": ["Monthly Testing Checklist:"]
     },
     " ",
     {
@@ -369,9 +329,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Press the emergency button to check alarm function"
-          ]
+          "children": ["Press the emergency button to check alarm function"]
         },
         " ",
         {
@@ -383,9 +341,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Backup power systems for operation during outages"
-          ]
+          "children": ["Backup power systems for operation during outages"]
         },
         " "
       ]
@@ -403,9 +359,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "Observe Door Operation Timing"
-      ]
+      "children": ["Observe Door Operation Timing"]
     },
     " ",
     {
@@ -417,9 +371,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Observe For:"
-      ]
+      "children": ["Observe For:"]
     },
     " ",
     {
@@ -428,23 +380,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door open and close speed "
-          ]
+          "children": ["Door open and close speed "]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smoothness and sound of door movement "
-          ]
+          "children": ["Smoothness and sound of door movement "]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Re-opening if obstructed (sensor test)"
-          ]
+          "children": ["Re-opening if obstructed (sensor test)"]
         },
         " "
       ]
@@ -462,9 +408,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "6. Keep the Machine Room Clean and Accessible"
-      ]
+      "children": ["6. Keep the Machine Room Clean and Accessible"]
     },
     " ",
     {
@@ -476,9 +420,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Tips:"
-      ]
+      "children": ["Tips:"]
     },
     " ",
     {
@@ -487,16 +429,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Keep room free from storage items "
-          ]
+          "children": ["Keep room free from storage items "]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure ventilation is working"
-          ]
+          "children": ["Ensure ventilation is working"]
         },
         " ",
         {
@@ -521,9 +459,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "7. Ensure Elevator Signage is Visible and Up-to-Date"
-      ]
+      "children": ["7. Ensure Elevator Signage is Visible and Up-to-Date"]
     },
     " ",
     {
@@ -535,9 +471,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Signage Checklist:"
-      ]
+      "children": ["Signage Checklist:"]
     },
     " ",
     {
@@ -546,30 +480,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Load capacity label "
-          ]
+          "children": ["Load capacity label "]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency contact information"
-          ]
+          "children": ["Emergency contact information"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Manufacturer service label with inspection date"
-          ]
+          "children": ["Manufacturer service label with inspection date"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Fire safety instructions (where applicable)"
-          ]
+          "children": ["Fire safety instructions (where applicable)"]
         },
         " "
       ]
@@ -587,9 +513,7 @@
       "attributes": {
         "id": "section-9"
       },
-      "children": [
-        "8. Review Operation Logs and Usage Patterns"
-      ]
+      "children": ["8. Review Operation Logs and Usage Patterns"]
     },
     " ",
     {
@@ -601,9 +525,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "How to Track:"
-      ]
+      "children": ["How to Track:"]
     },
     " ",
     {
@@ -619,16 +541,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Note peak hours and traffic patterns "
-          ]
+          "children": ["Note peak hours and traffic patterns "]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "rack recurring issues for reporting"
-          ]
+          "children": ["rack recurring issues for reporting"]
         },
         " "
       ]
@@ -646,9 +564,7 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "9. OSchedule Preventive Maintenance Consistently"
-      ]
+      "children": ["9. OSchedule Preventive Maintenance Consistently"]
     },
     " ",
     {
@@ -660,9 +576,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Professional Tasks Include:"
-      ]
+      "children": ["Professional Tasks Include:"]
     },
     " ",
     {
@@ -671,37 +585,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Control panel diagnostics"
-          ]
+          "children": ["Control panel diagnostics"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cable tension checks"
-          ]
+          "children": ["Cable tension checks"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety brake and governor testing"
-          ]
+          "children": ["Safety brake and governor testing"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lubrication of rails and gears"
-          ]
+          "children": ["Lubrication of rails and gears"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Battery backup inspection"
-          ]
+          "children": ["Battery backup inspection"]
         },
         " "
       ]
@@ -719,9 +623,7 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -747,9 +649,7 @@
           "attributes": {
             "href": "/contact-us"
           },
-          "children": [
-            "elevator services in Bangalore"
-          ]
+          "children": ["elevator services in Bangalore"]
         },
         " elevator services in Bangalore, and follow these simple tasks to maximize safety, efficiency, and peace of mind."
       ]

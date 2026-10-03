@@ -1,4 +1,4 @@
-import { AppLink, Icon } from '@/components/ui';
+import { AppLink, Icon } from "@/components/ui";
 
 export default function ConsultationSection({ data }) {
   return (
@@ -17,13 +17,23 @@ export default function ConsultationSection({ data }) {
               <div>{data.text2}</div>
               <div className="btn-icon-box">
                 <Icon name="ArrowUpRight" className="up-arrow-icon" />
-                <Icon name="ArrowUpRight" className="up-arrow-icon is-absolute" />
+                <Icon
+                  name="ArrowUpRight"
+                  className="up-arrow-icon is-absolute"
+                />
               </div>
             </AppLink>
           </div>
           <div className="cta-right">
             <div className="cta-image">
-              <img alt={data.imageAlt} className="image" loading="lazy" sizes="(max-width: 767px) 100vw, 497px" src={data.image} width="497" />
+              <img
+                alt={data.imageAlt}
+                className="image"
+                loading="lazy"
+                sizes="(max-width: 767px) 100vw, 497px"
+                src={data.image}
+                width="497"
+              />
             </div>
           </div>
         </div>

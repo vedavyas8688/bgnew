@@ -109,9 +109,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "BG Elevators"
-                  ]
+                  "children": ["BG Elevators"]
                 }
               ]
             }
@@ -157,9 +155,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Why Schedules Slip Before the First Rail Goes Up"
-              ]
+              "children": ["Why Schedules Slip Before the First Rail Goes Up"]
             }
           ]
         }
@@ -188,9 +184,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Elevator installation planning"
-                  ]
+                  "children": ["Elevator installation planning"]
                 }
               ]
             }
@@ -238,9 +232,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Shaft, pit and overhead"
-              ]
+              "children": ["Shaft, pit and overhead"]
             }
           ]
         }
@@ -265,9 +257,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Power, scaffolding, access and storage"
-              ]
+              "children": ["Power, scaffolding, access and storage"]
             }
           ]
         }
@@ -309,9 +299,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Lift installation time"
-              ]
+              "children": ["Lift installation time"]
             }
           ]
         },
@@ -341,9 +329,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Stage"
-                      ]
+                      "children": ["Stage"]
                     },
                     " "
                   ]
@@ -355,9 +341,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Typical duration"
-                      ]
+                      "children": ["Typical duration"]
                     },
                     " "
                   ]
@@ -369,9 +353,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Depends on"
-                      ]
+                      "children": ["Depends on"]
                     },
                     " "
                   ]
@@ -390,9 +372,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Site survey and drawing approval"
-                      ]
+                      "children": ["Site survey and drawing approval"]
                     },
                     " "
                   ]
@@ -404,9 +384,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1 to 2 weeks"
-                      ]
+                      "children": ["1 to 2 weeks"]
                     },
                     " "
                   ]
@@ -418,9 +396,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Your architect's response time"
-                      ]
+                      "children": ["Your architect's response time"]
                     },
                     " "
                   ]
@@ -439,9 +415,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Manufacturing and dispatch"
-                      ]
+                      "children": ["Manufacturing and dispatch"]
                     },
                     " "
                   ]
@@ -453,9 +427,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "5 to 10 weeks"
-                      ]
+                      "children": ["5 to 10 weeks"]
                     },
                     " "
                   ]
@@ -467,9 +439,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Model, cabin finish, customisation"
-                      ]
+                      "children": ["Model, cabin finish, customisation"]
                     },
                     " "
                   ]
@@ -488,9 +458,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Civil readiness at site"
-                      ]
+                      "children": ["Civil readiness at site"]
                     },
                     " "
                   ]
@@ -502,9 +470,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Varies widely"
-                      ]
+                      "children": ["Varies widely"]
                     },
                     " "
                   ]
@@ -516,9 +482,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Your contractor"
-                      ]
+                      "children": ["Your contractor"]
                     },
                     " "
                   ]
@@ -537,9 +501,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Erection and wiring"
-                      ]
+                      "children": ["Erection and wiring"]
                     },
                     " "
                   ]
@@ -551,9 +513,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "2 to 4 weeks"
-                      ]
+                      "children": ["2 to 4 weeks"]
                     },
                     " "
                   ]
@@ -565,9 +525,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Travel height, number of stops"
-                      ]
+                      "children": ["Travel height, number of stops"]
                     },
                     " "
                   ]
@@ -586,9 +544,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Testing and commissioning"
-                      ]
+                      "children": ["Testing and commissioning"]
                     },
                     " "
                   ]
@@ -600,9 +556,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "3 to 7 days"
-                      ]
+                      "children": ["3 to 7 days"]
                     },
                     " "
                   ]
@@ -614,9 +568,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Power sanction, load test"
-                      ]
+                      "children": ["Power sanction, load test"]
                     },
                     " "
                   ]
@@ -635,9 +587,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Statutory inspection and licence"
-                      ]
+                      "children": ["Statutory inspection and licence"]
                     },
                     " "
                   ]
@@ -649,9 +599,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "2 to 6 weeks"
-                      ]
+                      "children": ["2 to 6 weeks"]
                     },
                     " "
                   ]
@@ -663,9 +611,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Inspection scheduling"
-                      ]
+                      "children": ["Inspection scheduling"]
                     },
                     " "
                   ]
@@ -699,9 +645,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "elevator installation services Bangalore"
-                  ]
+                  "children": ["elevator installation services Bangalore"]
                 }
               ]
             }
@@ -756,9 +700,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Elevator Installation Planning Around Other Trades"
-              ]
+              "children": ["Elevator Installation Planning Around Other Trades"]
             }
           ]
         }
@@ -781,9 +723,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Civil:"
-              ]
+              "children": ["Civil:"]
             },
             " shaft, pit, machine room and landing openings must be complete and cured before erection starts."
           ]
@@ -794,9 +734,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Electrical:"
-              ]
+              "children": ["Electrical:"]
             },
             " the main panel, earthing and the shaft lighting circuit need to be live, not just wired."
           ]
@@ -807,9 +745,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Finishing:"
-              ]
+              "children": ["Finishing:"]
             },
             " flooring at each landing should be done to the finished level, because door sills are set to it. Setting sills to an unfinished floor guarantees rework."
           ]
@@ -833,9 +769,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "elevator installation Bangalore"
-                  ]
+                  "children": ["elevator installation Bangalore"]
                 }
               ]
             }
@@ -884,9 +818,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Power and backup"
-              ]
+              "children": ["Power and backup"]
             }
           ]
         }
@@ -911,9 +843,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Statutory approvals"
-              ]
+              "children": ["Statutory approvals"]
             }
           ]
         }
@@ -1041,9 +971,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1169,9 +1097,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1200,9 +1126,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Contact BG Elevators today"
-                  ]
+                  "children": ["Contact BG Elevators today"]
                 }
               ]
             }
@@ -1226,9 +1150,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Follow us on Instagram"
-                  ]
+                  "children": ["Follow us on Instagram"]
                 }
               ]
             }

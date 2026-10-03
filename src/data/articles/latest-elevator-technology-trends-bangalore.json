@@ -128,9 +128,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Understanding Elevators: Basics First"
-          ]
+          "children": ["Understanding Elevators: Basics First"]
         }
       ]
     },
@@ -140,9 +138,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "What is an Elevator?"
-          ]
+          "children": ["What is an Elevator?"]
         }
       ]
     },
@@ -162,9 +158,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Key Components of an Elevator System"
-          ]
+          "children": ["Key Components of an Elevator System"]
         }
       ]
     },
@@ -185,9 +179,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Elevator Cabin"
-              ]
+              "children": [" Elevator Cabin"]
             }
           ]
         },
@@ -211,9 +203,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Hoisting System"
-              ]
+              "children": [" Hoisting System"]
             }
           ]
         },
@@ -237,9 +227,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Control System"
-              ]
+              "children": [" Control System"]
             }
           ]
         },
@@ -263,9 +251,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Doors and Safety Sensors"
-              ]
+              "children": [" Doors and Safety Sensors"]
             }
           ]
         },
@@ -289,9 +275,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Counterweight"
-              ]
+              "children": [" Counterweight"]
             }
           ]
         },
@@ -301,9 +285,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Balances the load, making the system energy-efficient."
-      ]
+      "children": ["Balances the load, making the system energy-efficient."]
     },
     " ",
     {
@@ -314,9 +296,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Why Elevators Are Important in Modern Buildings"
-          ]
+          "children": ["Why Elevators Are Important in Modern Buildings"]
         }
       ]
     },
@@ -327,37 +307,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improve accessibility for all age groups"
-          ]
+          "children": ["Improve accessibility for all age groups"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Save time and effort"
-          ]
+          "children": ["Save time and effort"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Increase property value"
-          ]
+          "children": ["Increase property value"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Support high-rise construction"
-          ]
+          "children": ["Support high-rise construction"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Enhance convenience and comfort"
-          ]
+          "children": ["Enhance convenience and comfort"]
         },
         " "
       ]
@@ -378,9 +348,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Latest Elevator Technology Trends in Bangalore"
-          ]
+          "children": ["Latest Elevator Technology Trends in Bangalore"]
         }
       ]
     },
@@ -400,9 +368,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "1. Smart Elevators"
-          ]
+          "children": ["1. Smart Elevators"]
         }
       ]
     },
@@ -419,9 +385,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "What Makes Them Smart?"
-          ]
+          "children": ["What Makes Them Smart?"]
         }
       ]
     },
@@ -432,30 +396,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "AI-based control systems"
-          ]
+          "children": ["AI-based control systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Touchless operation"
-          ]
+          "children": ["Touchless operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Mobile app integration"
-          ]
+          "children": ["Mobile app integration"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Voice commands"
-          ]
+          "children": ["Voice commands"]
         },
         " "
       ]
@@ -466,9 +422,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Benefits:"
-          ]
+          "children": ["Benefits:"]
         }
       ]
     },
@@ -479,23 +433,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced waiting time"
-          ]
+          "children": ["Reduced waiting time"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improved efficiency"
-          ]
+          "children": ["Improved efficiency"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Better user experience"
-          ]
+          "children": ["Better user experience"]
         },
         " "
       ]
@@ -516,9 +464,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "2. Destination Control Systems"
-          ]
+          "children": ["2. Destination Control Systems"]
         }
       ]
     },
@@ -535,9 +481,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "How It Works:"
-          ]
+          "children": ["How It Works:"]
         }
       ]
     },
@@ -548,9 +492,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "You input your floor on a panel"
-          ]
+          "children": ["You input your floor on a panel"]
         },
         " ",
         {
@@ -562,9 +504,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Elevators are assigned accordingly"
-          ]
+          "children": ["Elevators are assigned accordingly"]
         },
         " "
       ]
@@ -575,9 +515,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Advantages:"
-          ]
+          "children": ["Advantages:"]
         }
       ]
     },
@@ -588,23 +526,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Less crowding"
-          ]
+          "children": ["Less crowding"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faster travel"
-          ]
+          "children": ["Faster travel"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy savings"
-          ]
+          "children": ["Energy savings"]
         },
         " "
       ]
@@ -618,9 +550,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "3. Energy-Efficient Elevators"
-          ]
+          "children": ["3. Energy-Efficient Elevators"]
         }
       ]
     },
@@ -637,9 +567,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Features:"
-          ]
+          "children": ["Features:"]
         }
       ]
     },
@@ -650,23 +578,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regenerative drives (convert energy into electricity)"
-          ]
+          "children": ["Regenerative drives (convert energy into electricity)"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED lighting"
-          ]
+          "children": ["LED lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sleep mode when idle"
-          ]
+          "children": ["Sleep mode when idle"]
         },
         " "
       ]
@@ -677,9 +599,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Impact:"
-          ]
+          "children": ["Impact:"]
         }
       ]
     },
@@ -690,16 +610,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lower electricity bills"
-          ]
+          "children": ["Lower electricity bills"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Eco-friendly operations"
-          ]
+          "children": ["Eco-friendly operations"]
         },
         " "
       ]
@@ -713,9 +629,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "4. Machine Room-Less (MRL) Elevators"
-          ]
+          "children": ["4. Machine Room-Less (MRL) Elevators"]
         }
       ]
     },
@@ -732,9 +646,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Why They Are Preferred:"
-          ]
+          "children": ["Why They Are Preferred:"]
         }
       ]
     },
@@ -745,23 +657,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "No separate machine room required"
-          ]
+          "children": ["No separate machine room required"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Saves space"
-          ]
+          "children": ["Saves space"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lower installation cost"
-          ]
+          "children": ["Lower installation cost"]
         },
         " "
       ]
@@ -769,9 +675,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "These are ideal for buildings with limited space."
-      ]
+      "children": ["These are ideal for buildings with limited space."]
     },
     " ",
     {
@@ -782,18 +686,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "5. Touchless and Hygienic Technology"
-          ]
+          "children": ["5. Touchless and Hygienic Technology"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Post-pandemic, hygiene has become a priority."
-      ]
+      "children": ["Post-pandemic, hygiene has become a priority."]
     },
     " ",
     {
@@ -801,9 +701,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Features:"
-          ]
+          "children": ["Features:"]
         }
       ]
     },
@@ -814,23 +712,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sensor-based buttons"
-          ]
+          "children": ["Sensor-based buttons"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Mobile app controls"
-          ]
+          "children": ["Mobile app controls"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Voice-activated systems"
-          ]
+          "children": ["Voice-activated systems"]
         },
         " "
       ]
@@ -841,9 +733,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Benefits:"
-          ]
+          "children": ["Benefits:"]
         }
       ]
     },
@@ -854,16 +744,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced physical contact"
-          ]
+          "children": ["Reduced physical contact"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improved safety"
-          ]
+          "children": ["Improved safety"]
         },
         " "
       ]
@@ -877,18 +763,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "6. Advanced Safety Systems"
-          ]
+          "children": ["6. Advanced Safety Systems"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Safety is always the top priority in elevator technology."
-      ]
+      "children": ["Safety is always the top priority in elevator technology."]
     },
     " ",
     {
@@ -896,9 +778,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Modern Safety Features:"
-          ]
+          "children": ["Modern Safety Features:"]
         }
       ]
     },
@@ -909,30 +789,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency braking systems"
-          ]
+          "children": ["Emergency braking systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Automatic rescue devices"
-          ]
+          "children": ["Automatic rescue devices"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Overload sensors"
-          ]
+          "children": ["Overload sensors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Fire safety integration"
-          ]
+          "children": ["Fire safety integration"]
         },
         " "
       ]
@@ -953,9 +825,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "7. High-Speed Elevators"
-          ]
+          "children": ["7. High-Speed Elevators"]
         }
       ]
     },
@@ -972,9 +842,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Key Features:"
-          ]
+          "children": ["Key Features:"]
         }
       ]
     },
@@ -985,23 +853,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faster travel time"
-          ]
+          "children": ["Faster travel time"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smooth acceleration and deceleration"
-          ]
+          "children": ["Smooth acceleration and deceleration"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced waiting time"
-          ]
+          "children": ["Reduced waiting time"]
         },
         " "
       ]
@@ -1022,18 +884,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "8. IoT-Based Predictive Maintenance"
-          ]
+          "children": ["8. IoT-Based Predictive Maintenance"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Maintenance is no longer reactive—it’s predictive."
-      ]
+      "children": ["Maintenance is no longer reactive—it’s predictive."]
     },
     " ",
     {
@@ -1041,9 +899,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "How It Works:"
-          ]
+          "children": ["How It Works:"]
         }
       ]
     },
@@ -1054,23 +910,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sensors monitor elevator performance"
-          ]
+          "children": ["Sensors monitor elevator performance"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Data is analyzed in real-time"
-          ]
+          "children": ["Data is analyzed in real-time"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Issues are detected before failure"
-          ]
+          "children": ["Issues are detected before failure"]
         },
         " "
       ]
@@ -1081,9 +931,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Benefits:"
-          ]
+          "children": ["Benefits:"]
         }
       ]
     },
@@ -1094,23 +942,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced downtime"
-          ]
+          "children": ["Reduced downtime"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cost savings"
-          ]
+          "children": ["Cost savings"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improved reliability"
-          ]
+          "children": ["Improved reliability"]
         },
         " "
       ]
@@ -1128,9 +970,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "lift service in Bangalore"
-              ]
+              "children": ["lift service in Bangalore"]
             }
           ]
         },
@@ -1146,18 +986,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "9. Customizable Elevator Interiors"
-          ]
+          "children": ["9. Customizable Elevator Interiors"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Modern elevators are not just functional—they are stylish."
-      ]
+      "children": ["Modern elevators are not just functional—they are stylish."]
     },
     " ",
     {
@@ -1165,9 +1001,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Popular Customization Options:"
-          ]
+          "children": ["Popular Customization Options:"]
         }
       ]
     },
@@ -1178,30 +1012,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Glass cabins"
-          ]
+          "children": ["Glass cabins"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Wooden finishes"
-          ]
+          "children": ["Wooden finishes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Stainless steel designs"
-          ]
+          "children": ["Stainless steel designs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED lighting"
-          ]
+          "children": ["LED lighting"]
         },
         " "
       ]
@@ -1212,9 +1038,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Why It Matters:"
-          ]
+          "children": ["Why It Matters:"]
         }
       ]
     },
@@ -1225,16 +1049,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Enhances building aesthetics"
-          ]
+          "children": ["Enhances building aesthetics"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improves user experience"
-          ]
+          "children": ["Improves user experience"]
         },
         " "
       ]
@@ -1248,18 +1068,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "10. Compact Elevators for Homes"
-          ]
+          "children": ["10. Compact Elevators for Homes"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Home elevators are gaining popularity in Bangalore."
-      ]
+      "children": ["Home elevators are gaining popularity in Bangalore."]
     },
     " ",
     {
@@ -1267,9 +1083,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Features:"
-          ]
+          "children": ["Features:"]
         }
       ]
     },
@@ -1280,23 +1094,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Space-saving design"
-          ]
+          "children": ["Space-saving design"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Easy installation"
-          ]
+          "children": ["Easy installation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Low maintenance"
-          ]
+          "children": ["Low maintenance"]
         },
         " "
       ]
@@ -1304,9 +1112,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "These are ideal for villas and duplex homes."
-      ]
+      "children": ["These are ideal for villas and duplex homes."]
     },
     " ",
     {
@@ -1317,18 +1123,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "How Technology is Changing Elevator Installation"
-          ]
+          "children": ["How Technology is Changing Elevator Installation"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "The installation process has also evolved significantly."
-      ]
+      "children": ["The installation process has also evolved significantly."]
     },
     " ",
     {
@@ -1336,9 +1138,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Modern Installation Features:"
-          ]
+          "children": ["Modern Installation Features:"]
         }
       ]
     },
@@ -1349,23 +1149,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faster setup time"
-          ]
+          "children": ["Faster setup time"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Precision engineering"
-          ]
+          "children": ["Precision engineering"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Advanced testing systems"
-          ]
+          "children": ["Advanced testing systems"]
         },
         " "
       ]
@@ -1383,9 +1177,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "elevator installation company in Bangalore"
-              ]
+              "children": ["elevator installation company in Bangalore"]
             }
           ]
         },
@@ -1401,18 +1193,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Factors Driving Elevator Technology in Bangalore"
-          ]
+          "children": ["Factors Driving Elevator Technology in Bangalore"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Several factors are influencing these trends:"
-      ]
+      "children": ["Several factors are influencing these trends:"]
     },
     " ",
     {
@@ -1424,9 +1212,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Urban Growth"
-              ]
+              "children": [" Urban Growth"]
             }
           ]
         },
@@ -1450,9 +1236,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Smart City Development"
-              ]
+              "children": [" Smart City Development"]
             }
           ]
         },
@@ -1476,9 +1260,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Demand for Convenience"
-              ]
+              "children": [" Demand for Convenience"]
             }
           ]
         },
@@ -1488,9 +1270,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "People expect faster and smoother travel."
-      ]
+      "children": ["People expect faster and smoother travel."]
     },
     " ",
     {
@@ -1502,9 +1282,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Focus on Sustainability"
-              ]
+              "children": [" Focus on Sustainability"]
             }
           ]
         },
@@ -1514,9 +1292,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Energy-efficient systems are becoming essential."
-      ]
+      "children": ["Energy-efficient systems are becoming essential."]
     },
     " ",
     {
@@ -1527,18 +1303,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Challenges in Modern Elevator Systems"
-          ]
+          "children": ["Challenges in Modern Elevator Systems"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Despite advancements, there are still challenges:"
-      ]
+      "children": ["Despite advancements, there are still challenges:"]
     },
     " ",
     {
@@ -1547,30 +1319,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "High initial investment"
-          ]
+          "children": ["High initial investment"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Maintenance costs"
-          ]
+          "children": ["Maintenance costs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Space limitations in old buildings"
-          ]
+          "children": ["Space limitations in old buildings"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Need for skilled technicians"
-          ]
+          "children": ["Need for skilled technicians"]
         },
         " "
       ]
@@ -1591,18 +1355,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Choosing the Right Elevator Solution"
-          ]
+          "children": ["Choosing the Right Elevator Solution"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "When selecting an elevator, consider:"
-      ]
+      "children": ["When selecting an elevator, consider:"]
     },
     " ",
     {
@@ -1611,37 +1371,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Building type (residential or commercial)"
-          ]
+          "children": ["Building type (residential or commercial)"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Space availability"
-          ]
+          "children": ["Space availability"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Budget"
-          ]
+          "children": ["Budget"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Usage requirements"
-          ]
+          "children": ["Usage requirements"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety features"
-          ]
+          "children": ["Safety features"]
         },
         " "
       ]
@@ -1659,9 +1409,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "best elevators company in Bangalore"
-              ]
+              "children": ["best elevators company in Bangalore"]
             }
           ]
         },
@@ -1677,18 +1425,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Future of Elevator Technology"
-          ]
+          "children": ["Future of Elevator Technology"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "The future of elevators looks even more exciting."
-      ]
+      "children": ["The future of elevators looks even more exciting."]
     },
     " ",
     {
@@ -1696,9 +1440,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Upcoming Innovations:"
-          ]
+          "children": ["Upcoming Innovations:"]
         }
       ]
     },
@@ -1709,30 +1451,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "AI-powered elevators"
-          ]
+          "children": ["AI-powered elevators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Fully automated systems"
-          ]
+          "children": ["Fully automated systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Advanced traffic management"
-          ]
+          "children": ["Advanced traffic management"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Zero-energy elevators"
-          ]
+          "children": ["Zero-energy elevators"]
         },
         " "
       ]
@@ -1753,9 +1487,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "FAQs"
-          ]
+          "children": ["FAQs"]
         }
       ]
     },
@@ -1821,9 +1553,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " What is predictive maintenance in elevators?"
-              ]
+              "children": [" What is predictive maintenance in elevators?"]
             }
           ]
         },
@@ -1899,9 +1629,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Conclusion"
-          ]
+          "children": ["Conclusion"]
         }
       ]
     },
@@ -1925,9 +1653,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },

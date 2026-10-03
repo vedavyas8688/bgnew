@@ -94,9 +94,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "BG Elevators"
-                  ]
+                  "children": ["BG Elevators"]
                 }
               ]
             }
@@ -108,9 +106,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Alt text: Compact home lift beside a modern staircase."
-      ]
+      "children": ["Alt text: Compact home lift beside a modern staircase."]
     },
     {
       "tag": "br",
@@ -174,9 +170,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Compact Home Lifts Bangalore"
-                  ]
+                  "children": ["Compact Home Lifts Bangalore"]
                 }
               ]
             }
@@ -192,30 +186,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Staircase void"
-          ]
+          "children": ["Staircase void"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Utility area"
-          ]
+          "children": ["Utility area"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "External wall"
-          ]
+          "children": ["External wall"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Existing courtyard or duct"
-          ]
+          "children": ["Existing courtyard or duct"]
         },
         " "
       ]
@@ -273,9 +259,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Machine-Room-Less Traction"
-              ]
+              "children": ["Machine-Room-Less Traction"]
             }
           ]
         }
@@ -300,9 +284,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Hydraulic and Screw-Driven Units"
-              ]
+              "children": ["Hydraulic and Screw-Driven Units"]
             }
           ]
         }
@@ -324,9 +306,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "space-saving elevator"
-                  ]
+                  "children": ["space-saving elevator"]
                 }
               ]
             }
@@ -345,9 +325,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Choose traction"
-              ]
+              "children": ["Choose traction"]
             },
             " for three or more stops, lower electricity bills and a shaft with proper headroom."
           ]
@@ -358,9 +336,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Choose hydraulic"
-              ]
+              "children": ["Choose hydraulic"]
             },
             " when headroom is your binding constraint."
           ]
@@ -371,9 +347,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Choose screw-driven"
-              ]
+              "children": ["Choose screw-driven"]
             },
             " for a retrofit where you can't excavate a pit. "
           ]
@@ -393,9 +367,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Home Lift Dimensions That Actually Work"
-              ]
+              "children": ["Home Lift Dimensions That Actually Work"]
             }
           ]
         }
@@ -431,9 +403,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Configuration"
-                      ]
+                      "children": ["Configuration"]
                     },
                     " "
                   ]
@@ -445,9 +415,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Persons / capacity"
-                      ]
+                      "children": ["Persons / capacity"]
                     },
                     " "
                   ]
@@ -459,9 +427,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Typical shaft (mm)"
-                      ]
+                      "children": ["Typical shaft (mm)"]
                     },
                     " "
                   ]
@@ -473,9 +439,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Typical clear cabin (mm)"
-                      ]
+                      "children": ["Typical clear cabin (mm)"]
                     },
                     " "
                   ]
@@ -487,9 +451,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Pit"
-                      ]
+                      "children": ["Pit"]
                     },
                     " "
                   ]
@@ -501,9 +463,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Headroom"
-                      ]
+                      "children": ["Headroom"]
                     },
                     " "
                   ]
@@ -522,9 +482,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Very small, screw-driven"
-                      ]
+                      "children": ["Very small, screw-driven"]
                     },
                     " "
                   ]
@@ -536,9 +494,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "2 / ~160 kg"
-                      ]
+                      "children": ["2 / ~160 kg"]
                     },
                     " "
                   ]
@@ -550,9 +506,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1000 x 1000"
-                      ]
+                      "children": ["1000 x 1000"]
                     },
                     " "
                   ]
@@ -564,9 +518,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "750 x 750"
-                      ]
+                      "children": ["750 x 750"]
                     },
                     " "
                   ]
@@ -578,9 +530,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "50–100 mm"
-                      ]
+                      "children": ["50–100 mm"]
                     },
                     " "
                   ]
@@ -592,9 +542,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "~2500 mm"
-                      ]
+                      "children": ["~2500 mm"]
                     },
                     " "
                   ]
@@ -613,9 +561,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Compact hydraulic"
-                      ]
+                      "children": ["Compact hydraulic"]
                     },
                     " "
                   ]
@@ -627,9 +573,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "3 / ~204 kg"
-                      ]
+                      "children": ["3 / ~204 kg"]
                     },
                     " "
                   ]
@@ -641,9 +585,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1200 x 1200"
-                      ]
+                      "children": ["1200 x 1200"]
                     },
                     " "
                   ]
@@ -655,9 +597,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "900 x 900"
-                      ]
+                      "children": ["900 x 900"]
                     },
                     " "
                   ]
@@ -669,9 +609,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "200–350 mm"
-                      ]
+                      "children": ["200–350 mm"]
                     },
                     " "
                   ]
@@ -683,9 +621,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "2600–2900 mm"
-                      ]
+                      "children": ["2600–2900 mm"]
                     },
                     " "
                   ]
@@ -704,9 +640,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Compact MRL traction"
-                      ]
+                      "children": ["Compact MRL traction"]
                     },
                     " "
                   ]
@@ -718,9 +652,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "4 / ~272 kg"
-                      ]
+                      "children": ["4 / ~272 kg"]
                     },
                     " "
                   ]
@@ -732,9 +664,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1400 x 1300"
-                      ]
+                      "children": ["1400 x 1300"]
                     },
                     " "
                   ]
@@ -746,9 +676,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1000 x 1000"
-                      ]
+                      "children": ["1000 x 1000"]
                     },
                     " "
                   ]
@@ -760,9 +688,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "500–800 mm"
-                      ]
+                      "children": ["500–800 mm"]
                     },
                     " "
                   ]
@@ -774,9 +700,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "3300–3600 mm"
-                      ]
+                      "children": ["3300–3600 mm"]
                     },
                     " "
                   ]
@@ -795,9 +719,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Wheelchair-friendly"
-                      ]
+                      "children": ["Wheelchair-friendly"]
                     },
                     " "
                   ]
@@ -809,9 +731,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "6 / ~408 kg"
-                      ]
+                      "children": ["6 / ~408 kg"]
                     },
                     " "
                   ]
@@ -823,9 +743,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1600 x 1500"
-                      ]
+                      "children": ["1600 x 1500"]
                     },
                     " "
                   ]
@@ -837,9 +755,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "1100 x 1400"
-                      ]
+                      "children": ["1100 x 1400"]
                     },
                     " "
                   ]
@@ -851,9 +767,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "700–1000 mm"
-                      ]
+                      "children": ["700–1000 mm"]
                     },
                     " "
                   ]
@@ -865,9 +779,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "3400–3700 mm"
-                      ]
+                      "children": ["3400–3700 mm"]
                     },
                     " "
                   ]
@@ -904,9 +816,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Door Choices That Save Real Centimetres"
-              ]
+              "children": ["Door Choices That Save Real Centimetres"]
             }
           ]
         }
@@ -926,9 +836,7 @@
         "Among sliding types, a telescopic two-panel door opens wider in the same headboard width than a centre-opening pair, which is why it dominates ",
         {
           "tag": "strong",
-          "children": [
-            "small home lifts"
-          ]
+          "children": ["small home lifts"]
         },
         ". Glass doors save no space, but they stop a tight lobby feeling like a cupboard."
       ]
@@ -945,9 +853,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Where the Shaft Goes Changes Everything"
-              ]
+              "children": ["Where the Shaft Goes Changes Everything"]
             }
           ]
         }
@@ -986,9 +892,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Making a Small Cabin Feel Bigger"
-              ]
+              "children": ["Making a Small Cabin Feel Bigger"]
             }
           ]
         }
@@ -1052,9 +956,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "compact home elevator"
-                  ]
+                  "children": ["compact home elevator"]
                 }
               ]
             }
@@ -1106,9 +1008,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "residential lift"
-                  ]
+                  "children": ["residential lift"]
                 }
               ]
             }
@@ -1129,9 +1029,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1258,9 +1156,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1289,9 +1185,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Contact BG Elevators today"
-                  ]
+                  "children": ["Contact BG Elevators today"]
                 }
               ]
             }
@@ -1315,9 +1209,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Follow us on Instagram"
-                  ]
+                  "children": ["Follow us on Instagram"]
                 }
               ]
             }

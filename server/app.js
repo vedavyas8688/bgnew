@@ -84,12 +84,10 @@ export function createApp({
       reset: now + 15 * 60 * 1000,
     };
     if (++bucket.count > 8)
-      return res
-        .status(429)
-        .json({
-          status: "error",
-          message: "Too many attempts. Please try again in 15 minutes.",
-        });
+      return res.status(429).json({
+        status: "error",
+        message: "Too many attempts. Please try again in 15 minutes.",
+      });
     buckets.set(key, bucket);
     next();
   }
@@ -104,13 +102,16 @@ export function createApp({
       const brochure = await store.getActiveBrochure?.();
       res.set("Cache-Control", "no-store, max-age=0");
       if (brochure?.data) {
-        const filename = String(brochure.filename || "BG-Elevators-Brochure.pdf")
-          .replace(/[^\w. -]/g, "_");
+        const filename = String(
+          brochure.filename || "BG-Elevators-Brochure.pdf",
+        ).replace(/[^\w. -]/g, "_");
         res.attachment(filename);
         res.type(brochure.contentType || "application/pdf");
         const source = brochure.data.buffer || brochure.data;
         const bytes = Buffer.from(source);
-        const length = Number(brochure.data.position || brochure.size || bytes.length);
+        const length = Number(
+          brochure.data.position || brochure.size || bytes.length,
+        );
         return res.send(bytes.subarray(0, length));
       }
       return res.download(
@@ -128,12 +129,10 @@ export function createApp({
         names.map((key) => body[key]).find((v) => typeof v === "string") || "",
       ).trim();
     if (value("website"))
-      return res
-        .status(400)
-        .json({
-          status: "error",
-          message: "Unable to accept this submission.",
-        });
+      return res.status(400).json({
+        status: "error",
+        message: "Unable to accept this submission.",
+      });
     const name = value("Name", "name");
     const email = value("Email", "email");
     const phone = value("Phone", "phone");
@@ -155,48 +154,38 @@ export function createApp({
       email.length > 256 ||
       /[\r\n]/.test(email)
     )
-      return res
-        .status(400)
-        .json({
-          status: "error",
-          message: "Please enter a valid email address.",
-        });
+      return res.status(400).json({
+        status: "error",
+        message: "Please enter a valid email address.",
+      });
     if (
       !/^[+\d() .-]{7,25}$/.test(phone) ||
       phone.replace(/\D/g, "").length < 7
     )
-      return res
-        .status(400)
-        .json({
-          status: "error",
-          message: "Please enter a valid phone number.",
-        });
+      return res.status(400).json({
+        status: "error",
+        message: "Please enter a valid phone number.",
+      });
     if (
       location.length > 256 ||
       value("Position", "position").length > 256 ||
       value("Experience", "experience").length > 256 ||
       cvUrl.length > 2048
     )
-      return res
-        .status(400)
-        .json({
-          status: "error",
-          message: "Please keep your details within the allowed length.",
-        });
+      return res.status(400).json({
+        status: "error",
+        message: "Please keep your details within the allowed length.",
+      });
     if (message.length > 5000)
-      return res
-        .status(400)
-        .json({
-          status: "error",
-          message: "Please keep your message below 5,000 characters.",
-        });
+      return res.status(400).json({
+        status: "error",
+        message: "Please keep your message below 5,000 characters.",
+      });
     if (kind === "career" && !req.file && !validCvUrl)
-      return res
-        .status(400)
-        .json({
-          status: "error",
-          message: "Please attach your resume or provide a valid CV URL.",
-        });
+      return res.status(400).json({
+        status: "error",
+        message: "Please attach your resume or provide a valid CV URL.",
+      });
     if (req.file) {
       const ext = path.extname(req.file.originalname).toLowerCase();
       const bytes = req.file.buffer;
@@ -209,12 +198,10 @@ export function createApp({
                 .subarray(0, 8)
                 .equals(Buffer.from("d0cf11e0a1b11ae1", "hex"));
       if (!validSignature)
-        return res
-          .status(400)
-          .json({
-            status: "error",
-            message: "The uploaded file is not a valid PDF, DOC or DOCX.",
-          });
+        return res.status(400).json({
+          status: "error",
+          message: "The uploaded file is not a valid PDF, DOC or DOCX.",
+        });
     }
     try {
       const common = {
@@ -315,13 +302,11 @@ export function createApp({
         message: "Form submitted successfully!",
       });
     } catch (error) {
-      return res
-        .status(error.status || 503)
-        .json({
-          status: "error",
-          message:
-            "We could not complete your submission or send the confirmation emails. Please try again or contact info@bgelevators.com.",
-        });
+      return res.status(error.status || 503).json({
+        status: "error",
+        message:
+          "We could not complete your submission or send the confirmation emails. Please try again or contact info@bgelevators.com.",
+      });
     }
   });
   app.use("/api", (req, res) =>
@@ -351,14 +336,12 @@ export function createApp({
   app.use((error, req, res, next) => {
     if (res.headersSent) return next(error);
     const tooLarge = error.code === "LIMIT_FILE_SIZE";
-    res
-      .status(error.status || 400)
-      .json({
-        status: "error",
-        message: tooLarge
-          ? "Please upload a file smaller than 5 MB."
-          : error.message || "Invalid request.",
-      });
+    res.status(error.status || 400).json({
+      status: "error",
+      message: tooLarge
+        ? "Please upload a file smaller than 5 MB."
+        : error.message || "Invalid request.",
+    });
   });
   return app;
 }

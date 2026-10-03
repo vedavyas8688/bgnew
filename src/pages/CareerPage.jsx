@@ -1,8 +1,8 @@
-import VacanciesSection from '@/components/careerpage/VacanciesSection';
-import BenefitsSection from '@/components/careerpage/BenefitsSection';
-import ConsultationSection from '@/components/shared/ConsultationSection';
-import ApplicationModalSection from '@/components/shared/EnquiryModalSection';
-import data from '@/data/pages/career.json';
+import VacanciesSection from "@/components/careerpage/VacanciesSection";
+import BenefitsSection from "@/components/careerpage/BenefitsSection";
+import ConsultationSection from "@/components/shared/ConsultationSection";
+import ApplicationModalSection from "@/components/shared/EnquiryModalSection";
+import data from "@/data/pages/career.json";
 
 export default function CareerPage() {
   return (

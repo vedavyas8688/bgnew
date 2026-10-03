@@ -13,7 +13,9 @@
   height: 100%;
   opacity: 0;
   transform: translateX(20px);
-  transition: opacity 0.8s ease, transform 0.8s ease;
+  transition:
+    opacity 0.8s ease,
+    transform 0.8s ease;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -86,7 +88,6 @@
   object-fit: contain;
   cursor: pointer;
 }
-
 
 /* Dots */
 .carousel-dots {
@@ -261,7 +262,6 @@
   display: flex;
   align-items: center;
   width: 100%;
-
 }
 
 .swiper-slide {
@@ -282,12 +282,14 @@
   padding: 10px;
   border-radius: 50%;
 }
-.swiper-button-prev, .swiper-rtl .swiper-button-next{
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next {
   left: 0 !important;
 }
-.swiper-button-next, .swiper-rtl .swiper-button-prev{
+.swiper-button-next,
+.swiper-rtl .swiper-button-prev {
   right: var(--swiper-navigation-sides-offset, 0px) !important;
-    left: auto;
+  left: auto;
 }
 .carousel-swiper-button-next {
   position: absolute;

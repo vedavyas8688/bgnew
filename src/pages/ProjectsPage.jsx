@@ -1,7 +1,7 @@
-import ContentSection from '@/components/projectspage/ContentSection';
-import TestimonialsSection from '@/components/shared/TestimonialsSection';
-import ConsultationSection from '@/components/shared/ConsultationSection';
-import data from '@/data/pages/projects.json';
+import ContentSection from "@/components/projectspage/ContentSection";
+import TestimonialsSection from "@/components/shared/TestimonialsSection";
+import ConsultationSection from "@/components/shared/ConsultationSection";
+import data from "@/data/pages/projects.json";
 
 export default function ProjectsPage() {
   return (

@@ -158,9 +158,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "Why Proper Elevator Planning Matters"
-      ]
+      "children": ["Why Proper Elevator Planning Matters"]
     },
     " ",
     {
@@ -182,9 +180,7 @@
       "attributes": {
         "id": "section-2"
       },
-      "children": [
-        "1. Understand the Building Requirements"
-      ]
+      "children": ["1. Understand the Building Requirements"]
     },
     " ",
     {
@@ -196,9 +192,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Consider the following questions:"
-      ]
+      "children": ["Consider the following questions:"]
     },
     " ",
     {
@@ -207,23 +201,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Is the building residential or commercial?"
-          ]
+          "children": ["Is the building residential or commercial?"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "How many floors does it have?"
-          ]
+          "children": ["How many floors does it have?"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Expected daily elevator usage"
-          ]
+          "children": ["Expected daily elevator usage"]
         },
         " ",
         {
@@ -235,9 +223,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Are accessibility requirements necessary?"
-          ]
+          "children": ["Are accessibility requirements necessary?"]
         },
         " "
       ]
@@ -255,23 +241,17 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "2. Select the Right Type of Commercial Elevator"
-      ]
+      "children": ["2. Select the Right Type of Commercial Elevator"]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Different buildings require different elevator solutions."
-      ]
+      "children": ["Different buildings require different elevator solutions."]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Some common options include:"
-      ]
+      "children": ["Some common options include:"]
     },
     " ",
     {
@@ -280,44 +260,32 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Passenger Elevators"
-          ]
+          "children": ["Passenger Elevators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Goods Elevators"
-          ]
+          "children": ["Goods Elevators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Hospital Elevators"
-          ]
+          "children": ["Hospital Elevators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Machine Room-Less (MRL) Elevators"
-          ]
+          "children": ["Machine Room-Less (MRL) Elevators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Hydraulic Elevators"
-          ]
+          "children": ["Hydraulic Elevators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Traction Elevators"
-          ]
+          "children": ["Traction Elevators"]
         },
         " "
       ]
@@ -335,9 +303,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "3. Plan the Elevator Shaft Early"
-      ]
+      "children": ["3. Plan the Elevator Shaft Early"]
     },
     " ",
     {
@@ -349,9 +315,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Builders should verify:"
-      ]
+      "children": ["Builders should verify:"]
     },
     " ",
     {
@@ -360,37 +324,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Shaft dimensions"
-          ]
+          "children": ["Shaft dimensions"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Pit depth"
-          ]
+          "children": ["Pit depth"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Headroom"
-          ]
+          "children": ["Headroom"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Wall strength"
-          ]
+          "children": ["Wall strength"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Structural support"
-          ]
+          "children": ["Structural support"]
         },
         " "
       ]
@@ -398,9 +352,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Early planning helps avoid costly modifications later."
-      ]
+      "children": ["Early planning helps avoid costly modifications later."]
     },
     " ",
     {
@@ -408,9 +360,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "4. Check Load Capacity Requirements"
-      ]
+      "children": ["4. Check Load Capacity Requirements"]
     },
     " ",
     {
@@ -422,9 +372,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Choose an elevator capacity based on:"
-      ]
+      "children": ["Choose an elevator capacity based on:"]
     },
     " ",
     {
@@ -433,30 +381,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Daily foot traffic"
-          ]
+          "children": ["Daily foot traffic"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Peak usage hours"
-          ]
+          "children": ["Peak usage hours"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Building occupancy"
-          ]
+          "children": ["Building occupancy"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Future expansion"
-          ]
+          "children": ["Future expansion"]
         },
         " "
       ]
@@ -474,23 +414,17 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "5. Focus on Passenger Safety"
-      ]
+      "children": ["5. Focus on Passenger Safety"]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Safety should always remain the highest priority."
-      ]
+      "children": ["Safety should always remain the highest priority."]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Modern commercial elevators include:"
-      ]
+      "children": ["Modern commercial elevators include:"]
     },
     " ",
     {
@@ -499,44 +433,32 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency alarm systems"
-          ]
+          "children": ["Emergency alarm systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Automatic rescue devices"
-          ]
+          "children": ["Automatic rescue devices"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door safety sensors"
-          ]
+          "children": ["Door safety sensors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency lighting"
-          ]
+          "children": ["Emergency lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Fire safety features"
-          ]
+          "children": ["Fire safety features"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Backup power support"
-          ]
+          "children": ["Backup power support"]
         },
         " "
       ]
@@ -554,9 +476,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "6. Consider Energy Efficiency"
-      ]
+      "children": ["6. Consider Energy Efficiency"]
     },
     " ",
     {
@@ -568,9 +488,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Look for features such as:"
-      ]
+      "children": ["Look for features such as:"]
     },
     " ",
     {
@@ -579,37 +497,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED cabin lighting"
-          ]
+          "children": ["LED cabin lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regenerative drives"
-          ]
+          "children": ["Regenerative drives"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sleep mode operation"
-          ]
+          "children": ["Sleep mode operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy-efficient motors"
-          ]
+          "children": ["Energy-efficient motors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smart control systems"
-          ]
+          "children": ["Smart control systems"]
         },
         " "
       ]
@@ -627,9 +535,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "7. Choose Durable Cabin Materials"
-      ]
+      "children": ["7. Choose Durable Cabin Materials"]
     },
     " ",
     {
@@ -641,9 +547,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Builders should select durable materials such as:"
-      ]
+      "children": ["Builders should select durable materials such as:"]
     },
     " ",
     {
@@ -652,37 +556,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Stainless steel"
-          ]
+          "children": ["Stainless steel"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Scratch-resistant panels"
-          ]
+          "children": ["Scratch-resistant panels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Anti-slip flooring"
-          ]
+          "children": ["Anti-slip flooring"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Toughened glass"
-          ]
+          "children": ["Toughened glass"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Easy-to-clean finishes"
-          ]
+          "children": ["Easy-to-clean finishes"]
         },
         " "
       ]
@@ -700,9 +594,7 @@
       "attributes": {
         "id": "section-9"
       },
-      "children": [
-        "8. Plan Accessibility Features"
-      ]
+      "children": ["8. Plan Accessibility Features"]
     },
     " ",
     {
@@ -714,9 +606,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Important accessibility features include:"
-      ]
+      "children": ["Important accessibility features include:"]
     },
     " ",
     {
@@ -725,44 +615,32 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Braille buttons"
-          ]
+          "children": ["Braille buttons"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Voice announcements"
-          ]
+          "children": ["Voice announcements"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Handrails"
-          ]
+          "children": ["Handrails"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Wide automatic doors"
-          ]
+          "children": ["Wide automatic doors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Wheelchair-friendly cabins"
-          ]
+          "children": ["Wheelchair-friendly cabins"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Floor indicators"
-          ]
+          "children": ["Floor indicators"]
         },
         " "
       ]
@@ -770,9 +648,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "These features improve convenience for all users."
-      ]
+      "children": ["These features improve convenience for all users."]
     },
     " ",
     {
@@ -780,23 +656,17 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "9. Ensure Proper Ventilation and Lighting"
-      ]
+      "children": ["9. Ensure Proper Ventilation and Lighting"]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "A comfortable elevator enhances the passenger experience."
-      ]
+      "children": ["A comfortable elevator enhances the passenger experience."]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Install:"
-      ]
+      "children": ["Install:"]
     },
     " ",
     {
@@ -805,37 +675,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED lighting"
-          ]
+          "children": ["LED lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Proper ventilation"
-          ]
+          "children": ["Proper ventilation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Silent fans"
-          ]
+          "children": ["Silent fans"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Bright displays"
-          ]
+          "children": ["Bright displays"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Premium ceiling designs"
-          ]
+          "children": ["Premium ceiling designs"]
         },
         " "
       ]
@@ -853,23 +713,17 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "10. Install Reliable Control Systems"
-      ]
+      "children": ["10. Install Reliable Control Systems"]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Modern control systems improve elevator performance."
-      ]
+      "children": ["Modern control systems improve elevator performance."]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Choose systems that provide:"
-      ]
+      "children": ["Choose systems that provide:"]
     },
     " ",
     {
@@ -878,37 +732,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smooth floor leveling"
-          ]
+          "children": ["Smooth floor leveling"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Fast response time"
-          ]
+          "children": ["Fast response time"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Intelligent traffic management"
-          ]
+          "children": ["Intelligent traffic management"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Automatic diagnostics"
-          ]
+          "children": ["Automatic diagnostics"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Error monitoring"
-          ]
+          "children": ["Error monitoring"]
         },
         " "
       ]
@@ -916,9 +760,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Reliable controllers also reduce maintenance issues."
-      ]
+      "children": ["Reliable controllers also reduce maintenance issues."]
     },
     " ",
     {
@@ -926,16 +768,12 @@
       "attributes": {
         "id": "section-12"
       },
-      "children": [
-        "11. Plan Electrical Requirements"
-      ]
+      "children": ["11. Plan Electrical Requirements"]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Before installation begins, builders should verify:"
-      ]
+      "children": ["Before installation begins, builders should verify:"]
     },
     " ",
     {
@@ -944,37 +782,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Power supply"
-          ]
+          "children": ["Power supply"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Backup generator"
-          ]
+          "children": ["Backup generator"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Control panel location"
-          ]
+          "children": ["Control panel location"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Wiring routes"
-          ]
+          "children": ["Wiring routes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Electrical safety standards"
-          ]
+          "children": ["Electrical safety standards"]
         },
         " "
       ]
@@ -982,9 +810,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Proper electrical planning prevents installation delays."
-      ]
+      "children": ["Proper electrical planning prevents installation delays."]
     },
     " ",
     {
@@ -992,9 +818,7 @@
       "attributes": {
         "id": "section-13"
       },
-      "children": [
-        "12. Review Local Safety Regulations"
-      ]
+      "children": ["12. Review Local Safety Regulations"]
     },
     " ",
     {
@@ -1016,9 +840,7 @@
       "attributes": {
         "id": "section-14"
       },
-      "children": [
-        "13. Avoid Installation Delays"
-      ]
+      "children": ["13. Avoid Installation Delays"]
     },
     " ",
     {
@@ -1030,9 +852,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Coordinate early with:"
-      ]
+      "children": ["Coordinate early with:"]
     },
     " ",
     {
@@ -1041,37 +861,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Architects"
-          ]
+          "children": ["Architects"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Structural engineers"
-          ]
+          "children": ["Structural engineers"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Electrical engineers"
-          ]
+          "children": ["Electrical engineers"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Interior designers"
-          ]
+          "children": ["Interior designers"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Elevator installation team"
-          ]
+          "children": ["Elevator installation team"]
         },
         " "
       ]
@@ -1079,9 +889,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Good coordination helps keep the project on schedule."
-      ]
+      "children": ["Good coordination helps keep the project on schedule."]
     },
     " ",
     {
@@ -1089,9 +897,7 @@
       "attributes": {
         "id": "section-15"
       },
-      "children": [
-        "14. Test the Elevator Before Handover"
-      ]
+      "children": ["14. Test the Elevator Before Handover"]
     },
     " ",
     {
@@ -1103,9 +909,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Tests should include:"
-      ]
+      "children": ["Tests should include:"]
     },
     " ",
     {
@@ -1114,51 +918,37 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door operation"
-          ]
+          "children": ["Door operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency systems"
-          ]
+          "children": ["Emergency systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Speed"
-          ]
+          "children": ["Speed"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Load testing"
-          ]
+          "children": ["Load testing"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Floor leveling"
-          ]
+          "children": ["Floor leveling"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Alarm systems"
-          ]
+          "children": ["Alarm systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Power backup"
-          ]
+          "children": ["Power backup"]
         },
         " "
       ]
@@ -1166,9 +956,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "A successful inspection ensures reliable daily operation."
-      ]
+      "children": ["A successful inspection ensures reliable daily operation."]
     },
     " ",
     {
@@ -1176,16 +964,12 @@
       "attributes": {
         "id": "section-16"
       },
-      "children": [
-        "15. Plan for Future Maintenance"
-      ]
+      "children": ["15. Plan for Future Maintenance"]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Elevator performance depends on regular servicing."
-      ]
+      "children": ["Elevator performance depends on regular servicing."]
     },
     " ",
     {
@@ -1199,9 +983,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Regular Lift Inspection Is Essential"
-              ]
+              "children": ["Regular Lift Inspection Is Essential"]
             }
           ]
         },
@@ -1221,9 +1003,7 @@
       "attributes": {
         "id": "section-17"
       },
-      "children": [
-        "16. Avoid Common Planning Errors"
-      ]
+      "children": ["16. Avoid Common Planning Errors"]
     },
     " ",
     {
@@ -1245,9 +1025,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Common Lift Installation Mistakes"
-              ]
+              "children": ["Common Lift Installation Mistakes"]
             }
           ]
         },
@@ -1261,44 +1039,32 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Incorrect shaft dimensions"
-          ]
+          "children": ["Incorrect shaft dimensions"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Choosing the wrong elevator capacity"
-          ]
+          "children": ["Choosing the wrong elevator capacity"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ignoring future maintenance access"
-          ]
+          "children": ["Ignoring future maintenance access"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Delaying elevator planning"
-          ]
+          "children": ["Delaying elevator planning"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Using low-quality materials"
-          ]
+          "children": ["Using low-quality materials"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Poor electrical coordination"
-          ]
+          "children": ["Poor electrical coordination"]
         },
         " "
       ]
@@ -1316,9 +1082,7 @@
       "attributes": {
         "id": "section-18"
       },
-      "children": [
-        "17. Choose an Experienced Elevator Partner"
-      ]
+      "children": ["17. Choose an Experienced Elevator Partner"]
     },
     " ",
     {
@@ -1330,9 +1094,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "An experienced team offers:"
-      ]
+      "children": ["An experienced team offers:"]
     },
     " ",
     {
@@ -1341,37 +1103,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Professional consultation"
-          ]
+          "children": ["Professional consultation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Customized solutions"
-          ]
+          "children": ["Customized solutions"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Quality installation"
-          ]
+          "children": ["Quality installation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Technical expertise"
-          ]
+          "children": ["Technical expertise"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reliable after-sales support"
-          ]
+          "children": ["Reliable after-sales support"]
         },
         " "
       ]
@@ -1389,9 +1141,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Best Elevators company in Bangalore"
-              ]
+              "children": ["Best Elevators company in Bangalore"]
             }
           ]
         },
@@ -1404,9 +1154,7 @@
       "attributes": {
         "id": "section-19"
       },
-      "children": [
-        "Final Checklist for Builders"
-      ]
+      "children": ["Final Checklist for Builders"]
     },
     " ",
     {
@@ -1422,93 +1170,67 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Building requirements evaluated"
-          ]
+          "children": ["Building requirements evaluated"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Elevator type selected"
-          ]
+          "children": ["Elevator type selected"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Shaft dimensions confirmed"
-          ]
+          "children": ["Shaft dimensions confirmed"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Load capacity calculated"
-          ]
+          "children": ["Load capacity calculated"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety features planned"
-          ]
+          "children": ["Safety features planned"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy-efficient systems chosen"
-          ]
+          "children": ["Energy-efficient systems chosen"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cabin materials finalized"
-          ]
+          "children": ["Cabin materials finalized"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Accessibility features included"
-          ]
+          "children": ["Accessibility features included"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Electrical planning completed"
-          ]
+          "children": ["Electrical planning completed"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Government approvals verified"
-          ]
+          "children": ["Government approvals verified"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Installation schedule prepared"
-          ]
+          "children": ["Installation schedule prepared"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Testing plan finalized"
-          ]
+          "children": ["Testing plan finalized"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Maintenance schedule created"
-          ]
+          "children": ["Maintenance schedule created"]
         },
         " "
       ]
@@ -1526,9 +1248,7 @@
       "attributes": {
         "id": "section-20"
       },
-      "children": [
-        "Frequently Asked Questions"
-      ]
+      "children": ["Frequently Asked Questions"]
     },
     " ",
     {
@@ -1553,9 +1273,7 @@
       "attributes": {
         "id": "section-22"
       },
-      "children": [
-        "2. How long does it take to install a commercial elevator?"
-      ]
+      "children": ["2. How long does it take to install a commercial elevator?"]
     },
     " ",
     {
@@ -1621,9 +1339,7 @@
       "attributes": {
         "id": "section-26"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -1645,9 +1361,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },

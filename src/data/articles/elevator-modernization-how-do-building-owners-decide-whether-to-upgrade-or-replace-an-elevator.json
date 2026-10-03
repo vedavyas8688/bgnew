@@ -95,9 +95,7 @@
         "A lift that’s twenty-two years old rarely fails dramatically. It gets slower to answer calls, the doors start hesitating, and the service engineer turns up more often than the housekeeping supervisor. Sooner or later a building owner or apartment committee has to stop patching and ask whether BG Elevators can help assess whether",
         {
           "tag": "strong",
-          "children": [
-            " "
-          ]
+          "children": [" "]
         },
         {
           "tag": "a",
@@ -110,9 +108,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "elevator modernization"
-                  ]
+                  "children": ["elevator modernization"]
                 }
               ]
             }
@@ -151,9 +147,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "What Wears Out First, and What Doesn’t"
-              ]
+              "children": ["What Wears Out First, and What Doesn’t"]
             }
           ]
         }
@@ -192,9 +186,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "What Elevator Modernization Actually Covers"
-              ]
+              "children": ["What Elevator Modernization Actually Covers"]
             }
           ]
         }
@@ -219,9 +211,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Controller and drive"
-              ]
+              "children": ["Controller and drive"]
             }
           ]
         }
@@ -246,9 +236,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Doors, safety gear and cabin"
-              ]
+              "children": ["Doors, safety gear and cabin"]
             }
           ]
         }
@@ -273,9 +261,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "When Elevator Replacement Is the Honest Answer"
-              ]
+              "children": ["When Elevator Replacement Is the Honest Answer"]
             }
           ]
         }
@@ -300,9 +286,7 @@
                   "children": [
                     {
                       "tag": "strong",
-                      "children": [
-                        "elevator replacement"
-                      ]
+                      "children": ["elevator replacement"]
                     }
                   ]
                 }
@@ -332,9 +316,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Elevator Lifecycle: Matching Age to Action"
-              ]
+              "children": ["Elevator Lifecycle: Matching Age to Action"]
             }
           ]
         }
@@ -359,9 +341,7 @@
                   "children": [
                     {
                       "tag": "strong",
-                      "children": [
-                        "elevator lifecycle"
-                      ]
+                      "children": ["elevator lifecycle"]
                     }
                   ]
                 }
@@ -391,9 +371,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Age"
-                      ]
+                      "children": ["Age"]
                     },
                     " "
                   ]
@@ -405,9 +383,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Typical condition"
-                      ]
+                      "children": ["Typical condition"]
                     },
                     " "
                   ]
@@ -419,9 +395,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Usual action"
-                      ]
+                      "children": ["Usual action"]
                     },
                     " "
                   ]
@@ -440,9 +414,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "0–8 years"
-                      ]
+                      "children": ["0–8 years"]
                     },
                     " "
                   ]
@@ -454,9 +426,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Original spec, parts freely available"
-                      ]
+                      "children": ["Original spec, parts freely available"]
                     },
                     " "
                   ]
@@ -468,9 +438,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Routine AMC only"
-                      ]
+                      "children": ["Routine AMC only"]
                     },
                     " "
                   ]
@@ -489,9 +457,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "8–15 years"
-                      ]
+                      "children": ["8–15 years"]
                     },
                     " "
                   ]
@@ -503,9 +469,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Door gear and boards wearing"
-                      ]
+                      "children": ["Door gear and boards wearing"]
                     },
                     " "
                   ]
@@ -517,9 +481,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Targeted repairs, plan a budget"
-                      ]
+                      "children": ["Targeted repairs, plan a budget"]
                     },
                     " "
                   ]
@@ -538,9 +500,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "15–25 years"
-                      ]
+                      "children": ["15–25 years"]
                     },
                     " "
                   ]
@@ -552,9 +512,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Controller obsolete, ride quality dropping"
-                      ]
+                      "children": ["Controller obsolete, ride quality dropping"]
                     },
                     " "
                   ]
@@ -587,9 +545,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "25+ years"
-                      ]
+                      "children": ["25+ years"]
                     },
                     " "
                   ]
@@ -601,9 +557,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Structure sound but everything else spent"
-                      ]
+                      "children": ["Structure sound but everything else spent"]
                     },
                     " "
                   ]
@@ -636,9 +590,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Any age with shaft or capacity faults"
-                      ]
+                      "children": ["Any age with shaft or capacity faults"]
                     },
                     " "
                   ]
@@ -650,9 +602,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Civil limits reached"
-                      ]
+                      "children": ["Civil limits reached"]
                     },
                     " "
                   ]
@@ -664,9 +614,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Replacement"
-                      ]
+                      "children": ["Replacement"]
                     },
                     " "
                   ]
@@ -703,9 +651,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Elevator Modernization Against Full Replacement"
-              ]
+              "children": ["Elevator Modernization Against Full Replacement"]
             }
           ]
         }
@@ -731,9 +677,7 @@
               "children": [
                 {
                   "tag": "strong",
-                  "children": [
-                    "Cost:"
-                  ]
+                  "children": ["Cost:"]
                 }
               ]
             },
@@ -749,9 +693,7 @@
               "children": [
                 {
                   "tag": "strong",
-                  "children": [
-                    "Downtime:"
-                  ]
+                  "children": ["Downtime:"]
                 }
               ]
             },
@@ -770,9 +712,7 @@
                       "children": [
                         {
                           "tag": "strong",
-                          "children": [
-                            "lift modernization"
-                          ]
+                          "children": ["lift modernization"]
                         }
                       ]
                     }
@@ -792,9 +732,7 @@
               "children": [
                 {
                   "tag": "strong",
-                  "children": [
-                    "Disruption:"
-                  ]
+                  "children": ["Disruption:"]
                 }
               ]
             },
@@ -810,9 +748,7 @@
               "children": [
                 {
                   "tag": "strong",
-                  "children": [
-                    "Lifespan gained:"
-                  ]
+                  "children": ["Lifespan gained:"]
                 }
               ]
             },
@@ -828,9 +764,7 @@
               "children": [
                 {
                   "tag": "strong",
-                  "children": [
-                    "Warranty:"
-                  ]
+                  "children": ["Warranty:"]
                 }
               ]
             },
@@ -859,9 +793,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Compliance and Licensing You Can’t Skip"
-              ]
+              "children": ["Compliance and Licensing You Can’t Skip"]
             }
           ]
         }
@@ -893,9 +825,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Building the Decision Case"
-              ]
+              "children": ["Building the Decision Case"]
             }
           ]
         }
@@ -913,9 +843,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Questions worth asking a vendor"
-              ]
+              "children": ["Questions worth asking a vendor"]
             }
           ]
         }
@@ -1002,9 +930,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1022,9 +948,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "1. How long does elevator modernization take?"
-              ]
+              "children": ["1. How long does elevator modernization take?"]
             }
           ]
         }
@@ -1077,9 +1001,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "3. Can we modernize only the doors and controller?"
-              ]
+              "children": ["3. Can we modernize only the doors and controller?"]
             }
           ]
         }
@@ -1132,9 +1054,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1166,9 +1086,7 @@
                   "children": [
                     {
                       "tag": "strong",
-                      "children": [
-                        "Contact BG Elevators"
-                      ]
+                      "children": ["Contact BG Elevators"]
                     }
                   ]
                 }
@@ -1191,9 +1109,7 @@
                   "children": [
                     {
                       "tag": "strong",
-                      "children": [
-                        "follow BG Elevators on Instagram"
-                      ]
+                      "children": ["follow BG Elevators on Instagram"]
                     }
                   ]
                 }

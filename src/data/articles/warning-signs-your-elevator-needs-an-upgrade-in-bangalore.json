@@ -126,9 +126,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "before installing an elevator"
-              ]
+              "children": ["before installing an elevator"]
             }
           ]
         },
@@ -148,9 +146,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Why Elevator Upgrades Are Important"
-          ]
+          "children": ["Why Elevator Upgrades Are Important"]
         }
       ]
     },
@@ -164,9 +160,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Elevator upgrades are important because they help:"
-      ]
+      "children": ["Elevator upgrades are important because they help:"]
     },
     " ",
     {
@@ -175,44 +169,32 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improve passenger safety"
-          ]
+          "children": ["Improve passenger safety"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduce frequent breakdowns"
-          ]
+          "children": ["Reduce frequent breakdowns"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Enhance ride comfort"
-          ]
+          "children": ["Enhance ride comfort"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lower maintenance costs"
-          ]
+          "children": ["Lower maintenance costs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Increase property value"
-          ]
+          "children": ["Increase property value"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improve energy efficiency"
-          ]
+          "children": ["Improve energy efficiency"]
         },
         " "
       ]
@@ -233,9 +215,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Frequent Elevator Breakdowns"
-          ]
+          "children": ["Frequent Elevator Breakdowns"]
         }
       ]
     },
@@ -249,9 +229,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Common causes include:"
-      ]
+      "children": ["Common causes include:"]
     },
     " ",
     {
@@ -260,37 +238,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Worn-out motors"
-          ]
+          "children": ["Worn-out motors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Old wiring systems"
-          ]
+          "children": ["Old wiring systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faulty control panels"
-          ]
+          "children": ["Faulty control panels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door sensor issues"
-          ]
+          "children": ["Door sensor issues"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Damaged cables"
-          ]
+          "children": ["Damaged cables"]
         },
         " "
       ]
@@ -311,9 +279,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Slow Elevator Performance"
-          ]
+          "children": ["Slow Elevator Performance"]
         }
       ]
     },
@@ -331,30 +297,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Delayed door opening"
-          ]
+          "children": ["Delayed door opening"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Slow floor response"
-          ]
+          "children": ["Slow floor response"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Jerky movement"
-          ]
+          "children": ["Jerky movement"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Longer waiting times"
-          ]
+          "children": ["Longer waiting times"]
         },
         " "
       ]
@@ -382,9 +340,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Unusual Elevator Noises"
-          ]
+          "children": ["Unusual Elevator Noises"]
         }
       ]
     },
@@ -398,9 +354,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Common noises include:"
-      ]
+      "children": ["Common noises include:"]
     },
     " ",
     {
@@ -409,37 +363,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Grinding sounds"
-          ]
+          "children": ["Grinding sounds"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Vibrations"
-          ]
+          "children": ["Vibrations"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Metal friction"
-          ]
+          "children": ["Metal friction"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Clicking noises"
-          ]
+          "children": ["Clicking noises"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door rattling"
-          ]
+          "children": ["Door rattling"]
         },
         " "
       ]
@@ -467,9 +411,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Outdated Elevator Interiors"
-          ]
+          "children": ["Outdated Elevator Interiors"]
         }
       ]
     },
@@ -487,37 +429,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Worn flooring"
-          ]
+          "children": ["Worn flooring"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Damaged wall panels"
-          ]
+          "children": ["Damaged wall panels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Poor lighting"
-          ]
+          "children": ["Poor lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Outdated buttons"
-          ]
+          "children": ["Outdated buttons"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faded finishes"
-          ]
+          "children": ["Faded finishes"]
         },
         " "
       ]
@@ -525,9 +457,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Modern elevator upgrades improve cabin aesthetics with:"
-      ]
+      "children": ["Modern elevator upgrades improve cabin aesthetics with:"]
     },
     " ",
     {
@@ -536,37 +466,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Stainless steel interiors"
-          ]
+          "children": ["Stainless steel interiors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED lighting"
-          ]
+          "children": ["LED lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Stylish control panels"
-          ]
+          "children": ["Stylish control panels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Glass finishes"
-          ]
+          "children": ["Glass finishes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Modern flooring"
-          ]
+          "children": ["Modern flooring"]
         },
         " "
       ]
@@ -587,9 +507,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Increased Maintenance Costs"
-          ]
+          "children": ["Increased Maintenance Costs"]
         }
       ]
     },
@@ -603,9 +521,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Older elevators often require:"
-      ]
+      "children": ["Older elevators often require:"]
     },
     " ",
     {
@@ -614,30 +530,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Frequent technician visits"
-          ]
+          "children": ["Frequent technician visits"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Replacement of outdated components"
-          ]
+          "children": ["Replacement of outdated components"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency repairs"
-          ]
+          "children": ["Emergency repairs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Continuous servicing"
-          ]
+          "children": ["Continuous servicing"]
         },
         " "
       ]
@@ -658,9 +566,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Elevator Door Problems"
-          ]
+          "children": ["Elevator Door Problems"]
         }
       ]
     },
@@ -674,9 +580,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Signs include:"
-      ]
+      "children": ["Signs include:"]
     },
     " ",
     {
@@ -685,37 +589,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Doors not closing properly"
-          ]
+          "children": ["Doors not closing properly"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Slow door movement"
-          ]
+          "children": ["Slow door movement"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sudden door reopening"
-          ]
+          "children": ["Sudden door reopening"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sensor malfunctions"
-          ]
+          "children": ["Sensor malfunctions"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door shaking"
-          ]
+          "children": ["Door shaking"]
         },
         " "
       ]
@@ -736,9 +630,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Poor Ride Quality"
-          ]
+          "children": ["Poor Ride Quality"]
         }
       ]
     },
@@ -756,30 +648,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Jerky motion"
-          ]
+          "children": ["Jerky motion"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sudden stopping"
-          ]
+          "children": ["Sudden stopping"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cabin shaking"
-          ]
+          "children": ["Cabin shaking"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Uneven leveling"
-          ]
+          "children": ["Uneven leveling"]
         },
         " "
       ]
@@ -807,9 +691,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "High Power Consumption"
-          ]
+          "children": ["High Power Consumption"]
         }
       ]
     },
@@ -823,9 +705,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Modern elevator systems use:"
-      ]
+      "children": ["Modern elevator systems use:"]
     },
     " ",
     {
@@ -834,30 +714,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy-efficient motors"
-          ]
+          "children": ["Energy-efficient motors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smart drive systems"
-          ]
+          "children": ["Smart drive systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED lighting"
-          ]
+          "children": ["LED lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Automatic standby features"
-          ]
+          "children": ["Automatic standby features"]
         },
         " "
       ]
@@ -878,9 +750,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Difficulty Finding Spare Parts"
-          ]
+          "children": ["Difficulty Finding Spare Parts"]
         }
       ]
     },
@@ -907,9 +777,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Safety Features Are Missing"
-          ]
+          "children": ["Safety Features Are Missing"]
         }
       ]
     },
@@ -923,9 +791,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Important safety features include:"
-      ]
+      "children": ["Important safety features include:"]
     },
     " ",
     {
@@ -934,37 +800,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Automatic rescue devices"
-          ]
+          "children": ["Automatic rescue devices"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency alarms"
-          ]
+          "children": ["Emergency alarms"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door safety sensors"
-          ]
+          "children": ["Door safety sensors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Power backup systems"
-          ]
+          "children": ["Power backup systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Overload protection"
-          ]
+          "children": ["Overload protection"]
         },
         " "
       ]
@@ -985,9 +841,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Elevator Modernization for Residential Buildings"
-          ]
+          "children": ["Elevator Modernization for Residential Buildings"]
         }
       ]
     },
@@ -1005,30 +859,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Mechanical components"
-          ]
+          "children": ["Mechanical components"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Electrical systems"
-          ]
+          "children": ["Electrical systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Elevator doors"
-          ]
+          "children": ["Elevator doors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cabin interiors"
-          ]
+          "children": ["Cabin interiors"]
         },
         " "
       ]
@@ -1049,9 +895,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Growing Demand for Smart Elevators"
-          ]
+          "children": ["Growing Demand for Smart Elevators"]
         }
       ]
     },
@@ -1069,30 +913,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Touchless controls"
-          ]
+          "children": ["Touchless controls"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smart monitoring systems"
-          ]
+          "children": ["Smart monitoring systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Voice command features"
-          ]
+          "children": ["Voice command features"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy-saving technology"
-          ]
+          "children": ["Energy-saving technology"]
         },
         " "
       ]
@@ -1110,9 +946,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "small home lifts in Bangalore"
-              ]
+              "children": ["small home lifts in Bangalore"]
             }
           ]
         },
@@ -1128,9 +962,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Elevator Upgrades Improve Property Value"
-          ]
+          "children": ["Elevator Upgrades Improve Property Value"]
         }
       ]
     },
@@ -1144,9 +976,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Potential buyers and tenants often prefer buildings with:"
-      ]
+      "children": ["Potential buyers and tenants often prefer buildings with:"]
     },
     " ",
     {
@@ -1155,30 +985,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reliable elevators"
-          ]
+          "children": ["Reliable elevators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Modern interiors"
-          ]
+          "children": ["Modern interiors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety features"
-          ]
+          "children": ["Safety features"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy-efficient systems"
-          ]
+          "children": ["Energy-efficient systems"]
         },
         " "
       ]
@@ -1199,9 +1021,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Importance of Professional Inspection"
-          ]
+          "children": ["Importance of Professional Inspection"]
         }
       ]
     },
@@ -1215,9 +1035,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Professional inspections check:"
-      ]
+      "children": ["Professional inspections check:"]
     },
     " ",
     {
@@ -1226,37 +1044,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Motor condition"
-          ]
+          "children": ["Motor condition"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Control systems"
-          ]
+          "children": ["Control systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety devices"
-          ]
+          "children": ["Safety devices"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door operation"
-          ]
+          "children": ["Door operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cable performance"
-          ]
+          "children": ["Cable performance"]
         },
         " "
       ]
@@ -1277,9 +1085,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Common Signs Building Owners Ignore"
-          ]
+          "children": ["Common Signs Building Owners Ignore"]
         }
       ]
     },
@@ -1297,30 +1103,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Major breakdowns"
-          ]
+          "children": ["Major breakdowns"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Passenger complaints"
-          ]
+          "children": ["Passenger complaints"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Increased repair costs"
-          ]
+          "children": ["Increased repair costs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety concerns"
-          ]
+          "children": ["Safety concerns"]
         },
         " "
       ]
@@ -1341,18 +1139,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Benefits of Elevator Modernization"
-          ]
+          "children": ["Benefits of Elevator Modernization"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Modernization offers several long-term benefits:"
-      ]
+      "children": ["Modernization offers several long-term benefits:"]
     },
     " ",
     {
@@ -1361,44 +1155,32 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improved safety"
-          ]
+          "children": ["Improved safety"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Better ride comfort"
-          ]
+          "children": ["Better ride comfort"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lower maintenance costs"
-          ]
+          "children": ["Lower maintenance costs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced power consumption"
-          ]
+          "children": ["Reduced power consumption"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Enhanced appearance"
-          ]
+          "children": ["Enhanced appearance"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Better passenger experience"
-          ]
+          "children": ["Better passenger experience"]
         },
         " "
       ]
@@ -1419,9 +1201,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Choosing the Right Elevator Upgrade Solution"
-          ]
+          "children": ["Choosing the Right Elevator Upgrade Solution"]
         }
       ]
     },
@@ -1439,37 +1219,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Building size"
-          ]
+          "children": ["Building size"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Passenger usage"
-          ]
+          "children": ["Passenger usage"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Elevator age"
-          ]
+          "children": ["Elevator age"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Budget"
-          ]
+          "children": ["Budget"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety needs"
-          ]
+          "children": ["Safety needs"]
         },
         " "
       ]
@@ -1490,9 +1260,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Modern Elevator Design Trends"
-          ]
+          "children": ["Modern Elevator Design Trends"]
         }
       ]
     },
@@ -1506,9 +1274,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Popular design upgrades include:"
-      ]
+      "children": ["Popular design upgrades include:"]
     },
     " ",
     {
@@ -1517,37 +1283,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Glass cabin designs"
-          ]
+          "children": ["Glass cabin designs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Touchscreen control panels"
-          ]
+          "children": ["Touchscreen control panels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED lighting"
-          ]
+          "children": ["LED lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Stainless steel interiors"
-          ]
+          "children": ["Stainless steel interiors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smart monitoring systems"
-          ]
+          "children": ["Smart monitoring systems"]
         },
         " "
       ]
@@ -1577,9 +1333,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Experienced elevator professionals understand:"
-      ]
+      "children": ["Experienced elevator professionals understand:"]
     },
     " ",
     {
@@ -1588,37 +1342,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety standards"
-          ]
+          "children": ["Safety standards"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Building requirements"
-          ]
+          "children": ["Building requirements"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Modern technologies"
-          ]
+          "children": ["Modern technologies"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Installation quality"
-          ]
+          "children": ["Installation quality"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Maintenance planning"
-          ]
+          "children": ["Maintenance planning"]
         },
         " "
       ]
@@ -1636,9 +1380,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "best elevator company in Bangalore"
-              ]
+              "children": ["best elevator company in Bangalore"]
             }
           ]
         },
@@ -1654,9 +1396,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "FAQs"
-          ]
+          "children": ["FAQs"]
         }
       ]
     },
@@ -1670,9 +1410,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " How do I know if my elevator needs an upgrade?"
-              ]
+              "children": [" How do I know if my elevator needs an upgrade?"]
             }
           ]
         },
@@ -1722,9 +1460,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " How often should elevators be inspected?"
-              ]
+              "children": [" How often should elevators be inspected?"]
             }
           ]
         },
@@ -1799,9 +1535,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Conclusion"
-          ]
+          "children": ["Conclusion"]
         }
       ]
     },
@@ -1825,9 +1559,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },

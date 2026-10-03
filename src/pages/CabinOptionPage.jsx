@@ -1,6 +1,6 @@
-import ContentSection from '@/components/cabinoptionpage/ContentSection';
-import ConsultationSection from '@/components/shared/ConsultationSection';
-import data from '@/data/pages/cabin-option.json';
+import ContentSection from "@/components/cabinoptionpage/ContentSection";
+import ConsultationSection from "@/components/shared/ConsultationSection";
+import data from "@/data/pages/cabin-option.json";
 
 export default function CabinOptionPage() {
   return (

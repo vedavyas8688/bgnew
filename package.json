@@ -17,21 +17,22 @@
     "admin:create": "npm --prefix admin run create-admin"
   },
   "dependencies": {
+    "express": "^5.1.0",
+    "lucide-react": "^0.511.0",
+    "mongoose": "^8.15.1",
+    "multer": "^2.0.2",
+    "nodemailer": "^7.0.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-router-dom": "^7.6.0",
-    "lucide-react": "^0.511.0",
-    "express": "^5.1.0",
-    "multer": "^2.0.2",
-    "mongoose": "^8.15.1",
-    "nodemailer": "^7.0.3"
+    "react-router-dom": "^7.6.0"
   },
   "devDependencies": {
-    "vite": "^6.3.5",
-    "@vitejs/plugin-react": "^4.5.0",
-    "tailwindcss": "^4.1.8",
     "@tailwindcss/vite": "^4.1.8",
-    "tsx": "^4.19.4"
+    "@vitejs/plugin-react": "^4.5.0",
+    "prettier": "^3.9.9",
+    "tailwindcss": "^4.1.8",
+    "tsx": "^4.19.4",
+    "vite": "^6.3.5"
   },
   "engines": {
     "node": ">=22.12.0"

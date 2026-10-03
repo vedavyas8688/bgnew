@@ -1,4 +1,4 @@
-import { Carousel } from '@/components/ui';
+import { Carousel } from "@/components/ui";
 
 export default function ContentSection({ data }) {
   return (

@@ -115,9 +115,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "What is an Elevator?"
-          ]
+          "children": ["What is an Elevator?"]
         }
       ]
     },
@@ -134,9 +132,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Types of Elevators:"
-          ]
+          "children": ["Types of Elevators:"]
         }
       ]
     },
@@ -150,9 +146,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Passenger Elevators"
-              ]
+              "children": ["Passenger Elevators"]
             },
             " – Used in homes, apartments, and offices"
           ]
@@ -163,9 +157,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Freight Elevators"
-              ]
+              "children": ["Freight Elevators"]
             },
             " – Used for carrying heavy goods"
           ]
@@ -176,9 +168,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Hydraulic Elevators"
-              ]
+              "children": ["Hydraulic Elevators"]
             },
             " – Operate using fluid pressure"
           ]
@@ -189,9 +179,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Traction Elevators"
-              ]
+              "children": ["Traction Elevators"]
             },
             " – Use ropes and counterweights"
           ]
@@ -205,18 +193,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "How Does It Work?"
-          ]
+          "children": ["How Does It Work?"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "In simple terms:"
-      ]
+      "children": ["In simple terms:"]
     },
     " ",
     {
@@ -225,30 +209,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "A motor powers the movement"
-          ]
+          "children": ["A motor powers the movement"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Cables or pistons move the cabin up and down"
-          ]
+          "children": ["Cables or pistons move the cabin up and down"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "A control panel manages floor selection and operation"
-          ]
+          "children": ["A control panel manages floor selection and operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety systems ensure smooth and secure functioning"
-          ]
+          "children": ["Safety systems ensure smooth and secure functioning"]
         },
         " "
       ]
@@ -266,9 +242,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "common elevator problems"
-              ]
+              "children": ["common elevator problems"]
             }
           ]
         },
@@ -284,18 +258,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Why Elevator Maintenance is Important"
-          ]
+          "children": ["Why Elevator Maintenance is Important"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Regular maintenance ensures:"
-      ]
+      "children": ["Regular maintenance ensures:"]
     },
     " ",
     {
@@ -304,30 +274,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety of passengers"
-          ]
+          "children": ["Safety of passengers"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smooth operation"
-          ]
+          "children": ["Smooth operation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Longer lifespan of equipment"
-          ]
+          "children": ["Longer lifespan of equipment"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduced repair costs"
-          ]
+          "children": ["Reduced repair costs"]
         },
         " "
       ]
@@ -348,9 +310,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Top 10 Common Elevator Issues and How to Fix Them"
-          ]
+          "children": ["Top 10 Common Elevator Issues and How to Fix Them"]
         }
       ]
     },
@@ -363,9 +323,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "1. Elevator Not Moving"
-          ]
+          "children": ["1. Elevator Not Moving"]
         }
       ]
     },
@@ -393,9 +351,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -406,23 +362,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Power failure"
-          ]
+          "children": ["Power failure"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Control system issue"
-          ]
+          "children": ["Control system issue"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Motor malfunction"
-          ]
+          "children": ["Motor malfunction"]
         },
         " "
       ]
@@ -433,9 +383,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -446,23 +394,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check power supply"
-          ]
+          "children": ["Check power supply"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reset the system"
-          ]
+          "children": ["Reset the system"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Call a professional technician if the issue persists"
-          ]
+          "children": ["Call a professional technician if the issue persists"]
         },
         " "
       ]
@@ -476,9 +418,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "2. Slow Elevator Performance"
-          ]
+          "children": ["2. Slow Elevator Performance"]
         }
       ]
     },
@@ -506,9 +446,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -519,23 +457,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Worn-out motor"
-          ]
+          "children": ["Worn-out motor"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Overloading"
-          ]
+          "children": ["Overloading"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lack of lubrication"
-          ]
+          "children": ["Lack of lubrication"]
         },
         " "
       ]
@@ -546,9 +478,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -559,23 +489,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Avoid overloading"
-          ]
+          "children": ["Avoid overloading"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regular lubrication of moving parts"
-          ]
+          "children": ["Regular lubrication of moving parts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Motor inspection and servicing"
-          ]
+          "children": ["Motor inspection and servicing"]
         },
         " "
       ]
@@ -589,9 +513,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "3. Door Not Opening or Closing Properly"
-          ]
+          "children": ["3. Door Not Opening or Closing Properly"]
         }
       ]
     },
@@ -619,9 +541,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -632,23 +552,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Dirt in door tracks"
-          ]
+          "children": ["Dirt in door tracks"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Sensor malfunction"
-          ]
+          "children": ["Sensor malfunction"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Mechanical wear"
-          ]
+          "children": ["Mechanical wear"]
         },
         " "
       ]
@@ -659,9 +573,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -672,23 +584,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Clean door tracks regularly"
-          ]
+          "children": ["Clean door tracks regularly"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check and replace faulty sensors"
-          ]
+          "children": ["Check and replace faulty sensors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Repair or replace worn components"
-          ]
+          "children": ["Repair or replace worn components"]
         },
         " "
       ]
@@ -702,9 +608,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "4. Strange Noises During Operation"
-          ]
+          "children": ["4. Strange Noises During Operation"]
         }
       ]
     },
@@ -732,9 +636,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -745,23 +647,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Loose components"
-          ]
+          "children": ["Loose components"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lack of lubrication"
-          ]
+          "children": ["Lack of lubrication"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Worn-out parts"
-          ]
+          "children": ["Worn-out parts"]
         },
         " "
       ]
@@ -772,9 +668,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -785,23 +679,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Tighten loose parts"
-          ]
+          "children": ["Tighten loose parts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lubricate moving components"
-          ]
+          "children": ["Lubricate moving components"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Replace damaged parts"
-          ]
+          "children": ["Replace damaged parts"]
         },
         " "
       ]
@@ -815,9 +703,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "5. Elevator Stops Between Floors"
-          ]
+          "children": ["5. Elevator Stops Between Floors"]
         }
       ]
     },
@@ -845,9 +731,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -858,23 +742,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Power issues"
-          ]
+          "children": ["Power issues"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faulty sensors"
-          ]
+          "children": ["Faulty sensors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Control system errors"
-          ]
+          "children": ["Control system errors"]
         },
         " "
       ]
@@ -885,9 +763,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -898,23 +774,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency rescue system activation"
-          ]
+          "children": ["Emergency rescue system activation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regular inspection of sensors"
-          ]
+          "children": ["Regular inspection of sensors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Professional troubleshooting"
-          ]
+          "children": ["Professional troubleshooting"]
         },
         " "
       ]
@@ -928,9 +798,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "6. Button or Control Panel Not Working"
-          ]
+          "children": ["6. Button or Control Panel Not Working"]
         }
       ]
     },
@@ -958,9 +826,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -971,23 +837,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Electrical faults"
-          ]
+          "children": ["Electrical faults"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Wiring issues"
-          ]
+          "children": ["Wiring issues"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Panel damage"
-          ]
+          "children": ["Panel damage"]
         },
         " "
       ]
@@ -998,9 +858,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -1011,23 +869,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Repair or replace control panel"
-          ]
+          "children": ["Repair or replace control panel"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Check wiring connections"
-          ]
+          "children": ["Check wiring connections"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regular system diagnostics"
-          ]
+          "children": ["Regular system diagnostics"]
         },
         " "
       ]
@@ -1041,9 +893,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "7. Overheating of Elevator Motor"
-          ]
+          "children": ["7. Overheating of Elevator Motor"]
         }
       ]
     },
@@ -1071,9 +921,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -1084,23 +932,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Overuse"
-          ]
+          "children": ["Overuse"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Poor ventilation"
-          ]
+          "children": ["Poor ventilation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Lack of maintenance"
-          ]
+          "children": ["Lack of maintenance"]
         },
         " "
       ]
@@ -1111,9 +953,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -1124,23 +964,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure proper ventilation"
-          ]
+          "children": ["Ensure proper ventilation"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regular motor servicing"
-          ]
+          "children": ["Regular motor servicing"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Avoid continuous overloading"
-          ]
+          "children": ["Avoid continuous overloading"]
         },
         " "
       ]
@@ -1154,9 +988,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "8. Elevator Vibrations or Jerks"
-          ]
+          "children": ["8. Elevator Vibrations or Jerks"]
         }
       ]
     },
@@ -1184,9 +1016,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -1197,23 +1027,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Misaligned rails"
-          ]
+          "children": ["Misaligned rails"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Worn cables"
-          ]
+          "children": ["Worn cables"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Poor installation"
-          ]
+          "children": ["Poor installation"]
         },
         " "
       ]
@@ -1224,9 +1048,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -1237,23 +1059,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Align guide rails"
-          ]
+          "children": ["Align guide rails"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Replace worn cables"
-          ]
+          "children": ["Replace worn cables"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Professional inspection"
-          ]
+          "children": ["Professional inspection"]
         },
         " "
       ]
@@ -1267,9 +1083,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "9. Power Failure Issues"
-          ]
+          "children": ["9. Power Failure Issues"]
         }
       ]
     },
@@ -1297,9 +1111,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -1310,16 +1122,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "No backup system"
-          ]
+          "children": ["No backup system"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Electrical faults"
-          ]
+          "children": ["Electrical faults"]
         },
         " "
       ]
@@ -1330,9 +1138,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -1343,16 +1149,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Install UPS or backup power system"
-          ]
+          "children": ["Install UPS or backup power system"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regular electrical maintenance"
-          ]
+          "children": ["Regular electrical maintenance"]
         },
         " "
       ]
@@ -1366,9 +1168,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "10. Frequent Breakdowns"
-          ]
+          "children": ["10. Frequent Breakdowns"]
         }
       ]
     },
@@ -1396,9 +1196,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Causes:"
-          ]
+          "children": ["Causes:"]
         }
       ]
     },
@@ -1409,23 +1207,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Poor maintenance"
-          ]
+          "children": ["Poor maintenance"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Old components"
-          ]
+          "children": ["Old components"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improper usage"
-          ]
+          "children": ["Improper usage"]
         },
         " "
       ]
@@ -1436,9 +1228,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Solution:"
-          ]
+          "children": ["Solution:"]
         }
       ]
     },
@@ -1449,23 +1239,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regular servicing"
-          ]
+          "children": ["Regular servicing"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Replace outdated parts"
-          ]
+          "children": ["Replace outdated parts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Follow proper usage guidelines"
-          ]
+          "children": ["Follow proper usage guidelines"]
         },
         " "
       ]
@@ -1479,9 +1263,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Preventive Tips to Avoid Elevator Problems"
-          ]
+          "children": ["Preventive Tips to Avoid Elevator Problems"]
         }
       ]
     },
@@ -1499,37 +1281,27 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Schedule regular inspections"
-          ]
+          "children": ["Schedule regular inspections"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Avoid overloading the lift"
-          ]
+          "children": ["Avoid overloading the lift"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Keep the elevator clean"
-          ]
+          "children": ["Keep the elevator clean"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Train users on proper usage"
-          ]
+          "children": ["Train users on proper usage"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Fix small issues before they become big problems"
-          ]
+          "children": ["Fix small issues before they become big problems"]
         },
         " "
       ]
@@ -1547,9 +1319,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "lift maintenance in Bangalore"
-              ]
+              "children": ["lift maintenance in Bangalore"]
             }
           ]
         },
@@ -1565,9 +1335,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Importance of Professional Maintenance Services"
-          ]
+          "children": ["Importance of Professional Maintenance Services"]
         }
       ]
     },
@@ -1584,9 +1352,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "AMC & service maintenance"
-              ]
+              "children": ["AMC & service maintenance"]
             }
           ]
         },
@@ -1600,30 +1366,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Detect problems early"
-          ]
+          "children": ["Detect problems early"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduce downtime"
-          ]
+          "children": ["Reduce downtime"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improve safety standards"
-          ]
+          "children": ["Improve safety standards"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Save repair costs"
-          ]
+          "children": ["Save repair costs"]
         },
         " "
       ]
@@ -1644,9 +1402,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "FAQs"
-          ]
+          "children": ["FAQs"]
         }
       ]
     },
@@ -1756,9 +1512,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Conclusion"
-          ]
+          "children": ["Conclusion"]
         }
       ]
     },
@@ -1789,9 +1543,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },

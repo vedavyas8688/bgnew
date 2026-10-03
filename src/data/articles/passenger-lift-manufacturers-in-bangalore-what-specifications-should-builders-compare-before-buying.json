@@ -104,9 +104,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "BG Elevators"
-                  ]
+                  "children": ["BG Elevators"]
                 }
               ]
             }
@@ -118,9 +116,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Alt text: Passenger lift with builders reviewing plans."
-      ]
+      "children": ["Alt text: Passenger lift with builders reviewing plans."]
     },
     {
       "tag": "br",
@@ -152,9 +148,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Start With the Shaft, Not the Brochure"
-              ]
+              "children": ["Start With the Shaft, Not the Brochure"]
             }
           ]
         }
@@ -170,9 +164,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Before comparing suppliers, confirm:"
-      ]
+      "children": ["Before comparing suppliers, confirm:"]
     },
     " ",
     {
@@ -181,23 +173,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Clear internal shaft width and depth"
-          ]
+          "children": ["Clear internal shaft width and depth"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Pit depth"
-          ]
+          "children": ["Pit depth"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Available overhead clearance"
-          ]
+          "children": ["Available overhead clearance"]
         },
         " "
       ]
@@ -225,9 +211,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Passenger Lift Manufacturers in Bangalore"
-                  ]
+                  "children": ["Passenger Lift Manufacturers in Bangalore"]
                 }
               ]
             }
@@ -275,9 +259,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Rated load versus what the cabin really holds"
-              ]
+              "children": ["Rated load versus what the cabin really holds"]
             }
           ]
         }
@@ -298,9 +280,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Passenger elevator capacity"
-                  ]
+                  "children": ["Passenger elevator capacity"]
                 }
               ]
             }
@@ -373,9 +353,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Stretcher clearance."
-              ]
+              "children": ["Stretcher clearance."]
             },
             " In a G+4 or taller, one lift should take a stretcher diagonally. Roughly 1,100 x 2,000 mm handles it; a square cabin does not."
           ]
@@ -386,9 +364,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Clear door opening."
-              ]
+              "children": ["Clear door opening."]
             },
             " 800 mm feels tight with luggage. 900 mm is the residential default."
           ]
@@ -399,9 +375,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Furniture diagonal."
-              ]
+              "children": ["Furniture diagonal."]
             },
             " Check a three-seater sofa and a double mattress against the cabin diagonal before approving the lift cabin size."
           ]
@@ -448,9 +422,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Comparing the three common drives"
-              ]
+              "children": ["Comparing the three common drives"]
             }
           ]
         }
@@ -466,9 +438,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Machine-room-less gearless traction:"
-              ]
+              "children": ["Machine-room-less gearless traction:"]
             },
             " the all-round choice for residential and small commercial buildings. No machine room, good energy figures, smooth ride, needs adequate overhead."
           ]
@@ -479,9 +449,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Hydraulic:"
-              ]
+              "children": ["Hydraulic:"]
             },
             " low overhead demand and forgiving on structure, which suits retrofits and low-rise villas. Higher running cost, and speed usually capped near 0.3 to 0.5 m/s."
           ]
@@ -492,9 +460,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Geared traction with a machine room:"
-              ]
+              "children": ["Geared traction with a machine room:"]
             },
             " durable and simple to service, but you surrender terrace space."
           ]
@@ -538,9 +504,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "passenger lift specifications"
-                  ]
+                  "children": ["passenger lift specifications"]
                 }
               ]
             }
@@ -572,9 +536,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Specification"
-                      ]
+                      "children": ["Specification"]
                     },
                     " "
                   ]
@@ -586,9 +548,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "What to ask for"
-                      ]
+                      "children": ["What to ask for"]
                     },
                     " "
                   ]
@@ -600,9 +560,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Why it matters"
-                      ]
+                      "children": ["Why it matters"]
                     },
                     " "
                   ]
@@ -621,9 +579,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Rated load"
-                      ]
+                      "children": ["Rated load"]
                     },
                     " "
                   ]
@@ -635,9 +591,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "kg first, persons second"
-                      ]
+                      "children": ["kg first, persons second"]
                     },
                     " "
                   ]
@@ -649,9 +603,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Person counts flatter small cabins"
-                      ]
+                      "children": ["Person counts flatter small cabins"]
                     },
                     " "
                   ]
@@ -670,9 +622,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Internal cabin"
-                      ]
+                      "children": ["Internal cabin"]
                     },
                     " "
                   ]
@@ -684,9 +634,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Clear width x depth x height, mm"
-                      ]
+                      "children": ["Clear width x depth x height, mm"]
                     },
                     " "
                   ]
@@ -698,9 +646,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Decides furniture and stretcher fit"
-                      ]
+                      "children": ["Decides furniture and stretcher fit"]
                     },
                     " "
                   ]
@@ -719,9 +665,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Doors"
-                      ]
+                      "children": ["Doors"]
                     },
                     " "
                   ]
@@ -733,9 +677,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Type plus clear opening in mm"
-                      ]
+                      "children": ["Type plus clear opening in mm"]
                     },
                     " "
                   ]
@@ -747,9 +689,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Manual doors age badly in shared buildings"
-                      ]
+                      "children": ["Manual doors age badly in shared buildings"]
                     },
                     " "
                   ]
@@ -768,9 +708,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Drive and controller"
-                      ]
+                      "children": ["Drive and controller"]
                     },
                     " "
                   ]
@@ -782,9 +720,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Gearless MRL or hydraulic, VVVF"
-                      ]
+                      "children": ["Gearless MRL or hydraulic, VVVF"]
                     },
                     " "
                   ]
@@ -796,9 +732,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Sets ride quality and running cost"
-                      ]
+                      "children": ["Sets ride quality and running cost"]
                     },
                     " "
                   ]
@@ -817,9 +751,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Power supply"
-                      ]
+                      "children": ["Power supply"]
                     },
                     " "
                   ]
@@ -831,9 +763,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "kVA demand and starting current"
-                      ]
+                      "children": ["kVA demand and starting current"]
                     },
                     " "
                   ]
@@ -845,9 +775,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Undersized DG sets stall on start"
-                      ]
+                      "children": ["Undersized DG sets stall on start"]
                     },
                     " "
                   ]
@@ -866,9 +794,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "ARD"
-                      ]
+                      "children": ["ARD"]
                     },
                     " "
                   ]
@@ -880,9 +806,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Included, with backup duration"
-                      ]
+                      "children": ["Included, with backup duration"]
                     },
                     " "
                   ]
@@ -894,9 +818,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Local outages make this near-essential"
-                      ]
+                      "children": ["Local outages make this near-essential"]
                     },
                     " "
                   ]
@@ -930,9 +852,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "lift manufacturers in Bangalore"
-                  ]
+                  "children": ["lift manufacturers in Bangalore"]
                 }
               ]
             }
@@ -1048,9 +968,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1068,9 +986,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "How much does a passenger lift cost in Bangalore?"
-              ]
+              "children": ["How much does a passenger lift cost in Bangalore?"]
             }
           ]
         }
@@ -1122,9 +1038,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Do I need a licence to run a lift in Karnataka?"
-              ]
+              "children": ["Do I need a licence to run a lift in Karnataka?"]
             }
           ]
         }
@@ -1176,9 +1090,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1207,9 +1119,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Contact BG Elevators today"
-                  ]
+                  "children": ["Contact BG Elevators today"]
                 }
               ]
             }
@@ -1233,9 +1143,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Follow us on Instagram"
-                  ]
+                  "children": ["Follow us on Instagram"]
                 }
               ]
             }

@@ -1,4 +1,4 @@
-import { AppLink } from '@/components/ui';
+import { AppLink } from "@/components/ui";
 
 export default function ContentSection({ data }) {
   return (

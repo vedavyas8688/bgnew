@@ -104,9 +104,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "BG Elevators"
-                  ]
+                  "children": ["BG Elevators"]
                 }
               ]
             }
@@ -152,9 +150,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Why the First Phone Call Decides the Repair Time"
-              ]
+              "children": ["Why the First Phone Call Decides the Repair Time"]
             }
           ]
         }
@@ -237,16 +233,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Is anyone trapped in the car right now?"
-          ]
+          "children": ["Is anyone trapped in the car right now?"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "What does the display or controller show, if anything?"
-          ]
+          "children": ["What does the display or controller show, if anything?"]
         },
         " "
       ]
@@ -270,9 +262,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Describing the Fault Properly"
-              ]
+              "children": ["Describing the Fault Properly"]
             }
           ]
         }
@@ -290,9 +280,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Sounds and movement"
-              ]
+              "children": ["Sounds and movement"]
             }
           ]
         }
@@ -324,9 +312,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Patterns over time"
-              ]
+              "children": ["Patterns over time"]
             }
           ]
         }
@@ -358,9 +344,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "The Details That Speed Up Elevator Fault Diagnosis"
-              ]
+              "children": ["The Details That Speed Up Elevator Fault Diagnosis"]
             }
           ]
         }
@@ -389,9 +373,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Information"
-                      ]
+                      "children": ["Information"]
                     },
                     " "
                   ]
@@ -403,9 +385,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Why it matters"
-                      ]
+                      "children": ["Why it matters"]
                     },
                     " "
                   ]
@@ -424,9 +404,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Controller error code or fault display"
-                      ]
+                      "children": ["Controller error code or fault display"]
                     },
                     " "
                   ]
@@ -459,9 +437,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Floor where the fault occurs"
-                      ]
+                      "children": ["Floor where the fault occurs"]
                     },
                     " "
                   ]
@@ -494,9 +470,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Time of day and weather"
-                      ]
+                      "children": ["Time of day and weather"]
                     },
                     " "
                   ]
@@ -529,9 +503,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Recent electrical or civil work"
-                      ]
+                      "children": ["Recent electrical or civil work"]
                     },
                     " "
                   ]
@@ -543,44 +515,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Explains sudden onset faults"
-                      ]
-                    },
-                    " "
-                  ]
-                },
-                " "
-              ]
-            },
-            " ",
-            {
-              "tag": "tr",
-              "children": [
-                " ",
-                {
-                  "tag": "td",
-                  "children": [
-                    " ",
-                    {
-                      "tag": "p",
-                      "children": [
-                        "Photo of the controller display"
-                      ]
-                    },
-                    " "
-                  ]
-                },
-                " ",
-                {
-                  "tag": "td",
-                  "children": [
-                    " ",
-                    {
-                      "tag": "p",
-                      "children": [
-                        "Removes transcription errors"
-                      ]
+                      "children": ["Explains sudden onset faults"]
                     },
                     " "
                   ]
@@ -599,9 +534,38 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Whether the safety circuit LED is lit"
-                      ]
+                      "children": ["Photo of the controller display"]
+                    },
+                    " "
+                  ]
+                },
+                " ",
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "p",
+                      "children": ["Removes transcription errors"]
+                    },
+                    " "
+                  ]
+                },
+                " "
+              ]
+            },
+            " ",
+            {
+              "tag": "tr",
+              "children": [
+                " ",
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "p",
+                      "children": ["Whether the safety circuit LED is lit"]
                     },
                     " "
                   ]
@@ -634,9 +598,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Number of people in the car when it failed"
-                      ]
+                      "children": ["Number of people in the car when it failed"]
                     },
                     " "
                   ]
@@ -648,9 +610,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Flags overload or brake slip issues"
-                      ]
+                      "children": ["Flags overload or brake slip issues"]
                     },
                     " "
                   ]
@@ -669,9 +629,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Last AMC visit date and what was done"
-                      ]
+                      "children": ["Last AMC visit date and what was done"]
                     },
                     " "
                   ]
@@ -683,9 +641,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Avoids repeating recent checks"
-                      ]
+                      "children": ["Avoids repeating recent checks"]
                     },
                     " "
                   ]
@@ -719,9 +675,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "elevator fault diagnosis"
-                  ]
+                  "children": ["elevator fault diagnosis"]
                 }
               ]
             }
@@ -742,9 +696,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Photos, Codes and Logs Beat Descriptions"
-              ]
+              "children": ["Photos, Codes and Logs Beat Descriptions"]
             }
           ]
         }
@@ -773,9 +725,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "elevator repair Bangalore"
-                  ]
+                  "children": ["elevator repair Bangalore"]
                 }
               ]
             }
@@ -841,9 +791,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Car runs but won't level correctly:"
-              ]
+              "children": ["Car runs but won't level correctly:"]
             },
             " levelling sensor, magnet position or brake wear."
           ]
@@ -854,9 +802,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Lift works on some floors only:"
-              ]
+              "children": ["Lift works on some floors only:"]
             },
             " landing call button, wiring at that landing, or a door contact on that floor."
           ]
@@ -867,9 +813,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Car stops mid-travel and resets:"
-              ]
+              "children": ["Car stops mid-travel and resets:"]
             },
             " a safety circuit trip, often overspeed governor, pit switch or a loose safety chain connection."
           ]
@@ -880,9 +824,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Everything dead, no lights:"
-              ]
+              "children": ["Everything dead, no lights:"]
             },
             " supply, phase failure relay, or main switch tripped."
           ]
@@ -893,9 +835,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Unusual smell or hot machine room:"
-              ]
+              "children": ["Unusual smell or hot machine room:"]
             },
             " stop using the lift and call immediately."
           ]
@@ -919,9 +859,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "lift breakdown"
-                  ]
+                  "children": ["lift breakdown"]
                 }
               ]
             }
@@ -962,9 +900,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Access and keys"
-              ]
+              "children": ["Access and keys"]
             }
           ]
         }
@@ -989,9 +925,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Records and rescue readiness"
-              ]
+              "children": ["Records and rescue readiness"]
             }
           ]
         }
@@ -1013,9 +947,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "lift repair service"
-                  ]
+                  "children": ["lift repair service"]
                 }
               ]
             }
@@ -1036,9 +968,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1110,9 +1040,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Do error codes mean the same thing on every lift?"
-              ]
+              "children": ["Do error codes mean the same thing on every lift?"]
             }
           ]
         }
@@ -1137,9 +1065,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Can we reset a tripped lift ourselves?"
-              ]
+              "children": ["Can we reset a tripped lift ourselves?"]
             }
           ]
         }
@@ -1164,9 +1090,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1195,9 +1119,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Contact BG Elevators today"
-                  ]
+                  "children": ["Contact BG Elevators today"]
                 }
               ]
             }
@@ -1221,9 +1143,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Follow us on Instagram"
-                  ]
+                  "children": ["Follow us on Instagram"]
                 }
               ]
             }

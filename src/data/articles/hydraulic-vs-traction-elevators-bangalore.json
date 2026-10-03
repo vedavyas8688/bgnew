@@ -110,9 +110,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "What Are Hydraulic Elevators?"
-          ]
+          "children": ["What Are Hydraulic Elevators?"]
         }
       ]
     },
@@ -129,9 +127,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Key Features of Hydraulic Elevators"
-          ]
+          "children": ["Key Features of Hydraulic Elevators"]
         }
       ]
     },
@@ -142,23 +138,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Uses a piston and fluid-based system"
-          ]
+          "children": ["Uses a piston and fluid-based system"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Requires a machine room (usually at the bottom)"
-          ]
+          "children": ["Requires a machine room (usually at the bottom)"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Best suited for low-rise buildings"
-          ]
+          "children": ["Best suited for low-rise buildings"]
         },
         " ",
         {
@@ -176,9 +166,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Advantages of Hydraulic Elevators"
-          ]
+          "children": ["Advantages of Hydraulic Elevators"]
         }
       ]
     },
@@ -267,9 +255,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Limitations of Hydraulic Elevators"
-          ]
+          "children": ["Limitations of Hydraulic Elevators"]
         }
       ]
     },
@@ -280,30 +266,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Slower speed"
-          ]
+          "children": ["Slower speed"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Higher energy consumption"
-          ]
+          "children": ["Higher energy consumption"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Not suitable for high-rise buildings"
-          ]
+          "children": ["Not suitable for high-rise buildings"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Requires more space for machinery"
-          ]
+          "children": ["Requires more space for machinery"]
         },
         " "
       ]
@@ -317,9 +295,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "What Are Traction Elevators?"
-          ]
+          "children": ["What Are Traction Elevators?"]
         }
       ]
     },
@@ -336,9 +312,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Key Features of Traction Elevators"
-          ]
+          "children": ["Key Features of Traction Elevators"]
         }
       ]
     },
@@ -349,30 +323,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Uses ropes and counterweight system"
-          ]
+          "children": ["Uses ropes and counterweight system"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Can be machine-room or machine-room-less (MRL)"
-          ]
+          "children": ["Can be machine-room or machine-room-less (MRL)"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Suitable for mid-rise and high-rise buildings"
-          ]
+          "children": ["Suitable for mid-rise and high-rise buildings"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Faster and more energy-efficient"
-          ]
+          "children": ["Faster and more energy-efficient"]
         },
         " "
       ]
@@ -383,9 +349,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Advantages of Traction Elevators"
-          ]
+          "children": ["Advantages of Traction Elevators"]
         }
       ]
     },
@@ -474,9 +438,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Limitations of Traction Elevators"
-          ]
+          "children": ["Limitations of Traction Elevators"]
         }
       ]
     },
@@ -487,23 +449,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Higher installation cost"
-          ]
+          "children": ["Higher installation cost"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "More complex system"
-          ]
+          "children": ["More complex system"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Requires advanced maintenance"
-          ]
+          "children": ["Requires advanced maintenance"]
         },
         " "
       ]
@@ -532,9 +488,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "1. Speed"
-          ]
+          "children": ["1. Speed"]
         }
       ]
     },
@@ -554,9 +508,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "2. Energy Consumption"
-          ]
+          "children": ["2. Energy Consumption"]
         }
       ]
     },
@@ -576,9 +528,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "3. Installation Space"
-          ]
+          "children": ["3. Installation Space"]
         }
       ]
     },
@@ -598,9 +548,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "4. Cost"
-          ]
+          "children": ["4. Cost"]
         }
       ]
     },
@@ -620,9 +568,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "5. Building Suitability"
-          ]
+          "children": ["5. Building Suitability"]
         }
       ]
     },
@@ -633,16 +579,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Hydraulic: Best for 2–5 floors"
-          ]
+          "children": ["Hydraulic: Best for 2–5 floors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Traction: Ideal for 5+ floors"
-          ]
+          "children": ["Traction: Ideal for 5+ floors"]
         },
         " "
       ]
@@ -656,9 +598,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Which Elevator Is Better for Bangalore Buildings?"
-          ]
+          "children": ["Which Elevator Is Better for Bangalore Buildings?"]
         }
       ]
     },
@@ -675,9 +615,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "For Residential Homes and Villas"
-          ]
+          "children": ["For Residential Homes and Villas"]
         }
       ]
     },
@@ -694,9 +632,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "top designs of lift for home in Bangalore"
-              ]
+              "children": ["top designs of lift for home in Bangalore"]
             }
           ]
         },
@@ -709,18 +645,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "For Apartments and High-Rise Buildings"
-          ]
+          "children": ["For Apartments and High-Rise Buildings"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Traction elevators are the better choice because:"
-      ]
+      "children": ["Traction elevators are the better choice because:"]
     },
     " ",
     {
@@ -729,23 +661,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "They handle higher traffic"
-          ]
+          "children": ["They handle higher traffic"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "They offer faster movement"
-          ]
+          "children": ["They offer faster movement"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "They are more energy-efficient"
-          ]
+          "children": ["They are more energy-efficient"]
         },
         " "
       ]
@@ -756,9 +682,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "For Commercial Buildings"
-          ]
+          "children": ["For Commercial Buildings"]
         }
       ]
     },
@@ -778,9 +702,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Factors to Consider Before Choosing"
-          ]
+          "children": ["Factors to Consider Before Choosing"]
         }
       ]
     },
@@ -794,9 +716,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Building Height"
-              ]
+              "children": [" Building Height"]
             }
           ]
         },
@@ -820,9 +740,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Budget"
-              ]
+              "children": [" Budget"]
             }
           ]
         },
@@ -846,9 +764,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Space Availability"
-              ]
+              "children": [" Space Availability"]
             }
           ]
         },
@@ -872,9 +788,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Usage Frequency"
-              ]
+              "children": [" Usage Frequency"]
             }
           ]
         },
@@ -898,9 +812,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Maintenance Requirements"
-              ]
+              "children": [" Maintenance Requirements"]
             }
           ]
         },
@@ -920,9 +832,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Safety Considerations"
-          ]
+          "children": ["Safety Considerations"]
         }
       ]
     },
@@ -940,30 +850,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency braking systems"
-          ]
+          "children": ["Emergency braking systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Backup power"
-          ]
+          "children": ["Backup power"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Alarm systems"
-          ]
+          "children": ["Alarm systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door sensors"
-          ]
+          "children": ["Door sensors"]
         },
         " "
       ]
@@ -984,9 +886,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Future Trends in Elevators"
-          ]
+          "children": ["Future Trends in Elevators"]
         }
       ]
     },
@@ -1004,30 +904,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smart elevators"
-          ]
+          "children": ["Smart elevators"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy-efficient systems"
-          ]
+          "children": ["Energy-efficient systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Space-saving designs"
-          ]
+          "children": ["Space-saving designs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improved safety features"
-          ]
+          "children": ["Improved safety features"]
         },
         " "
       ]
@@ -1045,9 +937,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "best lifts company in Bangalore"
-              ]
+              "children": ["best lifts company in Bangalore"]
             }
           ]
         },
@@ -1063,9 +953,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "FAQs"
-          ]
+          "children": ["FAQs"]
         }
       ]
     },
@@ -1079,9 +967,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Which is better: hydraulic or traction elevators?"
-              ]
+              "children": [" Which is better: hydraulic or traction elevators?"]
             }
           ]
         },
@@ -1105,9 +991,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Are hydraulic elevators safe for residential use?"
-              ]
+              "children": [" Are hydraulic elevators safe for residential use?"]
             }
           ]
         },
@@ -1131,9 +1015,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Do traction elevators consume less electricity?"
-              ]
+              "children": [" Do traction elevators consume less electricity?"]
             }
           ]
         },
@@ -1183,9 +1065,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " How often should elevators be maintained?"
-              ]
+              "children": [" How often should elevators be maintained?"]
             }
           ]
         },
@@ -1208,9 +1088,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Conclusion"
-          ]
+          "children": ["Conclusion"]
         }
       ]
     },
@@ -1241,9 +1119,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },

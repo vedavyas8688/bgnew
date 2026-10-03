@@ -98,9 +98,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "Understand Why You Need a Home Elevator"
-      ]
+      "children": ["Understand Why You Need a Home Elevator"]
     },
     " ",
     {
@@ -112,9 +110,7 @@
           "attributes": {
             "href": "/contact-us"
           },
-          "children": [
-            "installing an elevator"
-          ]
+          "children": ["installing an elevator"]
         },
         ". This clarity helps guide your decision-making process and ensures you select the right model and company for your needs."
       ]
@@ -122,9 +118,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        " Common Reasons Include:"
-      ]
+      "children": [" Common Reasons Include:"]
     },
     " ",
     {
@@ -140,30 +134,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Convenience in multi-level homes"
-          ]
+          "children": ["Convenience in multi-level homes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Future-proofing for aging in place"
-          ]
+          "children": ["Future-proofing for aging in place"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Property value enhancement"
-          ]
+          "children": ["Property value enhancement"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Transporting heavy items between floors"
-          ]
+          "children": ["Transporting heavy items between floors"]
         },
         " "
       ]
@@ -198,9 +184,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Most Common Types:"
-          ]
+          "children": ["Most Common Types:"]
         }
       ]
     },
@@ -252,9 +236,7 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "2. Prioritize Safety Features"
-      ]
+      "children": ["2. Prioritize Safety Features"]
     },
     " ",
     {
@@ -269,9 +251,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Key Safety Features to Look For:"
-          ]
+          "children": ["Key Safety Features to Look For:"]
         }
       ]
     },
@@ -282,44 +262,32 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency stop button"
-          ]
+          "children": ["Emergency stop button"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Backup power system"
-          ]
+          "children": ["Backup power system"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Overload sensors"
-          ]
+          "children": ["Overload sensors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Automatic door locking"
-          ]
+          "children": ["Automatic door locking"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Non-slip flooring and handrails"
-          ]
+          "children": ["Non-slip flooring and handrails"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency communication system"
-          ]
+          "children": ["Emergency communication system"]
         },
         " "
       ]
@@ -337,9 +305,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "3. Evaluate Design and Aesthetic Customization"
-      ]
+      "children": ["3. Evaluate Design and Aesthetic Customization"]
     },
     " ",
     {
@@ -354,9 +320,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Aesthetic Options Include:"
-          ]
+          "children": ["Aesthetic Options Include:"]
         }
       ]
     },
@@ -367,30 +331,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Glass, wood, or stainless-steel finishes"
-          ]
+          "children": ["Glass, wood, or stainless-steel finishes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED lighting"
-          ]
+          "children": ["LED lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Customized flooring and wall panels"
-          ]
+          "children": ["Customized flooring and wall panels"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Touchscreen controls or voice-activated panels"
-          ]
+          "children": ["Touchscreen controls or voice-activated panels"]
         },
         " "
       ]
@@ -408,9 +364,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "4. Consider Energy Efficiency and Sustainability"
-      ]
+      "children": ["4. Consider Energy Efficiency and Sustainability"]
     },
     " ",
     {
@@ -425,9 +379,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Energy-Efficient Features:"
-          ]
+          "children": ["Energy-Efficient Features:"]
         }
       ]
     },
@@ -438,30 +390,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Regenerative drives"
-          ]
+          "children": ["Regenerative drives"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "LED cabin lighting"
-          ]
+          "children": ["LED cabin lighting"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Standby mode during inactivity"
-          ]
+          "children": ["Standby mode during inactivity"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Solar-powered integration (in select models)"
-          ]
+          "children": ["Solar-powered integration (in select models)"]
         },
         " "
       ]
@@ -479,9 +423,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "5. Ask About Space and Structural Requirements"
-      ]
+      "children": ["5. Ask About Space and Structural Requirements"]
     },
     " ",
     {
@@ -496,9 +438,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Important Considerations:"
-          ]
+          "children": ["Important Considerations:"]
         }
       ]
     },
@@ -509,30 +449,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Shaft size and number of floors"
-          ]
+          "children": ["Shaft size and number of floors"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Indoor vs. outdoor placement"
-          ]
+          "children": ["Indoor vs. outdoor placement"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Load-bearing capacity of existing structure"
-          ]
+          "children": ["Load-bearing capacity of existing structure"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Civil work requirements"
-          ]
+          "children": ["Civil work requirements"]
         },
         " "
       ]
@@ -550,9 +482,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "6. Get Clarity on Installation and Timelines"
-      ]
+      "children": ["6. Get Clarity on Installation and Timelines"]
     },
     " ",
     {
@@ -567,9 +497,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Questions to Ask:"
-          ]
+          "children": ["Questions to Ask:"]
         }
       ]
     },
@@ -580,30 +508,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "How long will the installation take?"
-          ]
+          "children": ["How long will the installation take?"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "What kind of civil work is needed?"
-          ]
+          "children": ["What kind of civil work is needed?"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Will I need to vacate any part of the home?"
-          ]
+          "children": ["Will I need to vacate any part of the home?"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "What’s included in the project scope?"
-          ]
+          "children": ["What’s included in the project scope?"]
         },
         " "
       ]
@@ -621,9 +541,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "7. Review Maintenance and After-Sales Support"
-      ]
+      "children": ["7. Review Maintenance and After-Sales Support"]
     },
     " ",
     {
@@ -638,9 +556,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Look for:"
-          ]
+          "children": ["Look for:"]
         }
       ]
     },
@@ -651,30 +567,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "AMC (Annual Maintenance Contracts)"
-          ]
+          "children": ["AMC (Annual Maintenance Contracts)"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "24/7 customer support"
-          ]
+          "children": ["24/7 customer support"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Availability of genuine spare parts"
-          ]
+          "children": ["Availability of genuine spare parts"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency response time"
-          ]
+          "children": ["Emergency response time"]
         },
         " "
       ]
@@ -692,9 +600,7 @@
       "attributes": {
         "id": "section-9"
       },
-      "children": [
-        "8. Compare Pricing and Value"
-      ]
+      "children": ["8. Compare Pricing and Value"]
     },
     " ",
     {
@@ -709,9 +615,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Evaluate:"
-          ]
+          "children": ["Evaluate:"]
         }
       ]
     },
@@ -722,30 +626,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Quality of materials and engineering"
-          ]
+          "children": ["Quality of materials and engineering"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Brand reputation and service history"
-          ]
+          "children": ["Brand reputation and service history"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Installation complexity and added features"
-          ]
+          "children": ["Installation complexity and added features"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Warranty and service coverage"
-          ]
+          "children": ["Warranty and service coverage"]
         },
         " "
       ]
@@ -763,9 +659,7 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "9. Always Check Certifications and Compliance"
-      ]
+      "children": ["9. Always Check Certifications and Compliance"]
     },
     " ",
     {
@@ -780,9 +674,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Ensure:"
-          ]
+          "children": ["Ensure:"]
         }
       ]
     },
@@ -793,23 +685,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Compliance with IS and EN standards"
-          ]
+          "children": ["Compliance with IS and EN standards"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Safety certifications"
-          ]
+          "children": ["Safety certifications"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Local municipal approvals (where required)"
-          ]
+          "children": ["Local municipal approvals (where required)"]
         },
         " "
       ]
@@ -827,9 +713,7 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -855,9 +739,7 @@
           "attributes": {
             "href": "/contact-us"
           },
-          "children": [
-            "Top Elevator Company in Bangalore"
-          ]
+          "children": ["Top Elevator Company in Bangalore"]
         },
         ", BG Elevators has helped countless families elevate their homes—literally and figuratively. Their attention to detail, customer-first approach, and deep industry expertise make them the Best Elevator Company in Bangalore for modern homes."
       ]

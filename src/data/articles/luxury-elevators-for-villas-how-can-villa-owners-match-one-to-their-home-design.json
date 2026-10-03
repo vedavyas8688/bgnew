@@ -114,9 +114,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "BG Elevators"
-                  ]
+                  "children": ["BG Elevators"]
                 }
               ]
             }
@@ -128,9 +126,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Alt text: Luxury elevator in a modern villa interior."
-      ]
+      "children": ["Alt text: Luxury elevator in a modern villa interior."]
     },
     {
       "tag": "br",
@@ -162,9 +158,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Start With the Staircase, Not the Cabin"
-              ]
+              "children": ["Start With the Staircase, Not the Cabin"]
             }
           ]
         }
@@ -180,9 +174,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Ask:"
-      ]
+      "children": ["Ask:"]
     },
     " ",
     {
@@ -191,23 +183,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Where should the elevator open on each floor?"
-          ]
+          "children": ["Where should the elevator open on each floor?"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Will elderly family members access it easily?"
-          ]
+          "children": ["Will elderly family members access it easily?"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "What will be visible when the doors open?"
-          ]
+          "children": ["What will be visible when the doors open?"]
         },
         " ",
         {
@@ -219,9 +205,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Can service access remain separate from private areas?"
-          ]
+          "children": ["Can service access remain separate from private areas?"]
         },
         " "
       ]
@@ -242,9 +226,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "villa lift design"
-                  ]
+                  "children": ["villa lift design"]
                 }
               ]
             }
@@ -272,9 +254,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Villa Lift Design: Where the Lift Actually Fits"
-              ]
+              "children": ["Villa Lift Design: Where the Lift Actually Fits"]
             }
           ]
         }
@@ -292,9 +272,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Inside the stair core"
-              ]
+              "children": ["Inside the stair core"]
             }
           ]
         }
@@ -319,9 +297,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Against an external wall"
-              ]
+              "children": ["Against an external wall"]
             }
           ]
         }
@@ -346,9 +322,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "In a dedicated internal void"
-              ]
+              "children": ["In a dedicated internal void"]
             }
           ]
         }
@@ -373,9 +347,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Shaft Options and What They Do to Your Interiors"
-              ]
+              "children": ["Shaft Options and What They Do to Your Interiors"]
             }
           ]
         }
@@ -398,9 +370,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Concrete or masonry shaft:"
-              ]
+              "children": ["Concrete or masonry shaft:"]
             },
             " best sound isolation, easiest to plaster to match adjoining walls, cheapest per floor. Needs deciding at structural stage. "
           ]
@@ -411,9 +381,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Structural glass shaft:"
-              ]
+              "children": ["Structural glass shaft:"]
             },
             " visually light and very effective in a double-height hallway. Transmits more running noise, needs regular cleaning, costs considerably more."
           ]
@@ -424,9 +392,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Self-supporting steel and glass tower:"
-              ]
+              "children": ["Self-supporting steel and glass tower:"]
             },
             " useful for retrofits where cutting a full concrete core is impractical. Slightly larger footprint for the same cabin."
           ]
@@ -453,9 +419,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Drive Technology for Luxury Elevators for Villas"
-              ]
+              "children": ["Drive Technology for Luxury Elevators for Villas"]
             }
           ]
         }
@@ -491,9 +455,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Drive"
-                      ]
+                      "children": ["Drive"]
                     },
                     " "
                   ]
@@ -505,9 +467,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Best for"
-                      ]
+                      "children": ["Best for"]
                     },
                     " "
                   ]
@@ -519,9 +479,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Trade-offs"
-                      ]
+                      "children": ["Trade-offs"]
                     },
                     " "
                   ]
@@ -540,9 +498,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Gearless machine-room-less traction"
-                      ]
+                      "children": ["Gearless machine-room-less traction"]
                     },
                     " "
                   ]
@@ -554,9 +510,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "G+2 and above, daily use"
-                      ]
+                      "children": ["G+2 and above, daily use"]
                     },
                     " "
                   ]
@@ -589,9 +543,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Hydraulic"
-                      ]
+                      "children": ["Hydraulic"]
                     },
                     " "
                   ]
@@ -603,9 +555,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Low overhead, two or three stops"
-                      ]
+                      "children": ["Low overhead, two or three stops"]
                     },
                     " "
                   ]
@@ -617,9 +567,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Higher power draw, oil warms in summer"
-                      ]
+                      "children": ["Higher power draw, oil warms in summer"]
                     },
                     " "
                   ]
@@ -638,9 +586,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Screw or chain drive home lift"
-                      ]
+                      "children": ["Screw or chain drive home lift"]
                     },
                     " "
                   ]
@@ -652,9 +598,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Compact retrofits, shallow pit"
-                      ]
+                      "children": ["Compact retrofits, shallow pit"]
                     },
                     " "
                   ]
@@ -705,9 +649,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Premium Elevator Cabin Finishes That Age Well"
-              ]
+              "children": ["Premium Elevator Cabin Finishes That Age Well"]
             }
           ]
         }
@@ -729,9 +671,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "premium elevator cabin"
-                  ]
+                  "children": ["premium elevator cabin"]
                 }
               ]
             }
@@ -750,9 +690,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Hairline or brushed stainless steel"
-              ]
+              "children": ["Hairline or brushed stainless steel"]
             },
             ", which hides marks and cleans easily."
           ]
@@ -763,9 +701,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Back-painted or laminated glass panels"
-              ]
+              "children": ["Back-painted or laminated glass panels"]
             },
             " in a colour drawn from the interior palette."
           ]
@@ -776,9 +712,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Timber-effect laminate or veneer"
-              ]
+              "children": ["Timber-effect laminate or veneer"]
             },
             " with a proper edge seal, matched to the villa's joinery."
           ]
@@ -789,9 +723,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Stone or porcelain flooring"
-              ]
+              "children": ["Stone or porcelain flooring"]
             },
             " cut from the same batch as the landing floor, so the threshold reads continuous."
           ]
@@ -802,9 +734,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Indirect LED cove lighting"
-              ]
+              "children": ["Indirect LED cove lighting"]
             },
             " rather than a flat ceiling panel."
           ]
@@ -851,9 +781,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Where the flexibility ends"
-              ]
+              "children": ["Where the flexibility ends"]
             }
           ]
         }
@@ -878,9 +806,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "What stays fixed"
-              ]
+              "children": ["What stays fixed"]
             }
           ]
         }
@@ -905,9 +831,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "What Luxury Elevators for Villas Cost in Practice"
-              ]
+              "children": ["What Luxury Elevators for Villas Cost in Practice"]
             }
           ]
         }
@@ -929,9 +853,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "luxury home lifts"
-                  ]
+                  "children": ["luxury home lifts"]
                 }
               ]
             }
@@ -959,9 +881,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Living With Luxury Elevators for Villas"
-              ]
+              "children": ["Living With Luxury Elevators for Villas"]
             }
           ]
         }
@@ -990,9 +910,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "villa elevators Bangalore"
-                  ]
+                  "children": ["villa elevators Bangalore"]
                 }
               ]
             }
@@ -1013,9 +931,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1144,9 +1060,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1175,9 +1089,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Contact BG Elevators today"
-                  ]
+                  "children": ["Contact BG Elevators today"]
                 }
               ]
             }
@@ -1201,9 +1113,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Follow us on Instagram"
-                  ]
+                  "children": ["Follow us on Instagram"]
                 }
               ]
             }

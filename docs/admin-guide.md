@@ -19,26 +19,26 @@ SMTP settings remain in the root `.env`: host, port, secure flag, user, password
 
 ## Workflows
 
-| Area | Working features |
-| --- | --- |
-| Overview | Live record counts, lead pipeline, recent enquiries/applications and Activity links |
-| Leads | Public form intake; manual creation; search; status/source filters; pagination; detail view; editing contact information/location/requirement/source; status changes; internal notes; administrator-only confirmed deletion |
-| Careers | Public applications with resume upload or CV URL; search/status filter; pagination; private resume access; editing candidate data; status changes; notes; administrator-only confirmed deletion |
-| Activity | Dedicated sidebar page; automatic website and admin history; record name, actor, timestamp in IST; before/after field changes; filters by record, action, date and text; pagination; deletion history retained |
-| Team & access | Administrator-only account creation; staff/viewer/admin roles; activation/deactivation; password resets; access events in Activity; session revocation on reset or deactivation |
-| Authentication | Email/password sign-in; signed HTTP-only sessions; eight-hour expiry; account/role checked against database on each protected request; sign-out; basic per-process login throttling |
+| Area           | Working features                                                                                                                                                                                                            |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Overview       | Live record counts, lead pipeline, recent enquiries/applications and Activity links                                                                                                                                         |
+| Leads          | Public form intake; manual creation; search; status/source filters; pagination; detail view; editing contact information/location/requirement/source; status changes; internal notes; administrator-only confirmed deletion |
+| Careers        | Public applications with resume upload or CV URL; search/status filter; pagination; private resume access; editing candidate data; status changes; notes; administrator-only confirmed deletion                             |
+| Activity       | Dedicated sidebar page; automatic website and admin history; record name, actor, timestamp in IST; before/after field changes; filters by record, action, date and text; pagination; deletion history retained              |
+| Team & access  | Administrator-only account creation; staff/viewer/admin roles; activation/deactivation; password resets; access events in Activity; session revocation on reset or deactivation                                             |
+| Authentication | Email/password sign-in; signed HTTP-only sessions; eight-hour expiry; account/role checked against database on each protected request; sign-out; basic per-process login throttling                                         |
 
 Status choices remain: Leads — New, Contacted, In Progress, Converted, Closed. Careers — New, Reviewing, Shortlisted, Selected, Rejected. Unchanged status/note saves do not create duplicate change entries. Invalid/missing IDs receive a controlled not-found response. Saved historical entries remain available after deleting a record. Older activity rows created by earlier code are preserved; prior values that were never recorded cannot be reconstructed.
 
 ## Permissions
 
-| Action | Administrator | Staff | Viewer |
-| --- | --- | --- | --- |
-| Read leads and applications; open resumes | Yes | Yes | Yes |
-| Create leads; edit details, status and notes | Yes | Yes | No |
-| Delete leads/applications | Yes | No | No |
-| View lead/career Activity | Yes | Yes | Yes |
-| Manage team and see team Activity | Yes | No | No |
+| Action                                       | Administrator | Staff | Viewer |
+| -------------------------------------------- | ------------- | ----- | ------ |
+| Read leads and applications; open resumes    | Yes           | Yes   | Yes    |
+| Create leads; edit details, status and notes | Yes           | Yes   | No     |
+| Delete leads/applications                    | Yes           | No    | No     |
+| View lead/career Activity                    | Yes           | Yes   | Yes    |
+| Manage team and see team Activity            | Yes           | No    | No     |
 
 You cannot deactivate your own account from Team. Resetting your own password signs you out. Passwords never appear in Activity. Resume bytes are excluded from normal queries and returned only by the authenticated endpoint. External CV links are limited to HTTP/HTTPS and opening them is logged.
 

@@ -1,4 +1,3 @@
-
 export default function SolutionsSection({ data }) {
   return (
     <section className="section">
@@ -13,7 +12,12 @@ export default function SolutionsSection({ data }) {
         <div className="h-choose-us-our-avaliable-products" role="list">
           <div className="our-avaliable-products">
             <div className="avaliable-products-image">
-              <img alt={data.imageAlt} className="avaliableproductsimage" loading="lazy" src={data.image} />
+              <img
+                alt={data.imageAlt}
+                className="avaliableproductsimage"
+                loading="lazy"
+                src={data.image}
+              />
             </div>
             <div className="our-features-details">
               <div className="h4">{data.heading2}</div>
@@ -23,28 +27,47 @@ export default function SolutionsSection({ data }) {
           {data.items.map((item, index) => (
             <div className="our-avaliable-products background-blue" key={index}>
               <div className="avaliable-products-image">
-                <img alt={item.imageAlt} className="avaliableproductsimage" loading="lazy" src={item.image} />
+                <img
+                  alt={item.imageAlt}
+                  className="avaliableproductsimage"
+                  loading="lazy"
+                  src={item.image}
+                />
               </div>
               <div className="our-features-details">
                 <div className="h4 color-blue">{item.heading}</div>
-                <p className="text-elevator-sm color-blue">{item.description}</p>
+                <p className="text-elevator-sm color-blue">
+                  {item.description}
+                </p>
               </div>
             </div>
           ))}
           <div className="our-avaliable-products">
             <div className="avaliable-products-image">
-              <img alt={data.imageAlt2} className="avaliableproductsimage" loading="lazy" src={data.image2} />
+              <img
+                alt={data.imageAlt2}
+                className="avaliableproductsimage"
+                loading="lazy"
+                src={data.image2}
+              />
             </div>
             <div className="our-features-details">
               <div className="h4">{data.heading3}</div>
               {data.items2.map((item, index) => (
-                <p className="text-elevator-sm" key={index}>{item.description}</p>
+                <p className="text-elevator-sm" key={index}>
+                  {item.description}
+                </p>
               ))}
             </div>
           </div>
           <div className="our-avaliable-products">
             <div className="avaliable-products-image">
-              <img alt={data.imageAlt3} className="avaliableproductsimage" loading="lazy" src={data.image3} />
+              <img
+                alt={data.imageAlt3}
+                className="avaliableproductsimage"
+                loading="lazy"
+                src={data.image3}
+              />
             </div>
             <div className="our-features-details">
               <div className="h4">{data.heading4}</div>
@@ -53,12 +76,19 @@ export default function SolutionsSection({ data }) {
           </div>
           <div className="our-avaliable-products background-blue">
             <div className="avaliable-products-image">
-              <img alt={data.imageAlt4} className="avaliableproductsimage" loading="lazy" src={data.image4} />
+              <img
+                alt={data.imageAlt4}
+                className="avaliableproductsimage"
+                loading="lazy"
+                src={data.image4}
+              />
             </div>
             <div className="our-features-details">
               <div className="h4 color-blue">{data.heading5}</div>
               {data.items3.map((item, index) => (
-                <p className="text-elevator-sm color-blue" key={index}>{item.description}</p>
+                <p className="text-elevator-sm color-blue" key={index}>
+                  {item.description}
+                </p>
               ))}
             </div>
           </div>

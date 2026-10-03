@@ -145,9 +145,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Why Elevator Placement Matters"
-          ]
+          "children": ["Why Elevator Placement Matters"]
         }
       ]
     },
@@ -165,30 +163,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "It affects daily convenience for residents and users"
-          ]
+          "children": ["It affects daily convenience for residents and users"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "It impacts building design and space utilization"
-          ]
+          "children": ["It impacts building design and space utilization"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "It ensures safety during emergencies"
-          ]
+          "children": ["It ensures safety during emergencies"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "It improves property value and usability"
-          ]
+          "children": ["It improves property value and usability"]
         },
         " "
       ]
@@ -209,9 +199,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Understanding Building Requirements"
-          ]
+          "children": ["Understanding Building Requirements"]
         }
       ]
     },
@@ -232,9 +220,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Type of Building"
-              ]
+              "children": [" Type of Building"]
             }
           ]
         },
@@ -248,30 +234,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Residential apartments"
-          ]
+          "children": ["Residential apartments"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Villas or independent homes"
-          ]
+          "children": ["Villas or independent homes"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Commercial offices"
-          ]
+          "children": ["Commercial offices"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Hospitals or public buildings"
-          ]
+          "children": ["Hospitals or public buildings"]
         },
         " "
       ]
@@ -293,9 +271,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " Number of Floors"
-              ]
+              "children": [" Number of Floors"]
             }
           ]
         },
@@ -319,9 +295,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                " User Traffic"
-              ]
+              "children": [" User Traffic"]
             }
           ]
         },
@@ -344,9 +318,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Ideal Locations for Elevator Placement"
-          ]
+          "children": ["Ideal Locations for Elevator Placement"]
         }
       ]
     },
@@ -363,9 +335,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Central Location"
-          ]
+          "children": ["Central Location"]
         }
       ]
     },
@@ -382,9 +352,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Near Staircases"
-          ]
+          "children": ["Near Staircases"]
         }
       ]
     },
@@ -401,9 +369,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Entrance Accessibility"
-          ]
+          "children": ["Entrance Accessibility"]
         }
       ]
     },
@@ -420,9 +386,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Avoid Dead Corners"
-          ]
+          "children": ["Avoid Dead Corners"]
         }
       ]
     },
@@ -442,9 +406,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Space Planning and Structural Considerations"
-          ]
+          "children": ["Space Planning and Structural Considerations"]
         }
       ]
     },
@@ -461,9 +423,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Shaft Space"
-          ]
+          "children": ["Shaft Space"]
         }
       ]
     },
@@ -480,18 +440,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Machine Room or MRL"
-          ]
+          "children": ["Machine Room or MRL"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Depending on the type of elevator:"
-      ]
+      "children": ["Depending on the type of elevator:"]
     },
     " ",
     {
@@ -500,16 +456,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Traditional lifts require a machine room"
-          ]
+          "children": ["Traditional lifts require a machine room"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "MRL (Machine Room Less) elevators save space"
-          ]
+          "children": ["MRL (Machine Room Less) elevators save space"]
         },
         " "
       ]
@@ -520,9 +472,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Pit and Headroom"
-          ]
+          "children": ["Pit and Headroom"]
         }
       ]
     },
@@ -542,9 +492,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Factors That Influence Efficient Placement"
-          ]
+          "children": ["Factors That Influence Efficient Placement"]
         }
       ]
     },
@@ -557,9 +505,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "1. Building Layout"
-          ]
+          "children": ["1. Building Layout"]
         }
       ]
     },
@@ -579,18 +525,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "2. Accessibility Needs"
-          ]
+          "children": ["2. Accessibility Needs"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Ensure the elevator is accessible to:"
-      ]
+      "children": ["Ensure the elevator is accessible to:"]
     },
     " ",
     {
@@ -599,9 +541,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Elderly people"
-          ]
+          "children": ["Elderly people"]
         },
         " "
       ]
@@ -612,9 +552,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "● Children"
-      ]
+      "children": ["● Children"]
     },
     " ",
     {
@@ -623,9 +561,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "People with disabilities"
-          ]
+          "children": ["People with disabilities"]
         },
         " "
       ]
@@ -639,9 +575,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "3. Future Expansion"
-          ]
+          "children": ["3. Future Expansion"]
         }
       ]
     },
@@ -661,9 +595,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Traffic Flow Planning"
-          ]
+          "children": ["Traffic Flow Planning"]
         }
       ]
     },
@@ -683,9 +615,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Peak Hours"
-          ]
+          "children": ["Peak Hours"]
         }
       ]
     },
@@ -705,9 +635,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Residential Usage"
-          ]
+          "children": ["Residential Usage"]
         }
       ]
     },
@@ -727,9 +655,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Multiple Elevators"
-          ]
+          "children": ["Multiple Elevators"]
         }
       ]
     },
@@ -749,18 +675,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Safety Considerations"
-          ]
+          "children": ["Safety Considerations"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Safety is a key part of elevator planning."
-      ]
+      "children": ["Safety is a key part of elevator planning."]
     },
     " ",
     {
@@ -768,9 +690,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Emergency Access"
-          ]
+          "children": ["Emergency Access"]
         }
       ]
     },
@@ -787,9 +707,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Fire Safety Norms"
-          ]
+          "children": ["Fire Safety Norms"]
         }
       ]
     },
@@ -806,9 +724,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Backup Systems"
-          ]
+          "children": ["Backup Systems"]
         }
       ]
     },
@@ -828,18 +744,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Choosing the Right Elevator Type"
-          ]
+          "children": ["Choosing the Right Elevator Type"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Different buildings require different types of elevators."
-      ]
+      "children": ["Different buildings require different types of elevators."]
     },
     " ",
     {
@@ -848,30 +760,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Passenger elevators for apartments"
-          ]
+          "children": ["Passenger elevators for apartments"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Goods elevators for warehouses"
-          ]
+          "children": ["Goods elevators for warehouses"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Home elevators for villas"
-          ]
+          "children": ["Home elevators for villas"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Hospital elevators for medical facilities"
-          ]
+          "children": ["Hospital elevators for medical facilities"]
         },
         " "
       ]
@@ -879,9 +783,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Each type has different placement requirements."
-      ]
+      "children": ["Each type has different placement requirements."]
     },
     " ",
     {
@@ -892,9 +794,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Working with Professionals"
-          ]
+          "children": ["Working with Professionals"]
         }
       ]
     },
@@ -918,9 +818,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "lift contractors in Bangalore"
-              ]
+              "children": ["lift contractors in Bangalore"]
             }
           ]
         },
@@ -934,23 +832,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Understand building requirements"
-          ]
+          "children": ["Understand building requirements"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Choose the right elevator type"
-          ]
+          "children": ["Choose the right elevator type"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Ensure compliance with regulations"
-          ]
+          "children": ["Ensure compliance with regulations"]
         },
         " "
       ]
@@ -971,9 +863,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Common Mistakes to Avoid"
-          ]
+          "children": ["Common Mistakes to Avoid"]
         }
       ]
     },
@@ -983,9 +873,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Ignoring Early Planning"
-          ]
+          "children": ["Ignoring Early Planning"]
         }
       ]
     },
@@ -1002,18 +890,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Poor Location Choice"
-          ]
+          "children": ["Poor Location Choice"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Placing elevators far from main areas reduces usability."
-      ]
+      "children": ["Placing elevators far from main areas reduces usability."]
     },
     " ",
     {
@@ -1021,9 +905,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Underestimating Space"
-          ]
+          "children": ["Underestimating Space"]
         }
       ]
     },
@@ -1040,18 +922,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Not Considering Maintenance"
-          ]
+          "children": ["Not Considering Maintenance"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Always plan space for future servicing and inspections."
-      ]
+      "children": ["Always plan space for future servicing and inspections."]
     },
     " ",
     {
@@ -1062,18 +940,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Maintenance and Long-Term Efficiency"
-          ]
+          "children": ["Maintenance and Long-Term Efficiency"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Proper planning also makes maintenance easier."
-      ]
+      "children": ["Proper planning also makes maintenance easier."]
     },
     " ",
     {
@@ -1095,9 +969,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "10 easy elevator maintenance tasks"
-              ]
+              "children": ["10 easy elevator maintenance tasks"]
             }
           ]
         },
@@ -1117,18 +989,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Cost Considerations"
-          ]
+          "children": ["Cost Considerations"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Elevator placement also affects overall cost."
-      ]
+      "children": ["Elevator placement also affects overall cost."]
     },
     " ",
     {
@@ -1136,18 +1004,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Construction Cost"
-          ]
+          "children": ["Construction Cost"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Proper planning reduces structural modifications."
-      ]
+      "children": ["Proper planning reduces structural modifications."]
     },
     " ",
     {
@@ -1155,9 +1019,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Operational Cost"
-          ]
+          "children": ["Operational Cost"]
         }
       ]
     },
@@ -1174,18 +1036,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Maintenance Cost"
-          ]
+          "children": ["Maintenance Cost"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Easy access reduces servicing time and cost."
-      ]
+      "children": ["Easy access reduces servicing time and cost."]
     },
     " ",
     {
@@ -1203,18 +1061,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Role of Technology in Elevator Placement"
-          ]
+          "children": ["Role of Technology in Elevator Placement"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Modern technology is changing how elevators are planned."
-      ]
+      "children": ["Modern technology is changing how elevators are planned."]
     },
     " ",
     {
@@ -1223,23 +1077,17 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Smart traffic management systems"
-          ]
+          "children": ["Smart traffic management systems"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Energy-efficient designs"
-          ]
+          "children": ["Energy-efficient designs"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Compact elevator models"
-          ]
+          "children": ["Compact elevator models"]
         },
         " "
       ]
@@ -1260,9 +1108,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Bangalore-Specific Considerations"
-          ]
+          "children": ["Bangalore-Specific Considerations"]
         }
       ]
     },
@@ -1279,9 +1125,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Space Constraints"
-          ]
+          "children": ["Space Constraints"]
         }
       ]
     },
@@ -1298,9 +1142,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "High-Rise Growth"
-          ]
+          "children": ["High-Rise Growth"]
         }
       ]
     },
@@ -1317,18 +1159,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Climate Conditions"
-          ]
+          "children": ["Climate Conditions"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "Weather conditions can affect materials and performance."
-      ]
+      "children": ["Weather conditions can affect materials and performance."]
     },
     " ",
     {
@@ -1336,9 +1174,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Local Regulations"
-          ]
+          "children": ["Local Regulations"]
         }
       ]
     },
@@ -1358,18 +1194,14 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Improving User Experience"
-          ]
+          "children": ["Improving User Experience"]
         }
       ]
     },
     " ",
     {
       "tag": "p",
-      "children": [
-        "A well-placed elevator improves daily life."
-      ]
+      "children": ["A well-placed elevator improves daily life."]
     },
     " ",
     {
@@ -1378,30 +1210,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Reduces waiting time"
-          ]
+          "children": ["Reduces waiting time"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Improves accessibility"
-          ]
+          "children": ["Improves accessibility"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Enhances comfort"
-          ]
+          "children": ["Enhances comfort"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Increases property value"
-          ]
+          "children": ["Increases property value"]
         },
         " "
       ]
@@ -1422,9 +1246,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "FAQs"
-          ]
+          "children": ["FAQs"]
         }
       ]
     },
@@ -1532,9 +1354,7 @@
         "Proper placement reduces waiting time, improves traffic flow",
         {
           "tag": "strong",
-          "children": [
-            ", "
-          ]
+          "children": [", "]
         },
         "and enhances accessibility, making daily movement smoother for residents and users."
       ]
@@ -1574,9 +1394,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Conclusion"
-          ]
+          "children": ["Conclusion"]
         }
       ]
     },
@@ -1600,9 +1418,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "BG Elevators"
-              ]
+              "children": ["BG Elevators"]
             }
           ]
         },
@@ -1629,9 +1445,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "best elevators services in Bangalore"
-              ]
+              "children": ["best elevators services in Bangalore"]
             }
           ]
         },

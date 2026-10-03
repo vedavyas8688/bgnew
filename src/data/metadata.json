@@ -572,7 +572,12 @@
   },
   "career-details": {
     "title": "Elevator Career Details | BG Elevators",
-    "meta": [{ "name": "description", "content": "View elevator industry career details, responsibilities and opportunities available with the BG Elevators team in Bangalore." }],
+    "meta": [
+      {
+        "name": "description",
+        "content": "View elevator industry career details, responsibilities and opportunities available with the BG Elevators team in Bangalore."
+      }
+    ],
     "canonical": "https://www.bgelevators.com/career-details",
     "schemas": []
   },
@@ -3032,7 +3037,12 @@
   },
   "service-details": {
     "title": "Elevator Service Details | BG Elevators",
-    "meta": [{ "name": "description", "content": "Review BG Elevators installation, modernization, repair and maintenance service details for lifts in Bangalore." }],
+    "meta": [
+      {
+        "name": "description",
+        "content": "Review BG Elevators installation, modernization, repair and maintenance service details for lifts in Bangalore."
+      }
+    ],
     "canonical": "https://www.bgelevators.com/service-details",
     "schemas": []
   },

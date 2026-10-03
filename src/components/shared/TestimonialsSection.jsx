@@ -1,4 +1,4 @@
-import { Icon, Carousel } from '@/components/ui';
+import { Icon, Carousel } from "@/components/ui";
 
 export default function TestimonialsSection({ data }) {
   return (
@@ -21,7 +21,12 @@ export default function TestimonialsSection({ data }) {
                 <Icon name="Quote" />
                 <p className="text-base">{item.description}</p>
                 <div className="testimoni-profile-wrap">
-                  <img alt={item.imageAlt} className="testimoni-profile-image" loading="lazy" src={item.image} />
+                  <img
+                    alt={item.imageAlt}
+                    className="testimoni-profile-image"
+                    loading="lazy"
+                    src={item.image}
+                  />
                   <div className="testimoni-profile-content">
                     <div className="h6">{item.heading}</div>
                     <p className="text-md secondary-700">{item.description2}</p>

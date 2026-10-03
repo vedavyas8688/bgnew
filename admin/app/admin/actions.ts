@@ -232,7 +232,8 @@ export async function uploadBrochure(
   data: FormData,
 ): Promise<FormState> {
   const actor = await requireAdmin();
-  if (actor.role !== "admin") return { error: "Administrator access is required." };
+  if (actor.role !== "admin")
+    return { error: "Administrator access is required." };
   const file = data.get("brochure");
   if (!(file instanceof File) || !file.size)
     return { error: "Choose a PDF brochure to upload." };
@@ -259,7 +260,10 @@ export async function uploadBrochure(
       { $set: { active: false } },
     );
     revalidatePath("/admin/brochure");
-    return { success: "New brochure uploaded. The public download link now serves this version." };
+    return {
+      success:
+        "New brochure uploaded. The public download link now serves this version.",
+    };
   } catch {
     return { error: "Unable to upload the brochure. Please try again." };
   }

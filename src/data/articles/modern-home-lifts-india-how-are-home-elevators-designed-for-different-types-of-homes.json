@@ -109,9 +109,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "BG Elevators"
-                  ]
+                  "children": ["BG Elevators"]
                 }
               ]
             }
@@ -123,9 +121,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Alt text: Modern home elevator in a luxury house interior."
-      ]
+      "children": ["Alt text: Modern home elevator in a luxury house interior."]
     },
     {
       "tag": "br",
@@ -180,30 +176,22 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Available floor area"
-          ]
+          "children": ["Available floor area"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Possibility of creating a pit"
-          ]
+          "children": ["Possibility of creating a pit"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Headroom above the top landing"
-          ]
+          "children": ["Headroom above the top landing"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Structural capacity of the building"
-          ]
+          "children": ["Structural capacity of the building"]
         },
         " "
       ]
@@ -231,9 +219,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "home lift design"
-                  ]
+                  "children": ["home lift design"]
                 }
               ]
             }
@@ -272,9 +258,7 @@
     " ",
     {
       "tag": "p",
-      "children": [
-        "Practical approaches that work on small plots:"
-      ]
+      "children": ["Practical approaches that work on small plots:"]
     },
     " ",
     {
@@ -286,9 +270,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Stack the lift over the staircase landing void"
-              ]
+              "children": ["Stack the lift over the staircase landing void"]
             },
             ", using the dead space that already exists."
           ]
@@ -299,9 +281,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Choose a two or three person cabin"
-              ]
+              "children": ["Choose a two or three person cabin"]
             },
             " around 800 x 1,000 mm internally rather than a family-sized car."
           ]
@@ -312,9 +292,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Use a shallow-pit or pitless configuration"
-              ]
+              "children": ["Use a shallow-pit or pitless configuration"]
             },
             " where excavation would hit the plinth or water table."
           ]
@@ -325,9 +303,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Accept a slower speed."
-              ]
+              "children": ["Accept a slower speed."]
             },
             " At 0.15 to 0.3 m/s over three floors, the difference in journey time is a few seconds."
           ]
@@ -351,9 +327,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "residential lift solutions"
-                  ]
+                  "children": ["residential lift solutions"]
                 }
               ]
             }
@@ -405,9 +379,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Modern home elevators"
-                  ]
+                  "children": ["Modern home elevators"]
                 }
               ]
             }
@@ -428,9 +400,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Villas and Large Homes: Space to Do It Properly"
-              ]
+              "children": ["Villas and Large Homes: Space to Do It Properly"]
             }
           ]
         }
@@ -489,9 +459,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Pit, headroom and floor cuts"
-              ]
+              "children": ["Pit, headroom and floor cuts"]
             }
           ]
         }
@@ -516,9 +484,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Power and location"
-              ]
+              "children": ["Power and location"]
             }
           ]
         }
@@ -574,9 +540,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Drive type"
-                      ]
+                      "children": ["Drive type"]
                     },
                     " "
                   ]
@@ -588,9 +552,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Suits"
-                      ]
+                      "children": ["Suits"]
                     },
                     " "
                   ]
@@ -602,9 +564,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Watch out for"
-                      ]
+                      "children": ["Watch out for"]
                     },
                     " "
                   ]
@@ -623,9 +583,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Gearless machine-room-less traction"
-                      ]
+                      "children": ["Gearless machine-room-less traction"]
                     },
                     " "
                   ]
@@ -637,9 +595,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Most new homes, G+1 to G+3"
-                      ]
+                      "children": ["Most new homes, G+1 to G+3"]
                     },
                     " "
                   ]
@@ -651,9 +607,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Needs adequate overhead clearance"
-                      ]
+                      "children": ["Needs adequate overhead clearance"]
                     },
                     " "
                   ]
@@ -672,9 +626,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Hydraulic"
-                      ]
+                      "children": ["Hydraulic"]
                     },
                     " "
                   ]
@@ -686,9 +638,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Low overhead, two or three stops"
-                      ]
+                      "children": ["Low overhead, two or three stops"]
                     },
                     " "
                   ]
@@ -700,9 +650,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Higher running cost, oil warms in summer"
-                      ]
+                      "children": ["Higher running cost, oil warms in summer"]
                     },
                     " "
                   ]
@@ -721,9 +669,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Screw or chain drive"
-                      ]
+                      "children": ["Screw or chain drive"]
                     },
                     " "
                   ]
@@ -735,9 +681,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Retrofits, shallow pit, single phase"
-                      ]
+                      "children": ["Retrofits, shallow pit, single phase"]
                     },
                     " "
                   ]
@@ -749,9 +693,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Slower, smaller cabin, audible in use"
-                      ]
+                      "children": ["Slower, smaller cabin, audible in use"]
                     },
                     " "
                   ]
@@ -770,9 +712,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Vacuum or pneumatic"
-                      ]
+                      "children": ["Vacuum or pneumatic"]
                     },
                     " "
                   ]
@@ -784,9 +724,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Compact freestanding installs"
-                      ]
+                      "children": ["Compact freestanding installs"]
                     },
                     " "
                   ]
@@ -837,9 +775,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Home Elevator Features That Matter in Daily Use"
-              ]
+              "children": ["Home Elevator Features That Matter in Daily Use"]
             }
           ]
         }
@@ -855,9 +791,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "home elevator features"
-              ]
+              "children": ["home elevator features"]
             }
           ]
         },
@@ -874,9 +808,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Automatic rescue device with battery backup"
-              ]
+              "children": ["Automatic rescue device with battery backup"]
             },
             ", which brings the car to the nearest landing during a power cut."
           ]
@@ -887,9 +819,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Automatic power-operated doors"
-              ]
+              "children": ["Automatic power-operated doors"]
             },
             ", since manual swing doors become the household's daily irritation."
           ]
@@ -900,9 +830,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Door safety sensors"
-              ]
+              "children": ["Door safety sensors"]
             },
             ", particularly with children or pets in the house."
           ]
@@ -913,9 +841,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Intercom or auto-dialler"
-              ]
+              "children": ["Intercom or auto-dialler"]
             },
             " connected to a phone that's actually answered."
           ]
@@ -926,9 +852,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "LED lighting with auto shut-off"
-              ]
+              "children": ["LED lighting with auto shut-off"]
             },
             ", which cuts standby consumption in a lift that idles most of the day."
           ]
@@ -975,9 +899,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Indicative costs"
-              ]
+              "children": ["Indicative costs"]
             }
           ]
         }
@@ -1002,9 +924,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Approvals and upkeep"
-              ]
+              "children": ["Approvals and upkeep"]
             }
           ]
         }
@@ -1026,9 +946,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Residential lifts"
-                  ]
+                  "children": ["Residential lifts"]
                 }
               ]
             }
@@ -1049,9 +967,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1124,9 +1040,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "3. Do home lifts need three-phase power?"
-              ]
+              "children": ["3. Do home lifts need three-phase power?"]
             }
           ]
         }
@@ -1151,9 +1065,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "4. How often does a home lift need servicing?"
-              ]
+              "children": ["4. How often does a home lift need servicing?"]
             }
           ]
         }
@@ -1178,9 +1090,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1209,9 +1119,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Contact BG Elevators today"
-                  ]
+                  "children": ["Contact BG Elevators today"]
                 }
               ]
             }
@@ -1235,9 +1143,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Follow us on Instagram"
-                  ]
+                  "children": ["Follow us on Instagram"]
                 }
               ]
             }

@@ -11,19 +11,31 @@ export default function BrochureUploadForm() {
   return (
     <form action={action} className="card brochure-upload">
       <div className="panel-heading">
-        <div><h2>Upload new brochure</h2><p>PDF only · Maximum 12 MB</p></div>
+        <div>
+          <h2>Upload new brochure</h2>
+          <p>PDF only · Maximum 12 MB</p>
+        </div>
       </div>
       <div className="brochure-upload-body">
         <label className="label">
           Brochure PDF
-          <input className="field" type="file" name="brochure" accept="application/pdf,.pdf" required />
+          <input
+            className="field"
+            type="file"
+            name="brochure"
+            accept="application/pdf,.pdf"
+            required
+          />
         </label>
         <Feedback {...state} />
         <SubmitButton pendingText="Uploading…">
           <Upload size={16} />
           Upload and publish
         </SubmitButton>
-        <p className="muted">The public QR link remains unchanged and immediately serves the new active version.</p>
+        <p className="muted">
+          The public QR link remains unchanged and immediately serves the new
+          active version.
+        </p>
       </div>
     </form>
   );

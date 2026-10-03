@@ -1,4 +1,3 @@
-
 export default function ContentSection({ data }) {
   return (
     <section className="section">

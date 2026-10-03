@@ -1,4 +1,4 @@
-import { EnquiryForm } from '@/components/ui';
+import { EnquiryForm } from "@/components/ui";
 
 export default function ContactSection({ data }) {
   return (
@@ -14,19 +14,40 @@ export default function ContactSection({ data }) {
         <div className="contact-grid">
           <div className="contact-grid-left">
             <div className="contact-image">
-              <img alt={data.imageAlt} className="image" loading="lazy" sizes="(max-width: 767px) 100vw, 648px" src={data.image} width="648" />
+              <img
+                alt={data.imageAlt}
+                className="image"
+                loading="lazy"
+                sizes="(max-width: 767px) 100vw, 648px"
+                src={data.image}
+                width="648"
+              />
               <div className="contact-items-wrap">
                 {data.items.map((item, index) => (
                   <div className="contact-item" key={index}>
                     <div className="contact-item-image-wrap">
-                      <img alt={item.imageAlt} className="contact-icon" loading="lazy" src={item.image} width="32" />
+                      <img
+                        alt={item.imageAlt}
+                        className="contact-icon"
+                        loading="lazy"
+                        src={item.image}
+                        width="32"
+                      />
                     </div>
-                    <div className="text-lg medium text-color-900">{item.text}</div>
+                    <div className="text-lg medium text-color-900">
+                      {item.text}
+                    </div>
                   </div>
                 ))}
                 <div className="contact-item">
                   <div className="contact-item-image-wrap">
-                    <img alt={data.imageAlt2} className="contact-icon" loading="lazy" src={data.image2} width="32" />
+                    <img
+                      alt={data.imageAlt2}
+                      className="contact-icon"
+                      loading="lazy"
+                      src={data.image2}
+                      width="32"
+                    />
                   </div>
                   <div className="text-lg medium text-color-900">
                     {data.text}

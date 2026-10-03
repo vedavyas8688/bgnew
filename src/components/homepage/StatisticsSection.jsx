@@ -1,4 +1,4 @@
-import { StatisticCard } from '@/components/ui';
+import { StatisticCard } from "@/components/ui";
 
 export default function StatisticsSection({ data }) {
   return (

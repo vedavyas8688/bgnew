@@ -101,9 +101,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Villa Elevators Bangalore"
-              ]
+              "children": ["Villa Elevators Bangalore"]
             }
           ]
         },
@@ -144,9 +142,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "Start With How the Villa Will Actually Be Used"
-      ]
+      "children": ["Start With How the Villa Will Actually Be Used"]
     },
     " ",
     {
@@ -168,9 +164,7 @@
       "attributes": {
         "id": "section-2"
       },
-      "children": [
-        "Where the Shaft Goes in a Bangalore Villa"
-      ]
+      "children": ["Where the Shaft Goes in a Bangalore Villa"]
     },
     " ",
     {
@@ -185,9 +179,7 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "Inside the staircase void"
-      ]
+      "children": ["Inside the staircase void"]
     },
     " ",
     {
@@ -202,9 +194,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "External shaft in the side or rear setback"
-      ]
+      "children": ["External shaft in the side or rear setback"]
     },
     " ",
     {
@@ -219,9 +209,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "Villa Elevators Bangalore: Choosing the Drive Type"
-      ]
+      "children": ["Villa Elevators Bangalore: Choosing the Drive Type"]
     },
     " ",
     {
@@ -236,9 +224,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Machine-room-less (MRL) gearless traction."
-          ]
+          "children": ["Machine-room-less (MRL) gearless traction."]
         },
         " The most common specification now. The gearless machine sits inside the shaft at the top, so you skip the machine room entirely. Running costs are the lowest of the three, ride quality is the best, and 0.5 to 1.0 m/s feels natural over four storeys. Pit depth runs around 350 mm to 700 mm with headroom near 2600 mm to 2900 mm."
       ]
@@ -249,9 +235,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Hydraulic."
-          ]
+          "children": ["Hydraulic."]
         },
         " A piston pushes the car and the power pack lives in a cupboard that can sit a few metres from the shaft. Pit and headroom needs are modest and it forgives an imperfect shaft. The drawbacks are honest: higher draw on every up trip, oil needing periodic attention, and a warm machine cupboard in summer."
       ]
@@ -262,9 +246,7 @@
       "children": [
         {
           "tag": "strong",
-          "children": [
-            "Screw drive and compact home units."
-          ]
+          "children": ["Screw drive and compact home units."]
         },
         " Self-supporting, often needing a pit of 50 mm to 100 mm and no built shaft at all, the usual answer for retrofits. Speed is slow, typically 0.15 m/s, and capacity is limited, so they suit two or three people rather than a family plus luggage."
       ]
@@ -275,9 +257,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "Capacity, Car Size and Door Choices"
-      ]
+      "children": ["Capacity, Car Size and Door Choices"]
     },
     " ",
     {
@@ -292,9 +272,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "Residential elevator Bangalore sizing at a glance"
-      ]
+      "children": ["Residential elevator Bangalore sizing at a glance"]
     },
     " ",
     {
@@ -311,37 +289,27 @@
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Capacity"
-                  ]
+                  "children": ["Capacity"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Persons"
-                  ]
+                  "children": ["Persons"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Internal car (mm)"
-                  ]
+                  "children": ["Internal car (mm)"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Clear shaft (mm)"
-                  ]
+                  "children": ["Clear shaft (mm)"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Typical use"
-                  ]
+                  "children": ["Typical use"]
                 },
                 " "
               ]
@@ -360,37 +328,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "204 kg"
-                  ]
+                  "children": ["204 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "3"
-                  ]
+                  "children": ["3"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "800 x 900"
-                  ]
+                  "children": ["800 x 900"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1250 x 1300"
-                  ]
+                  "children": ["1250 x 1300"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "Retrofit, tight stair void"
-                  ]
+                  "children": ["Retrofit, tight stair void"]
                 },
                 " "
               ]
@@ -402,37 +360,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "272 kg"
-                  ]
+                  "children": ["272 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "4"
-                  ]
+                  "children": ["4"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "900 x 1100"
-                  ]
+                  "children": ["900 x 1100"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1400 x 1500"
-                  ]
+                  "children": ["1400 x 1500"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "G+2 family villa"
-                  ]
+                  "children": ["G+2 family villa"]
                 },
                 " "
               ]
@@ -444,37 +392,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "340 kg"
-                  ]
+                  "children": ["340 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "5"
-                  ]
+                  "children": ["5"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1000 x 1200"
-                  ]
+                  "children": ["1000 x 1200"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1500 x 1600"
-                  ]
+                  "children": ["1500 x 1600"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "Wheelchair accessible"
-                  ]
+                  "children": ["Wheelchair accessible"]
                 },
                 " "
               ]
@@ -486,37 +424,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "408 kg"
-                  ]
+                  "children": ["408 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "6"
-                  ]
+                  "children": ["6"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1100 x 1400"
-                  ]
+                  "children": ["1100 x 1400"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1600 x 1800"
-                  ]
+                  "children": ["1600 x 1800"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "Large villa, stretcher access"
-                  ]
+                  "children": ["Large villa, stretcher access"]
                 },
                 " "
               ]
@@ -544,9 +472,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "residential elevator Bangalore"
-              ]
+              "children": ["residential elevator Bangalore"]
             }
           ]
         },
@@ -559,9 +485,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "Power Supply, ARD and the Reality of Local Outages"
-      ]
+      "children": ["Power Supply, ARD and the Reality of Local Outages"]
     },
     " ",
     {
@@ -583,9 +507,7 @@
       "attributes": {
         "id": "section-9"
       },
-      "children": [
-        "Compliance, Safety Gear and Handover Paperwork"
-      ]
+      "children": ["Compliance, Safety Gear and Handover Paperwork"]
     },
     " ",
     {
@@ -608,9 +530,7 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door interlocks on every landing, tested at handover"
-          ]
+          "children": ["Door interlocks on every landing, tested at handover"]
         },
         " ",
         {
@@ -649,9 +569,7 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "Villa Elevators Bangalore: Indicative Costs"
-      ]
+      "children": ["Villa Elevators Bangalore: Indicative Costs"]
     },
     " ",
     {
@@ -666,9 +584,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "home elevator Bangalore"
-              ]
+              "children": ["home elevator Bangalore"]
             }
           ]
         },
@@ -681,9 +597,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "luxury home elevator"
-              ]
+              "children": ["luxury home elevator"]
             }
           ]
         },
@@ -703,9 +617,7 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "Frequently Asked Questions"
-      ]
+      "children": ["Frequently Asked Questions"]
     },
     " ",
     {
@@ -713,9 +625,7 @@
       "attributes": {
         "id": "section-12"
       },
-      "children": [
-        "1. How long does a villa lift Bangalore installation take?"
-      ]
+      "children": ["1. How long does a villa lift Bangalore installation take?"]
     },
     " ",
     {
@@ -747,9 +657,7 @@
       "attributes": {
         "id": "section-14"
       },
-      "children": [
-        "3. Do I need a machine room?"
-      ]
+      "children": ["3. Do I need a machine room?"]
     },
     " ",
     {
@@ -781,9 +689,7 @@
       "attributes": {
         "id": "section-16"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -805,9 +711,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Contact BG Elevators"
-              ]
+              "children": ["Contact BG Elevators"]
             }
           ]
         },
@@ -817,9 +721,7 @@
           "attributes": {
             "href": "https://www.instagram.com/bgelevatorsbg/"
           },
-          "children": [
-            "BG Elevators on Instagram"
-          ]
+          "children": ["BG Elevators on Instagram"]
         },
         " and stay connected with the latest updates."
       ]

@@ -101,9 +101,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Home elevator planning"
-              ]
+              "children": ["Home elevator planning"]
             }
           ]
         },
@@ -144,9 +142,7 @@
       "attributes": {
         "id": "section-1"
       },
-      "children": [
-        "Home Elevator Planning Starts at the Floor Plan"
-      ]
+      "children": ["Home Elevator Planning Starts at the Floor Plan"]
     },
     " ",
     {
@@ -175,9 +171,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "residential elevator planning"
-              ]
+              "children": ["residential elevator planning"]
             }
           ]
         },
@@ -190,9 +184,7 @@
       "attributes": {
         "id": "section-2"
       },
-      "children": [
-        "Fixing the Shaft: Pit, Headroom and Footprint"
-      ]
+      "children": ["Fixing the Shaft: Pit, Headroom and Footprint"]
     },
     " ",
     {
@@ -207,9 +199,7 @@
       "attributes": {
         "id": "section-3"
       },
-      "children": [
-        "Pit depth"
-      ]
+      "children": ["Pit depth"]
     },
     " ",
     {
@@ -224,9 +214,7 @@
       "attributes": {
         "id": "section-4"
       },
-      "children": [
-        "Headroom above the top landing"
-      ]
+      "children": ["Headroom above the top landing"]
     },
     " ",
     {
@@ -241,9 +229,7 @@
       "attributes": {
         "id": "section-5"
       },
-      "children": [
-        "Shaft footprint by capacity"
-      ]
+      "children": ["Shaft footprint by capacity"]
     },
     " ",
     {
@@ -260,37 +246,27 @@
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Capacity"
-                  ]
+                  "children": ["Capacity"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Persons"
-                  ]
+                  "children": ["Persons"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Car (mm)"
-                  ]
+                  "children": ["Car (mm)"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Clear shaft (mm)"
-                  ]
+                  "children": ["Clear shaft (mm)"]
                 },
                 " ",
                 {
                   "tag": "th",
-                  "children": [
-                    "Typical home"
-                  ]
+                  "children": ["Typical home"]
                 },
                 " "
               ]
@@ -309,37 +285,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "204 kg"
-                  ]
+                  "children": ["204 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "3"
-                  ]
+                  "children": ["3"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "800 x 900"
-                  ]
+                  "children": ["800 x 900"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1250 x 1300"
-                  ]
+                  "children": ["1250 x 1300"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "G+1, tight stair void"
-                  ]
+                  "children": ["G+1, tight stair void"]
                 },
                 " "
               ]
@@ -351,37 +317,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "272 kg"
-                  ]
+                  "children": ["272 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "4"
-                  ]
+                  "children": ["4"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "900 x 1100"
-                  ]
+                  "children": ["900 x 1100"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1400 x 1500"
-                  ]
+                  "children": ["1400 x 1500"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "G+2 family home"
-                  ]
+                  "children": ["G+2 family home"]
                 },
                 " "
               ]
@@ -393,37 +349,27 @@
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "340 kg"
-                  ]
+                  "children": ["340 kg"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "5"
-                  ]
+                  "children": ["5"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1000 x 1200"
-                  ]
+                  "children": ["1000 x 1200"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "1500 x 1600"
-                  ]
+                  "children": ["1500 x 1600"]
                 },
                 " ",
                 {
                   "tag": "td",
-                  "children": [
-                    "Wheelchair access"
-                  ]
+                  "children": ["Wheelchair access"]
                 },
                 " "
               ]
@@ -445,9 +391,7 @@
         "Those are clear internal dimensions, measured wall face to wall face after plaster. Masons often work to the outer line and hand over a shaft 60 mm narrower than the drawing, which stops an installation dead. Any serious ",
         {
           "tag": "strong",
-          "children": [
-            "home lift planning"
-          ]
+          "children": ["home lift planning"]
         },
         " exercise includes a dimensional check of the shaft before the supplier despatches the car."
       ]
@@ -458,9 +402,7 @@
       "attributes": {
         "id": "section-6"
       },
-      "children": [
-        "Choosing the Drive Type Before the Slab Is Poured"
-      ]
+      "children": ["Choosing the Drive Type Before the Slab Is Poured"]
     },
     " ",
     {
@@ -489,9 +431,7 @@
       "attributes": {
         "id": "section-7"
       },
-      "children": [
-        "Home Elevator Design Choices That Affect Structure"
-      ]
+      "children": ["Home Elevator Design Choices That Affect Structure"]
     },
     " ",
     {
@@ -510,9 +450,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Door type."
-              ]
+              "children": ["Door type."]
             },
             " Automatic centre-opening doors need shaft width and a lintel allowance; manual swing doors need landing space to swing into."
           ]
@@ -523,9 +461,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Glass shaft or masonry."
-              ]
+              "children": ["Glass shaft or masonry."]
             },
             " Glass and steel needs fixing details from the structural engineer, plus solar control glazing on a west face."
           ]
@@ -536,9 +472,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Car interior weight."
-              ]
+              "children": ["Car interior weight."]
             },
             " Stone flooring and thick panelling eat into rated capacity, so confirm the weight allowance before choosing finishes."
           ]
@@ -553,9 +487,7 @@
         "Good ",
         {
           "tag": "strong",
-          "children": [
-            "home elevator design"
-          ]
+          "children": ["home elevator design"]
         },
         " also plans the boring items: a lockable control cupboard, a light and socket in the pit, and safe access for a technician on the car roof. These get forgotten, then retrofitted badly. Careful residential elevator planning covers them on the drawing."
       ]
@@ -566,9 +498,7 @@
       "attributes": {
         "id": "section-8"
       },
-      "children": [
-        "Electrical Load, ARD and Backup"
-      ]
+      "children": ["Electrical Load, ARD and Backup"]
     },
     " ",
     {
@@ -590,9 +520,7 @@
       "attributes": {
         "id": "section-9"
       },
-      "children": [
-        "Home Elevator Requirements for Approval and Licensing"
-      ]
+      "children": ["Home Elevator Requirements for Approval and Licensing"]
     },
     " ",
     {
@@ -614,9 +542,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "home elevator requirements"
-              ]
+              "children": ["home elevator requirements"]
             }
           ]
         },
@@ -637,16 +563,12 @@
         " ",
         {
           "tag": "li",
-          "children": [
-            "Door interlocks at every landing, tested at handover"
-          ]
+          "children": ["Door interlocks at every landing, tested at handover"]
         },
         " ",
         {
           "tag": "li",
-          "children": [
-            "Emergency alarm, intercom and battery-backed car light"
-          ]
+          "children": ["Emergency alarm, intercom and battery-backed car light"]
         },
         " ",
         {
@@ -678,9 +600,7 @@
       "attributes": {
         "id": "section-10"
       },
-      "children": [
-        "Home Elevator Planning: Budget, Timeline and Sequencing"
-      ]
+      "children": ["Home Elevator Planning: Budget, Timeline and Sequencing"]
     },
     " ",
     {
@@ -702,9 +622,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "lift for new home"
-              ]
+              "children": ["lift for new home"]
             }
           ]
         },
@@ -717,9 +635,7 @@
       "attributes": {
         "id": "section-11"
       },
-      "children": [
-        "Frequently Asked Questions"
-      ]
+      "children": ["Frequently Asked Questions"]
     },
     " ",
     {
@@ -744,9 +660,7 @@
       "attributes": {
         "id": "section-13"
       },
-      "children": [
-        "2. How much space does a home lift actually take?"
-      ]
+      "children": ["2. How much space does a home lift actually take?"]
     },
     " ",
     {
@@ -761,9 +675,7 @@
       "attributes": {
         "id": "section-14"
       },
-      "children": [
-        "3. Can I install a lift later instead?"
-      ]
+      "children": ["3. Can I install a lift later instead?"]
     },
     " ",
     {
@@ -778,9 +690,7 @@
       "attributes": {
         "id": "section-15"
       },
-      "children": [
-        "4. Do I need a machine room on the terrace?"
-      ]
+      "children": ["4. Do I need a machine room on the terrace?"]
     },
     " ",
     {
@@ -795,9 +705,7 @@
       "attributes": {
         "id": "section-16"
       },
-      "children": [
-        "Conclusion"
-      ]
+      "children": ["Conclusion"]
     },
     " ",
     {
@@ -812,9 +720,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "home elevator planning"
-              ]
+              "children": ["home elevator planning"]
             }
           ]
         },
@@ -834,9 +740,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "contact BG Elevators"
-              ]
+              "children": ["contact BG Elevators"]
             }
           ]
         },
@@ -846,9 +750,7 @@
           "attributes": {
             "href": "https://www.instagram.com/bgelevatorsbg/"
           },
-          "children": [
-            "BG Elevators on Instagram"
-          ]
+          "children": ["BG Elevators on Instagram"]
         },
         " and stay connected with the latest updates."
       ]

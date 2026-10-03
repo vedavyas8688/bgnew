@@ -68,26 +68,26 @@ The admin runs at `http://localhost:3002/admin`. MongoDB is required for saved s
 
 ## Project layout
 
-| Location | Purpose |
-| --- | --- |
-| `src/pages/` | Route-level pages compose section components only |
-| `src/components/homepage/` | Hero, about, USP, products, solutions, statistics, projects and homepage sections |
-| `src/components/<page-name>page/` | Sections specific to each remaining page |
-| `src/components/shared/` | Reusable testimonials, consultation, process, product-detail and enquiry-modal sections |
-| `src/components/layout/` | Header, footer and WhatsApp link |
-| `src/components/blogpage/` | Redesigned listing and blog cards |
-| `src/components/blogdetailpage/` | Redesigned article header, content, contents navigation and original supplemental sections |
-| `src/components/ui/` | React links, Lucide icons, accessible carousels, forms and native dialogs |
-| `src/data/pages/` | All editable page copy, image references and section data |
-| `src/data/articles/` | Every complete article as editable structured blocks |
-| `src/data/blogs.json` | Original 106 blog-list records, dates, images and descriptions |
-| `src/data/metadata.json` | Original titles, descriptions, canonical URLs and structured data |
-| `src/data/navigation.json`, `footer.json` | Navigation and footer content |
-| `src/styles/` | Brand styling, Tailwind components, responsive adjustments and blog design |
-| `public/images/`, `public/fonts/` | All 419 original image/font/brochure files, byte-for-byte preserved |
-| `server/` | Configurable enquiry and career email API |
-| `scripts/` | Development, static pre-rendering and meaningful integration checks |
-| `docs/` | Route list, migration manifest and verification report |
+| Location                                  | Purpose                                                                                    |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------ |
+| `src/pages/`                              | Route-level pages compose section components only                                          |
+| `src/components/homepage/`                | Hero, about, USP, products, solutions, statistics, projects and homepage sections          |
+| `src/components/<page-name>page/`         | Sections specific to each remaining page                                                   |
+| `src/components/shared/`                  | Reusable testimonials, consultation, process, product-detail and enquiry-modal sections    |
+| `src/components/layout/`                  | Header, footer and WhatsApp link                                                           |
+| `src/components/blogpage/`                | Redesigned listing and blog cards                                                          |
+| `src/components/blogdetailpage/`          | Redesigned article header, content, contents navigation and original supplemental sections |
+| `src/components/ui/`                      | React links, Lucide icons, accessible carousels, forms and native dialogs                  |
+| `src/data/pages/`                         | All editable page copy, image references and section data                                  |
+| `src/data/articles/`                      | Every complete article as editable structured blocks                                       |
+| `src/data/blogs.json`                     | Original 106 blog-list records, dates, images and descriptions                             |
+| `src/data/metadata.json`                  | Original titles, descriptions, canonical URLs and structured data                          |
+| `src/data/navigation.json`, `footer.json` | Navigation and footer content                                                              |
+| `src/styles/`                             | Brand styling, Tailwind components, responsive adjustments and blog design                 |
+| `public/images/`, `public/fonts/`         | All 419 original image/font/brochure files, byte-for-byte preserved                        |
+| `server/`                                 | Configurable enquiry and career email API                                                  |
+| `scripts/`                                | Development, static pre-rendering and meaningful integration checks                        |
+| `docs/`                                   | Route list, migration manifest and verification report                                     |
 
 ## Content and design
 
@@ -117,8 +117,10 @@ For a new regular page, create its page component, section folder and content fi
 ## Verification
 
 `npm run check` validates all rendered routes and exercises form success/error cases using an in-process mail stub. No real email is sent. See `docs/verification.md` for the completed content, asset and responsive checks and their limits.
-#   b g n e w  
+#   b g n e w 
  
+ 
+
 ## Search visibility setup
 
 The production build generates `public/sitemap.xml` from the canonical, indexable records in `src/data/metadata.json`. Pages marked `noindex` are omitted automatically.

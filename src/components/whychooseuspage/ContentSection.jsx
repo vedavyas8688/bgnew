@@ -1,4 +1,4 @@
-import { Icon } from '@/components/ui';
+import { Icon } from "@/components/ui";
 
 export default function ContentSection({ data }) {
   return (

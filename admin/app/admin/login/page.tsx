@@ -17,9 +17,7 @@ export default async function LoginPage({
             <img src={brandLogo.src} alt="" />
           </span>
           <div>
-            <strong>
-              BG Elevators
-            </strong>
+            <strong>BG Elevators</strong>
             <small>ADMIN WORKSPACE</small>
           </div>
         </div>

@@ -1,4 +1,4 @@
-import { AppLink, Icon } from '@/components/ui';
+import { AppLink, Icon } from "@/components/ui";
 
 export default function ServicesSection({ data }) {
   return (
@@ -14,10 +14,23 @@ export default function ServicesSection({ data }) {
         <div className="w-dyn-list">
           <div className="service-list w-dyn-items" role="list">
             {data.items.map((item, index) => (
-              <div className="service-list-item w-dyn-item" role="listitem" key={index}>
-                <AppLink className="project-card w-inline-block" href={item.link}>
+              <div
+                className="service-list-item w-dyn-item"
+                role="listitem"
+                key={index}
+              >
+                <AppLink
+                  className="project-card w-inline-block"
+                  href={item.link}
+                >
                   <div className="product-card-image w-variant-service">
-                    <img alt={item.imageAlt} className="image" loading="lazy" sizes="100vw" src={item.image} />
+                    <img
+                      alt={item.imageAlt}
+                      className="image"
+                      loading="lazy"
+                      sizes="100vw"
+                      src={item.image}
+                    />
                   </div>
                   <div className="project-card-content">
                     <div className="product-card-title-wrap">

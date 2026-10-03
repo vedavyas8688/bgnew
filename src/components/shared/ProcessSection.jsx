@@ -1,4 +1,3 @@
-
 export default function ProcessSection({ data }) {
   return (
     <section className="section">
@@ -16,7 +15,13 @@ export default function ProcessSection({ data }) {
           {data.items.map((item, index) => (
             <div className="work-card" key={index}>
               <div className="work-card-top">
-                <img alt={item.imageAlt} className="work-card-image" loading="lazy" src={item.image} width="58" />
+                <img
+                  alt={item.imageAlt}
+                  className="work-card-image"
+                  loading="lazy"
+                  src={item.image}
+                  width="58"
+                />
                 <div className="h5">{item.heading}</div>
               </div>
               <p className="text-base">{item.description}</p>
@@ -24,14 +29,26 @@ export default function ProcessSection({ data }) {
           ))}
           <div className="work-card">
             <div className="work-card-top">
-              <img alt={data.imageAlt} className="work-card-image" loading="lazy" src={data.image} width="48" />
+              <img
+                alt={data.imageAlt}
+                className="work-card-image"
+                loading="lazy"
+                src={data.image}
+                width="48"
+              />
               <div className="h5">{data.heading3}</div>
             </div>
             <p className="text-base">{data.description}</p>
           </div>
           <div className="work-card">
             <div className="work-card-top">
-              <img alt={data.imageAlt2} className="work-card-image" loading="lazy" src={data.image2} width="52" />
+              <img
+                alt={data.imageAlt2}
+                className="work-card-image"
+                loading="lazy"
+                src={data.image2}
+                width="52"
+              />
               <div className="h5">{data.heading4}</div>
             </div>
             <p className="text-base">{data.description2}</p>

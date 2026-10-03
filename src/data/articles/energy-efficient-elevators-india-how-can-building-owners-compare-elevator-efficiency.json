@@ -109,9 +109,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "BG Elevators"
-                  ]
+                  "children": ["BG Elevators"]
                 }
               ]
             }
@@ -157,9 +155,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Where a Lift's Energy Actually Goes"
-              ]
+              "children": ["Where a Lift's Energy Actually Goes"]
             }
           ]
         }
@@ -191,9 +187,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Elevator Power Consumption: The Numbers to Ask For"
-              ]
+              "children": ["Elevator Power Consumption: The Numbers to Ask For"]
             }
           ]
         }
@@ -218,9 +212,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Standby versus travel"
-              ]
+              "children": ["Standby versus travel"]
             }
           ]
         }
@@ -245,9 +237,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Usage categories and energy classes"
-              ]
+              "children": ["Usage categories and energy classes"]
             }
           ]
         }
@@ -296,9 +286,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "energy efficient lift"
-                  ]
+                  "children": ["energy efficient lift"]
                 }
               ]
             }
@@ -317,9 +305,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Gearless machine-room-less traction:"
-              ]
+              "children": ["Gearless machine-room-less traction:"]
             },
             " lowest running cost of the common options, no gearbox losses, no machine room to ventilate, smooth acceleration that reduces peak draw."
           ]
@@ -330,9 +316,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Geared traction:"
-              ]
+              "children": ["Geared traction:"]
             },
             " mechanically simple and repairable, but gearbox losses and machine room cooling add up over a decade."
           ]
@@ -343,9 +327,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Hydraulic:"
-              ]
+              "children": ["Hydraulic:"]
             },
             " the pump works hard on every upward trip and the oil needs temperature management in summer. Fine for two or three stops in a villa, expensive to run in a busy building."
           ]
@@ -372,9 +354,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Regenerative Drives and When They Pay Back"
-              ]
+              "children": ["Regenerative Drives and When They Pay Back"]
             }
           ]
         }
@@ -406,9 +386,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Efficient Elevator Systems Beyond the Machine Room"
-              ]
+              "children": ["Efficient Elevator Systems Beyond the Machine Room"]
             }
           ]
         }
@@ -430,9 +408,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "energy saving elevators"
-                  ]
+                  "children": ["energy saving elevators"]
                 }
               ]
             }
@@ -451,9 +427,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "LED cabin lighting with auto shut-off"
-              ]
+              "children": ["LED cabin lighting with auto shut-off"]
             },
             " after a set idle period, instead of tube lights burning all night."
           ]
@@ -464,9 +438,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Sleep mode"
-              ]
+              "children": ["Sleep mode"]
             },
             " for the controller, display boards and door operator. "
           ]
@@ -477,9 +449,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Machine-room-less design"
-              ]
+              "children": ["Machine-room-less design"]
             },
             ", which removes the ventilation and cooling load entirely."
           ]
@@ -490,9 +460,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Destination or group control"
-              ]
+              "children": ["Destination or group control"]
             },
             " where a building has two or more lifts, so the nearer car answers and empty travel drops."
           ]
@@ -503,9 +471,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Correct sizing"
-              ]
+              "children": ["Correct sizing"]
             },
             ", because an oversized lift carries its own dead weight on every trip."
           ]
@@ -570,9 +536,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Factor"
-                      ]
+                      "children": ["Factor"]
                     },
                     " "
                   ]
@@ -584,9 +548,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "What to ask"
-                      ]
+                      "children": ["What to ask"]
                     },
                     " "
                   ]
@@ -598,9 +560,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Why it matters"
-                      ]
+                      "children": ["Why it matters"]
                     },
                     " "
                   ]
@@ -619,9 +579,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Drive type"
-                      ]
+                      "children": ["Drive type"]
                     },
                     " "
                   ]
@@ -633,9 +591,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Gearless PM, geared, or hydraulic"
-                      ]
+                      "children": ["Gearless PM, geared, or hydraulic"]
                     },
                     " "
                   ]
@@ -647,9 +603,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Largest single influence on running cost"
-                      ]
+                      "children": ["Largest single influence on running cost"]
                     },
                     " "
                   ]
@@ -668,9 +622,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Controller"
-                      ]
+                      "children": ["Controller"]
                     },
                     " "
                   ]
@@ -682,9 +634,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "VVVF with closed-loop feedback"
-                      ]
+                      "children": ["VVVF with closed-loop feedback"]
                     },
                     " "
                   ]
@@ -696,9 +646,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Smooths starts, cuts peak demand"
-                      ]
+                      "children": ["Smooths starts, cuts peak demand"]
                     },
                     " "
                   ]
@@ -717,9 +665,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Standby power"
-                      ]
+                      "children": ["Standby power"]
                     },
                     " "
                   ]
@@ -731,9 +677,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Watts with car idle"
-                      ]
+                      "children": ["Watts with car idle"]
                     },
                     " "
                   ]
@@ -745,9 +689,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Dominates in low-traffic buildings"
-                      ]
+                      "children": ["Dominates in low-traffic buildings"]
                     },
                     " "
                   ]
@@ -766,9 +708,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Sleep mode"
-                      ]
+                      "children": ["Sleep mode"]
                     },
                     " "
                   ]
@@ -780,9 +720,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Delay time, what it switches off"
-                      ]
+                      "children": ["Delay time, what it switches off"]
                     },
                     " "
                   ]
@@ -794,9 +732,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Cheap saving, often omitted"
-                      ]
+                      "children": ["Cheap saving, often omitted"]
                     },
                     " "
                   ]
@@ -815,9 +751,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Regeneration"
-                      ]
+                      "children": ["Regeneration"]
                     },
                     " "
                   ]
@@ -829,9 +763,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Available, and modelled payback"
-                      ]
+                      "children": ["Available, and modelled payback"]
                     },
                     " "
                   ]
@@ -843,9 +775,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Only worthwhile at high duty cycles"
-                      ]
+                      "children": ["Only worthwhile at high duty cycles"]
                     },
                     " "
                   ]
@@ -864,9 +794,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Lighting"
-                      ]
+                      "children": ["Lighting"]
                     },
                     " "
                   ]
@@ -878,9 +806,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "LED with auto shut-off"
-                      ]
+                      "children": ["LED with auto shut-off"]
                     },
                     " "
                   ]
@@ -892,9 +818,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Runs far more hours than the motor"
-                      ]
+                      "children": ["Runs far more hours than the motor"]
                     },
                     " "
                   ]
@@ -913,9 +837,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Group control"
-                      ]
+                      "children": ["Group control"]
                     },
                     " "
                   ]
@@ -927,9 +849,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Included for multi-lift banks"
-                      ]
+                      "children": ["Included for multi-lift banks"]
                     },
                     " "
                   ]
@@ -941,9 +861,7 @@
                     " ",
                     {
                       "tag": "p",
-                      "children": [
-                        "Reduces unnecessary travel"
-                      ]
+                      "children": ["Reduces unnecessary travel"]
                     },
                     " "
                   ]
@@ -980,9 +898,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Green Elevators, Ratings and Modernisation"
-              ]
+              "children": ["Green Elevators, Ratings and Modernisation"]
             }
           ]
         }
@@ -1000,9 +916,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Rating frameworks"
-              ]
+              "children": ["Rating frameworks"]
             }
           ]
         }
@@ -1027,9 +941,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Modernisation instead of replacement"
-              ]
+              "children": ["Modernisation instead of replacement"]
             }
           ]
         }
@@ -1085,9 +997,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "best energy efficient elevators"
-                  ]
+                  "children": ["best energy efficient elevators"]
                 }
               ]
             }
@@ -1108,9 +1018,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Frequently Asked Questions"
-              ]
+              "children": ["Frequently Asked Questions"]
             }
           ]
         }
@@ -1236,9 +1144,7 @@
           "children": [
             {
               "tag": "strong",
-              "children": [
-                "Conclusion"
-              ]
+              "children": ["Conclusion"]
             }
           ]
         }
@@ -1267,9 +1173,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Contact BG Elevators today"
-                  ]
+                  "children": ["Contact BG Elevators today"]
                 }
               ]
             }
@@ -1293,9 +1197,7 @@
               "children": [
                 {
                   "tag": "u",
-                  "children": [
-                    "Follow us on Instagram"
-                  ]
+                  "children": ["Follow us on Instagram"]
                 }
               ]
             }
