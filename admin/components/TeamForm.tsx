@@ -11,19 +11,22 @@ export default function TeamForm() {
     {},
   );
   return (
-    <form action={action} className="card team-create">
+    <form
+      action={action}
+      className="card team-create grid content-start gap-2 p-4"
+    >
       <div className="section-title">
         <UserPlus size={20} />
         <h2>Add team member</h2>
       </div>
-      <p className="muted">
+      <p className="muted text-[0.8125rem] leading-[1.4]">
         Create an account and share the credentials securely.
       </p>
       <Feedback {...state} />
-      <label className="label">
+      <label className="label gap-[5px]">
         Full name
         <input
-          className="field"
+          className="field py-2"
           name="name"
           required
           minLength={2}
@@ -31,10 +34,10 @@ export default function TeamForm() {
           defaultValue={state.values?.name}
         />
       </label>
-      <label className="label">
+      <label className="label gap-[5px]">
         Email address
         <input
-          className="field"
+          className="field py-2"
           name="email"
           type="email"
           required
@@ -42,10 +45,10 @@ export default function TeamForm() {
           defaultValue={state.values?.email}
         />
       </label>
-      <label className="label">
+      <label className="label gap-[5px]">
         Temporary password
         <input
-          className="field"
+          className="field py-2"
           name="password"
           type="password"
           autoComplete="new-password"
@@ -55,10 +58,10 @@ export default function TeamForm() {
         />
         <small>At least 10 characters. Share it securely.</small>
       </label>
-      <label className="label">
+      <label className="label gap-[5px]">
         Access level
         <select
-          className="field"
+          className="field py-2"
           name="role"
           defaultValue={state.values?.role || "staff"}
         >

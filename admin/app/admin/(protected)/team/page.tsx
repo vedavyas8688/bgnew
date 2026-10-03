@@ -60,7 +60,7 @@ export default async function TeamPage() {
               </p>
             </div>
           </div>
-          <div className="team-list">
+          <div className="team-list scrollbar-hidden overscroll-contain">
             {members.map((member) => (
               <article className="team-member" key={member._id}>
                 <div className="team-member-heading">

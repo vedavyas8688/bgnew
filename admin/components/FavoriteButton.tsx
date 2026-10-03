@@ -34,7 +34,7 @@ export default function FavoriteButton({
   return (
     <button
       type="button"
-      className={`favorite-button${selected ? " is-favorite" : ""}`}
+      className={`favorite-button ${selected ? "is-favorite" : ""}`}
       onClick={toggle}
       disabled={!editable || pending}
       aria-pressed={selected}
