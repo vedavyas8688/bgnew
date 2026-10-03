@@ -24,11 +24,13 @@ export default function ArticleHeader({ article }) {
   return (
     <header className="article-header">
       <div className="editorial-container">
-        <AppLink href="/blogs" className="article-back">
-          <Icon name="ArrowLeft" size={16} />
-          Journal
-        </AppLink>
-        <div className="article-meta">
+        <div className="article-header-top">
+          <AppLink href="/blogs" className="article-back">
+            <Icon name="ArrowLeft" size={16} />
+            Journal
+          </AppLink>
+          <div className="article-header-details">
+            <div className="article-meta">
           <span>{article.eyebrow}</span>
           {article.date && (
             <>
@@ -39,17 +41,23 @@ export default function ArticleHeader({ article }) {
           <i>·</i>
           <span>{readingMinutes} min read</span>
         </div>
-        <div className="article-byline">
+            <div className="article-byline">
           <span>By {businessProfile.legalAuthorName}</span>
           <i>·</i>
-          <span>Reviewed by {businessProfile.technicalReviewer}</span>
           <i>·</i>
           <span>
             Last reviewed <time>{reviewedDate}</time>
           </span>
+            </div>
+          </div>
+          <span className="article-header-balance" aria-hidden="true" />
         </div>
-        <h1>{article.title}</h1>
-        {introduction && <p className="article-introduction">{introduction}</p>}
+        <div className="article-title-row">
+          <h1>{article.title}</h1>
+          {introduction && (
+            <p className="article-introduction">{introduction}</p>
+          )}
+        </div>
         {article.image && (
           <div className="article-cover">
             <img

@@ -4,6 +4,9 @@ import UspSection from "@/components/homepage/UspSection";
 import ProductsSection from "@/components/homepage/ProductsSection";
 import SolutionsSection from "@/components/homepage/SolutionsSection";
 import WhyChooseUsSection from "@/components/homepage/WhyChooseUsSection";
+import ProcessSection from "@/components/shared/ProcessSection";
+import MaintenanceSupportSection from "@/components/homepage/MaintenanceSupportSection";
+import FaqSection from "@/components/homepage/FaqSection";
 import StatisticsSection from "@/components/homepage/StatisticsSection";
 import TestimonialsSection from "@/components/shared/TestimonialsSection";
 import ProjectsSection from "@/components/homepage/ProjectsSection";
@@ -21,6 +24,9 @@ export default function HomePage() {
       <ProductsSection data={data.productsSection} />
       <SolutionsSection data={data.solutionsSection} />
       <WhyChooseUsSection data={data.whyChooseUsSection} />
+      <ProcessSection data={data.processSection} />
+      <MaintenanceSupportSection data={data.maintenanceSupportSection} />
+      <FaqSection data={data.faqSection} />
       <StatisticsSection data={data.statisticsSection} />
       <TestimonialsSection data={data.testimonialsSection} />
       <ProjectsSection data={data.projectsSection} />

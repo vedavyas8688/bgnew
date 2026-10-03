@@ -14,7 +14,7 @@ export default function TestimonialsSection({ data }) {
           </div>
           <p>{data.description}</p>
         </div>
-        <Carousel autoPlay interval={4500} variant="testimonials">
+        <Carousel autoPlay interval={3000} variant="testimonials">
           {data.items.map((item, index) => (
             <div className="slider-item w-slide" key={index}>
               <div className="testimonial-card">

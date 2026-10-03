@@ -252,6 +252,98 @@
     "imageAlt5": "",
     "image5": "/images/icons/vertical-elevator.jpg"
   },
+  "processSection": {
+    "text": "How We Work?",
+    "heading": "Built on ",
+    "text2": "Precision",
+    "heading2": ", Driven by ",
+    "text3": "Excellence",
+    "items": [
+      {
+        "imageAlt": "Project planning icon",
+        "image": "/images/Planning.png",
+        "heading": "Planning",
+        "description": "At BG Elevators, every project begins with careful planning. We collaborate closely with clients to understand their specific needs, safety requirements, and desired performance standards."
+      },
+      {
+        "imageAlt": "Elevator design and engineering icon",
+        "image": "/images/repairProduct.png",
+        "heading": "Design & Engineering",
+        "description": "Our expert engineers design customized elevator solutions that combine innovation, safety, and efficiency, ensuring every detail meets industry standards and client expectations."
+      }
+    ],
+    "imageAlt": "Elevator manufacturing and installation icon",
+    "image": "/images/Accurate.png",
+    "heading3": "Manufacturing & Installation",
+    "description": "We use advanced manufacturing techniques and skilled technicians to build and install elevators with utmost precision, ensuring smooth and reliable operation.",
+    "imageAlt2": "Elevator testing and handover icon",
+    "image2": "/images/buy-home.png",
+    "heading4": "Testing & Handover",
+    "description2": "Before delivery, each elevator undergoes rigorous testing to guarantee safety and performance. We then provide a detailed walkthrough to ensure complete client satisfaction."
+  },
+  "maintenanceSupportSection": {
+    "badge": "Maintenance & Support",
+    "heading": "Reliable Care for",
+    "accent": "Long-Term Performance",
+    "description": "From scheduled maintenance to modernization and emergency repairs, our service team helps keep elevator systems operating smoothly and safely.",
+    "link": "/services",
+    "linkText": "Learn More",
+    "items": [
+      {
+        "link": "/amc-and-service-maintence",
+        "imageAlt": "Technician performing scheduled elevator maintenance",
+        "image": "/images/services/AnnualMaintence.jpg",
+        "heading": "AMC & Service Maintenance",
+        "description": "Reliable maintenance backed by 24-hour service, tech-enabled support, and scheduled inspections to keep your elevators running smoothly and safely—always."
+      },
+      {
+        "link": "/breakdown-and-emergency-repairs",
+        "imageAlt": "Elevator breakdown and emergency repair support",
+        "image": "/images/services/Breakdown.jpg",
+        "heading": "Breakdown & Emergency Repairs",
+        "description": "24/7 responsive professional support ready to address unexpected elevator failures swiftly, ensuring complete safety and minimal operational downtime."
+      },
+      {
+        "link": "/elevator-modernization",
+        "imageAlt": "Modern elevator system upgrade",
+        "image": "/images/services/ElevatorModernization.jpg",
+        "heading": "Elevator Modernization",
+        "description": "Upgrade elevator systems with smart modernization solutions that integrate current technology, safety and energy efficiency for enhanced performance."
+      }
+    ]
+  },
+  "faqSection": {
+    "badge": "Frequently Asked Questions",
+    "heading": "Helpful Answers for",
+    "accent": "Elevator Planning",
+    "description": "Clear guidance for planning, installation, maintenance and ongoing elevator support.",
+    "items": [
+      {
+        "question": "What information is helpful before a site inspection?",
+        "answer": "Building type, number of floors, expected usage, available shaft space and preferred elevator capacity help our team understand the project before inspecting the site."
+      },
+      {
+        "question": "How does BG Elevators recommend the right elevator system?",
+        "answer": "Our team reviews the site conditions, travel requirements, available space, safety needs and expected usage before recommending a suitable elevator configuration."
+      },
+      {
+        "question": "What happens during elevator installation?",
+        "answer": "The process includes site coordination, system installation, alignment, electrical integration, safety checks, testing and a final handover walkthrough."
+      },
+      {
+        "question": "Why is preventive elevator maintenance important?",
+        "answer": "Scheduled inspections help identify wear early, support reliable operation, reduce unexpected stoppages and maintain safe performance over time."
+      },
+      {
+        "question": "Can an existing elevator be modernized?",
+        "answer": "Yes. Depending on its condition, an elevator can be upgraded through controls, drives, safety systems, fixtures, doors and cabin improvements."
+      },
+      {
+        "question": "Do you service elevators installed by other companies?",
+        "answer": "Yes. BG Elevators provides inspection, maintenance and repair support for eligible non-BG elevator systems after assessing their condition and service requirements."
+      }
+    ]
+  },
   "statisticsSection": {
     "statistic": {
       "value": "2500+",

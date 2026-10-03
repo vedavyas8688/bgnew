@@ -1,19 +1,22 @@
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, Search } from "lucide-react";
 import { href, pageSize, type Query } from "@/lib/queries";
+import FilterForm from "@/components/FilterForm";
 export function Filters({
   path,
   query,
   statuses,
   sources,
+  favorites = false,
 }: {
   path: string;
   query: Query;
   statuses: readonly string[];
   sources?: readonly string[];
+  favorites?: boolean;
 }) {
   return (
-    <form className="list-filters" action={path}>
+    <FilterForm className="list-filters" action={path}>
       <label className="search-field">
         <Search size={18} />
         <input
@@ -49,15 +52,23 @@ export function Filters({
           ))}
         </select>
       )}
-      <button className="button button-secondary" type="submit">
-        Apply
-      </button>
-      {(query.q || query.status || query.source) && (
+      {favorites && (
+        <select
+          className="field filter-select"
+          aria-label="Filter favorite leads"
+          name="favorite"
+          defaultValue={query.favorite || ""}
+        >
+          <option value="">All leads</option>
+          <option value="1">Favorites</option>
+        </select>
+      )}
+      {(query.q || query.status || query.source || query.favorite) && (
         <Link className="text-link" href={path}>
           Clear
         </Link>
       )}
-    </form>
+    </FilterForm>
   );
 }
 export function Pagination({

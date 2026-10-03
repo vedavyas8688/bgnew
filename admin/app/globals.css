@@ -1209,9 +1209,21 @@ textarea {
   box-shadow: 0 0 0 3px #3396d61a;
 }
 .filter-select {
+  appearance: none;
   width: auto;
   min-width: 140px;
+  height: 42px;
+  padding: 0 40px 0 14px;
+  background-color: #fff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23304c5e' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 13px center;
+  background-size: 15px;
   font-size: 0.875rem;
+  line-height: 1;
+  text-align: left;
+  text-align-last: left;
+  cursor: pointer;
 }
 .table-wrap {
   overflow-x: auto;
@@ -1292,6 +1304,32 @@ tbody tr:hover {
 .table-person:hover strong {
   color: var(--brand);
 }
+.favorite-button {
+  display: inline-grid;
+  flex: 0 0 auto;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: #91a5b2;
+  cursor: pointer;
+}
+.favorite-button:hover:not(:disabled) {
+  background: #fff6df;
+  color: #c58208;
+}
+.favorite-button.is-favorite {
+  color: #d28a05;
+}
+.favorite-button.is-favorite svg {
+  fill: currentColor;
+}
+.favorite-button:disabled {
+  cursor: default;
+}
 .phone-link {
   white-space: nowrap;
   color: #536f80;
@@ -1319,6 +1357,50 @@ tbody tr:hover {
   color: var(--brand);
   font-weight: 550;
   padding: 6px 0;
+}
+.table-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 14px;
+  white-space: nowrap;
+}
+.table-delete {
+  display: inline-grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: #b42318;
+  font: inherit;
+  font-weight: 550;
+  cursor: pointer;
+}
+.table-delete:hover {
+  background: #fff1f0;
+  color: #8f1c13;
+}
+.resume-actions,
+.resume-detail-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.resume-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--brand);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.resume-action:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 .cell-wrap {
   display: block;
@@ -1629,7 +1711,7 @@ tbody tr:hover {
 .team-layout {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 320px;
-  align-items: start;
+  align-items: stretch;
   gap: 14px;
 }
 .team-page {
@@ -1655,7 +1737,8 @@ tbody tr:hover {
 .team-create {
   padding: 16px;
   display: grid;
-  gap: 12px;
+  align-content: start;
+  gap: 8px;
 }
 .team-create .section-title {
   min-height: 52px;
@@ -1663,6 +1746,17 @@ tbody tr:hover {
 }
 .team-create .muted {
   font-size: 0.8125rem;
+  line-height: 1.4;
+}
+.team-create .label {
+  gap: 5px;
+}
+.team-create .field {
+  padding-block: 8px;
+}
+.team-create .button {
+  min-height: 40px;
+  padding-block: 8px;
 }
 .team-create .feedback {
   margin: 0;
@@ -1670,10 +1764,14 @@ tbody tr:hover {
 .team-list {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-content: start;
+  flex: 1;
   gap: 10px;
   padding: 12px;
-  max-height: 330px;
+  max-height: 440px;
   overflow-y: auto;
+  overscroll-behavior: contain;
+  -ms-overflow-style: none;
   scrollbar-width: none;
 }
 .team-list::-webkit-scrollbar {
@@ -1685,6 +1783,9 @@ tbody tr:hover {
   border: 1px solid var(--line);
   border-radius: 6px;
   background: #fff;
+}
+.team-member:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
 }
 .team-member-heading {
   display: flex;

@@ -1,6 +1,6 @@
 export default function ProcessSection({ data }) {
   return (
-    <section className="section">
+    <section className="section process-section">
       <div className="container">
         <div className="title-center _3-rem">
           <div className="badge">{data.text}</div>

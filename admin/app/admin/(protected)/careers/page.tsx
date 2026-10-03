@@ -3,12 +3,13 @@ import {
   ArrowUpRight,
   BriefcaseBusiness,
   Download,
-  ExternalLink,
+  Eye,
 } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
 import StatusSelect from "@/components/StatusSelect";
 import StatusBadge from "@/components/StatusBadge";
 import Feedback from "@/components/Feedback";
+import DeleteButton from "@/components/DeleteButton";
 import { Filters, Pagination } from "@/components/ListTools";
 import { updateStatus } from "../../actions";
 import { requireAdmin } from "@/lib/auth";
@@ -99,26 +100,28 @@ export default async function CareersPage({
                     <span className="cell-wrap">{item.position}</span>
                   </td>
                   <td>
-                    {item.resume?.filename ? (
-                      <a
-                        className="text-link"
-                        href={`/api/careers/${item._id}/resume`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        <Download size={15} />
-                        Resume
-                      </a>
-                    ) : safeUrl(item.resume?.externalUrl) ? (
-                      <a
-                        className="text-link"
-                        href={`/api/careers/${item._id}/resume`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        <ExternalLink size={15} />
-                        CV link
-                      </a>
+                    {item.resume?.filename ||
+                    safeUrl(item.resume?.externalUrl) ? (
+                      <span className="resume-actions">
+                        <a
+                          className="resume-action"
+                          href={`/api/careers/${item._id}/resume`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label={`View ${item.name}'s resume`}
+                        >
+                          <Eye size={15} />
+                          View
+                        </a>
+                        <a
+                          className="resume-action"
+                          href={`/api/careers/${item._id}/resume?download=1`}
+                          aria-label={`Download ${item.name}'s resume`}
+                        >
+                          <Download size={15} />
+                          Download
+                        </a>
+                      </span>
                     ) : (
                       <span className="muted">No resume</span>
                     )}
@@ -137,13 +140,23 @@ export default async function CareersPage({
                     )}
                   </td>
                   <td>
-                    <Link
-                      className="table-action"
-                      href={`/admin/careers/${item._id}`}
-                    >
-                      View
-                      <ArrowUpRight size={16} />
-                    </Link>
+                    <div className="table-actions">
+                      <Link
+                        className="table-action"
+                        href={`/admin/careers/${item._id}`}
+                      >
+                        View
+                        <ArrowUpRight size={16} />
+                      </Link>
+                      {session.role === "admin" && (
+                        <DeleteButton
+                          compact
+                          kind="career"
+                          id={item._id}
+                          name={item.name}
+                        />
+                      )}
+                    </div>
                   </td>
                 </tr>
               ))}

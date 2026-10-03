@@ -3,6 +3,7 @@ import { useLocation } from "react-router-dom";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import WhatsAppButton from "@/components/layout/WhatsAppButton";
+import PageFaqSection from "@/components/shared/PageFaqSection";
 import { EnquiryProvider } from "@/components/ui";
 import footerData from "@/data/footer.json";
 import whatsappData from "@/data/whatsapp.json";
@@ -99,7 +100,10 @@ export default function App({ initialPage }) {
               <a href={location.pathname}>Reload page</a>
             </div>
           ) : page.slug === pageSlug(location.pathname) ? (
-            <Component {...props} />
+            <>
+              <Component {...props} />
+              {page.slug !== "index" && <PageFaqSection slug={page.slug} />}
+            </>
           ) : (
             <div className="section" role="status">
               Loading...

@@ -139,6 +139,35 @@ export async function setStatus(
     "status_changed",
   );
 }
+export async function setFavorite(actor: Actor, id: string, favorite: boolean) {
+  authorize(actor);
+  const lead = await record("lead", id);
+  const stored = await Lead.collection.findOne(
+    { _id: lead._id },
+    { projection: { favorite: 1 } },
+  );
+  const current = Boolean(stored?.favorite);
+  if (current === favorite) return;
+  await Lead.collection.updateOne(
+    { _id: lead._id },
+    { $set: { favorite } },
+  );
+  lead.set("favorite", favorite, { strict: false });
+  await audit(
+    actor,
+    "lead",
+    lead,
+    "favorite_changed",
+    favorite ? "Lead added to favorites" : "Lead removed from favorites",
+    [
+      {
+        field: "Favorite",
+        before: current ? "Yes" : "No",
+        after: favorite ? "Yes" : "No",
+      },
+    ],
+  );
+}
 export async function setNote(
   actor: Actor,
   kind: Kind,

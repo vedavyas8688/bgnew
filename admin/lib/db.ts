@@ -10,7 +10,10 @@ export async function connectDb() {
       .connect(uri, {
         bufferCommands: false,
         maxPoolSize: 10,
+        minPoolSize: process.env.NODE_ENV === "production" ? 1 : 0,
+        maxIdleTimeMS: 60_000,
         serverSelectionTimeoutMS: 5000,
+        family: 4,
       })
       .catch((error) => {
         state.mongoPromise = undefined;

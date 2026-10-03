@@ -134,15 +134,23 @@ export default function RecordDetails({
                 </div>
                 {(record.resume?.filename ||
                   safeUrl(record.resume?.externalUrl)) && (
-                  <a
-                    className="button button-secondary"
-                    href={`/api/careers/${record._id}/resume`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <Download size={17} />
-                    Open resume
-                  </a>
+                  <div className="resume-detail-actions">
+                    <a
+                      className="button button-secondary"
+                      href={`/api/careers/${record._id}/resume`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      View resume
+                    </a>
+                    <a
+                      className="button button-primary"
+                      href={`/api/careers/${record._id}/resume?download=1`}
+                    >
+                      <Download size={17} />
+                      Download
+                    </a>
+                  </div>
                 )}
               </div>
             )}

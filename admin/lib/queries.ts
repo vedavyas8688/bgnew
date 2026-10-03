@@ -4,6 +4,7 @@ export type Query = {
   status?: string;
   page?: string;
   source?: string;
+  favorite?: string;
   type?: string;
   action?: string;
   from?: string;

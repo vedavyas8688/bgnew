@@ -2,7 +2,6 @@ import ArticleHeader from "@/components/blogdetailpage/ArticleHeader";
 import ArticleContent from "@/components/blogdetailpage/ArticleContent";
 import ArticleContents from "@/components/blogdetailpage/ArticleContents";
 import AdditionalSections from "@/components/blogdetailpage/AdditionalSections";
-import ArticleTrustPanel from "@/components/blogdetailpage/ArticleTrustPanel";
 
 export default function BlogDetailPage({ article }) {
   return (
@@ -12,7 +11,6 @@ export default function BlogDetailPage({ article }) {
         <div className="editorial-container article-layout">
           <div>
             <ArticleContent article={article} />
-            <ArticleTrustPanel />
           </div>
           <ArticleContents article={article} />
         </div>

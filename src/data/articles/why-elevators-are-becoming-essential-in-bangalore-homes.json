@@ -459,28 +459,28 @@
         "text3": "Explore More",
         "items": [
           {
-            "link": "#",
-            "imageAlt": "",
-            "image": "/images/6742c673feec494c24274693_blog-thumbnail-6.webp",
-            "text": "November 24, 2024",
-            "heading": "How to Choose the Right Contractor for Your Next Construction Project",
-            "description": "Lorem ipsum dolor sit amet consectetur. Non sapien mattis adipiscing aliquam. Adipiscing vitae non sagittis odio faucibus vel sed."
+            "link": "/before-installing-an-elevator-guide",
+            "imageAlt": "Elevator installation planning for a building project",
+            "image": "/images/before-installing-an-elevator-everything-you-need-to-know.webp",
+            "text": "February 4, 2026",
+            "heading": "Before Installing an Elevator: Everything You Need to Know",
+            "description": "Review the building, space, safety and planning considerations that should be understood before an elevator installation begins."
           },
           {
-            "link": "#",
-            "imageAlt": "",
-            "image": "/images/topfeatures.jpg",
-            "text": "November 24, 2024",
-            "heading": "Residential vs. Commercial Construction: Key Differences You Need to Know",
-            "description": "Lorem ipsum dolor sit amet consectetur. Non sapien mattis adipiscing aliquam. Adipiscing vitae non sagittis odio faucibus vel sed."
+            "link": "/best-space-saving-elevator-designs-for-homes-in-bangalore",
+            "imageAlt": "Space-saving elevator design for a modern home",
+            "image": "/images/best-space-saving-elevator-designs-for-homes.webp",
+            "text": "April 30, 2026",
+            "heading": "Best Space Saving Elevator Designs for Homes in Bangalore",
+            "description": "Explore practical elevator design approaches for homes where available floor area and shaft space need careful planning."
           },
           {
-            "link": "#",
-            "imageAlt": "",
-            "image": "/images/6742c6532e411d04a0ca8cb2_blog-thumbnail-5.webp",
-            "text": "November 24, 2024",
-            "heading": "The Role of Project Management in Delivering Construction Projects on Time",
-            "description": "Lorem ipsum dolor sit amet consectetur. Non sapien mattis adipiscing aliquam. Adipiscing vitae non sagittis odio faucibus vel sed."
+            "link": "/best-glass-elevator-designs-for-luxury-homes-in-bangalore",
+            "imageAlt": "Glass elevator designed for a luxury home interior",
+            "image": "/images/best-glass-elevator-designs-for-luxury-homes.webp",
+            "text": "May 12, 2026",
+            "heading": "Best Glass Elevator Designs for Luxury Homes in Bangalore",
+            "description": "See how glass elevator layouts can complement contemporary homes while balancing appearance, space and practical use."
           }
         ]
       }

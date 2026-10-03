@@ -55,6 +55,7 @@ export default function ArticleContent({ article }) {
   return (
     <div className="article-prose">
       {article.body.map((node, index) => {
+        if (/^alt\s*text\s*:/i.test(nodeText(node).trim())) return null;
         if (index === introductionIndex) return null;
         const answer = directAnswer(node, article.body.slice(index + 1));
         return (

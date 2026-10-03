@@ -4,6 +4,8 @@ import PageHeader from "@/components/PageHeader";
 import StatusSelect from "@/components/StatusSelect";
 import StatusBadge from "@/components/StatusBadge";
 import Feedback from "@/components/Feedback";
+import DeleteButton from "@/components/DeleteButton";
+import FavoriteButton from "@/components/FavoriteButton";
 import { Filters, Pagination } from "@/components/ListTools";
 import { updateStatus } from "../../actions";
 import { requireAdmin } from "@/lib/auth";
@@ -28,6 +30,7 @@ export default async function LeadsPage({
   if (leadStatuses.includes(query.status as never))
     filter.status = query.status;
   if (leadSources.includes(query.source as never)) filter.source = query.source;
+  if (query.favorite === "1") filter.favorite = true;
   const total = await Lead.countDocuments(filter),
     page = Math.min(
       requestedPage(query),
@@ -70,6 +73,7 @@ export default async function LeadsPage({
           query={query}
           statuses={leadStatuses}
           sources={leadSources}
+          favorites
         />
         <div className="table-wrap">
           <table>
@@ -126,14 +130,30 @@ export default async function LeadsPage({
                     )}
                   </td>
                   <td>
-                    <Link
-                      className="table-action"
-                      href={`/admin/leads/${lead._id}`}
-                      aria-label={`View ${lead.name}`}
-                    >
-                      View
-                      <ArrowUpRight size={16} />
-                    </Link>
+                    <div className="table-actions">
+                      <FavoriteButton
+                        id={lead._id}
+                        name={lead.name}
+                        favorite={Boolean(lead.favorite)}
+                        editable={canEdit}
+                      />
+                      <Link
+                        className="table-action"
+                        href={`/admin/leads/${lead._id}`}
+                        aria-label={`View ${lead.name}`}
+                      >
+                        View
+                        <ArrowUpRight size={16} />
+                      </Link>
+                      {session.role === "admin" && (
+                        <DeleteButton
+                          compact
+                          kind="lead"
+                          id={lead._id}
+                          name={lead.name}
+                        />
+                      )}
+                    </div>
                   </td>
                 </tr>
               ))}
@@ -144,12 +164,12 @@ export default async function LeadsPage({
           <div className="empty-state">
             <Inbox />
             <h3>
-              {query.q || query.status || query.source
+              {query.q || query.status || query.source || query.favorite
                 ? "No matching leads"
                 : "No leads yet"}
             </h3>
             <p>
-              {query.q || query.status || query.source
+              {query.q || query.status || query.source || query.favorite
                 ? "Try a different search or clear the filters."
                 : "New enquiries appear here. You can also add a lead manually."}
             </p>

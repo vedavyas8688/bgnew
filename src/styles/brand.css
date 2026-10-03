@@ -5364,6 +5364,38 @@ figure {
   display: flex;
 }
 
+.process-section .work-card,
+.process-section .work-card .h5,
+.process-section .work-card .text-base,
+.process-section .work-card-image {
+  transition:
+    background-color 0.3s ease,
+    border-color 0.3s ease,
+    color 0.3s ease,
+    filter 0.3s ease,
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+@media (hover: hover) {
+  .process-section .work-card:hover {
+    transform: translateY(-4px);
+    border-color: #3396d6;
+    background-color: #3396d6;
+    box-shadow: 0 18px 42px rgba(1, 32, 52, 0.14);
+  }
+
+  .process-section .work-card:hover .h5,
+  .process-section .work-card:hover .text-base {
+    color: #fff;
+  }
+
+  .process-section .work-card:hover .work-card-image {
+    filter: brightness(0) invert(1);
+    transform: scale(1.05);
+  }
+}
+
 .work-card.benefit {
   text-align: center;
 }
@@ -6608,6 +6640,16 @@ figure {
   .h-service-grid {
     flex-flow: row;
     align-items: flex-start;
+  }
+
+  .h-service-left {
+    align-self: flex-start;
+    position: sticky;
+    top: 2rem;
+  }
+
+  .h-service-right {
+    scroll-behavior: smooth;
   }
 
   .h-choose-us-grid {

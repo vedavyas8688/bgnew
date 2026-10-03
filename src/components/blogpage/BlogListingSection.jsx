@@ -33,7 +33,10 @@ export default function BlogListingSection() {
       <div className="editorial-masthead">
         <div className="editorial-container">
           <p className="editorial-eyebrow">{ui.blog.eyebrow}</p>
-          <h1>{ui.blog.title}</h1>
+          <h1 aria-label={ui.blog.title}>
+            <span>Stay Informed with</span>
+            <span>Our Latest Blogs</span>
+          </h1>
         </div>
       </div>
       <div className="editorial-container editorial-feed">

@@ -9,10 +9,12 @@ export default function DeleteButton({
   kind,
   id,
   name,
+  compact = false,
 }: {
   kind: "lead" | "career";
   id: string;
   name: string;
+  compact?: boolean;
 }) {
   const dialog = useRef<HTMLDialogElement>(null),
     [state, action] = useActionState<FormState, FormData>(
@@ -22,12 +24,14 @@ export default function DeleteButton({
   return (
     <>
       <button
-        className="button button-danger-outline"
+        className={compact ? "table-delete" : "button button-danger-outline"}
         type="button"
         onClick={() => dialog.current?.showModal()}
+        aria-label={`Delete ${name}`}
+        title={compact ? `Delete ${name}` : undefined}
       >
-        <Trash2 size={17} />
-        Delete
+        <Trash2 size={compact ? 15 : 17} />
+        {!compact && "Delete"}
       </button>
       <dialog
         ref={dialog}

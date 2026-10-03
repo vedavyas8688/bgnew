@@ -1,5 +1,6 @@
 import StorySection from "@/components/aboutuspage/StorySection";
 import MissionSection from "@/components/aboutuspage/MissionSection";
+import JourneySection from "@/components/aboutuspage/JourneySection";
 import ProcessSection from "@/components/shared/ProcessSection";
 import TestimonialsSection from "@/components/shared/TestimonialsSection";
 import ConsultationSection from "@/components/shared/ConsultationSection";
@@ -9,6 +10,7 @@ export default function AboutUsPage() {
   return (
     <>
       <StorySection data={data.storySection} />
+      <JourneySection />
       <MissionSection data={data.missionSection} />
       <ProcessSection data={data.processSection} />
       <TestimonialsSection data={data.testimonialsSection} />

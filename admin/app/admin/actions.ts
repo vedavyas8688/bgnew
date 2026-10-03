@@ -2,7 +2,7 @@
 import bcrypt from "bcryptjs";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
-import { clearSession, requireAdmin, setSession } from "@/lib/auth";
+import { clearSession, requireAdmin, requireRole, setSession } from "@/lib/auth";
 import { connectDb } from "@/lib/db";
 import { Admin, Brochure } from "@/lib/models";
 import {
@@ -13,6 +13,7 @@ import {
   removeRecord,
   resetPassword,
   setNote,
+  setFavorite,
   setStatus,
 } from "@/lib/mutations";
 import { InputError, type FormState, text } from "@/lib/validation";
@@ -66,7 +67,9 @@ export async function loginAction(
     attempts.set(email, attempt);
   try {
     await connectDb();
-    const admin = await Admin.findOne({ email });
+    const admin: any = await Admin.findOne({ email })
+      .select("name email role active sessionVersion passwordHash")
+      .lean();
     if (
       !admin ||
       admin.active === false ||
@@ -139,6 +142,16 @@ export async function updateStatus(
     return { ok: false, error: message(error) };
   }
 }
+export async function updateFavorite(id: string, favorite: boolean) {
+  const actor = await requireAdmin();
+  try {
+    await connectDb();
+    await setFavorite(actor, id, favorite);
+    return { ok: true };
+  } catch (error) {
+    return { ok: false, error: message(error) };
+  }
+}
 export async function updateNote(
   kind: "lead" | "career",
   id: string,
@@ -160,7 +173,7 @@ export async function deleteRecord(
   id: string,
   _: FormState,
 ): Promise<FormState> {
-  const actor = await requireAdmin();
+  const actor = await requireRole(["admin"]);
   try {
     await connectDb();
     await removeRecord(actor, kind, id);

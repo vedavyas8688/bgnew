@@ -47,12 +47,14 @@ const leadSchema = new Schema(
     message: { type: String, default: "", maxlength: 5000 },
     source: { type: String, enum: leadSources, default: "Website" },
     status: { type: String, enum: leadStatuses, default: "New" },
+    favorite: { type: Boolean, default: false },
     adminNote: { type: String, default: "", maxlength: 10000 },
   },
   { timestamps: true },
 );
 leadSchema.index({ createdAt: -1 });
 leadSchema.index({ status: 1, createdAt: -1 });
+leadSchema.index({ favorite: -1, createdAt: -1 });
 const careerSchema = new Schema(
   {
     ...person,

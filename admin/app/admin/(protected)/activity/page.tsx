@@ -3,6 +3,7 @@ import { Search, History } from "lucide-react";
 import PageHeader from "@/components/PageHeader";
 import ActivityTable from "@/components/ActivityTable";
 import { Pagination } from "@/components/ListTools";
+import FilterForm from "@/components/FilterForm";
 import { requireAdmin } from "@/lib/auth";
 import { connectDb } from "@/lib/db";
 import { Activity } from "@/lib/models";
@@ -74,7 +75,7 @@ export default async function ActivityPage({
             Activity log <span className="count-badge">{total}</span>
           </h2>
         </div>
-        <form className="activity-filters" action="/admin/activity">
+        <FilterForm className="activity-filters" action="/admin/activity">
           <label className="search-field">
             <Search size={18} />
             <input
@@ -132,21 +133,18 @@ export default async function ActivityPage({
               defaultValue={query.to}
             />
           </label>
-          <div className="filter-actions">
-            <button className="button button-secondary" type="submit">
-              Apply filters
-            </button>
-            {(query.q ||
-              query.type ||
-              query.action ||
-              query.from ||
-              query.to) && (
+          {(query.q ||
+            query.type ||
+            query.action ||
+            query.from ||
+            query.to) && (
+            <div className="filter-actions">
               <Link className="text-link" href="/admin/activity">
                 Clear
               </Link>
-            )}
-          </div>
-        </form>
+            </div>
+          )}
+        </FilterForm>
         <ActivityTable items={items} />
         <Pagination
           path="/admin/activity"

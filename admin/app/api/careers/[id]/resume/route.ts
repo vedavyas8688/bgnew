@@ -22,6 +22,7 @@ export async function GET(
   const career = await CareerApplication.findById(id).select("+resume.data");
   if (!career) return new NextResponse("Resume not found", { status: 404 });
   const external = safeUrl(career.resume?.externalUrl);
+  const download = new URL(request.url).searchParams.get("download") === "1";
   if (!career.resume?.data && !external)
     return new NextResponse("Resume not found", { status: 404 });
   await audit(
@@ -30,8 +31,10 @@ export async function GET(
     career,
     "resume_viewed",
     external && !career.resume?.data
-      ? "External resume link opened"
-      : "Resume viewed or downloaded",
+      ? `External resume link opened${download ? " for download" : ""}`
+      : download
+        ? "Resume downloaded"
+        : "Resume viewed",
   );
   if (!career.resume?.data && external)
     return NextResponse.redirect(external, {
@@ -51,7 +54,6 @@ export async function GET(
     doc: "application/msword",
     docx: "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
   };
-  const download = new URL(request.url).searchParams.get("download") === "1";
   return new NextResponse(new Uint8Array(career.resume.data), {
     headers: {
       "Content-Type": mime[ext || ""] || "application/octet-stream",

@@ -6,6 +6,7 @@
 @import "./thank-you.css" layer(base);
 @import "./components.css" layer(components);
 @import "./blog.css" layer(components);
+@import "./about.css" layer(components);
 
 @theme {
   --color-brand: #3396d6;
